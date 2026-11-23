@@ -1,0 +1,2997 @@
+[
+  {
+    "promptId": "longdistance-dare-001",
+    "content": "Send your partner a voice message describing one favorite memory together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "voice"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-002",
+    "content": "Plan a virtual date and describe the activities you would include.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "date"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-003",
+    "content": "Show your partner an everyday object nearby and tell the story behind it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "sharing"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-004",
+    "content": "Send your partner a short voice note with a kind message for their next morning.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "voice"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-005",
+    "content": "Describe a place you can both visit on a video call and give it a virtual tour.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "date"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-006",
+    "content": "Give a 20-second pitch encouraging the group to try a message that makes you feel close while apart.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-007",
+    "content": "Invent a playful title for a message that makes you feel close while apart and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-008",
+    "content": "Describe a message that makes you feel close while apart using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-009",
+    "content": "Tell a short story in which a message that makes you feel close while apart gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-010",
+    "content": "Mime a harmless scene involving a message that makes you feel close while apart and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-011",
+    "content": "Name three details that would make a message that makes you feel close while apart more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-012",
+    "content": "Create a two-line rhyme about a message that makes you feel close while apart.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-013",
+    "content": "Compare a message that makes you feel close while apart to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-014",
+    "content": "Pretend to host a one-minute show about a message that makes you feel close while apart.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-015",
+    "content": "Ask another player to add one idea to your plan for a message that makes you feel close while apart.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-016",
+    "content": "Give a 20-second pitch encouraging the group to try a place to visit together on the next trip.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-017",
+    "content": "Invent a playful title for a place to visit together on the next trip and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-018",
+    "content": "Describe a place to visit together on the next trip using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-019",
+    "content": "Tell a short story in which a place to visit together on the next trip gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-020",
+    "content": "Mime a harmless scene involving a place to visit together on the next trip and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-021",
+    "content": "Name three details that would make a place to visit together on the next trip more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-022",
+    "content": "Create a two-line rhyme about a place to visit together on the next trip.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-023",
+    "content": "Compare a place to visit together on the next trip to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-024",
+    "content": "Pretend to host a one-minute show about a place to visit together on the next trip.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-025",
+    "content": "Ask another player to add one idea to your plan for a place to visit together on the next trip.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-026",
+    "content": "Give a 20-second pitch encouraging the group to try a shared routine that works across time zones.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-027",
+    "content": "Invent a playful title for a shared routine that works across time zones and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-028",
+    "content": "Describe a shared routine that works across time zones using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-029",
+    "content": "Tell a short story in which a shared routine that works across time zones gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-030",
+    "content": "Mime a harmless scene involving a shared routine that works across time zones and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-031",
+    "content": "Name three details that would make a shared routine that works across time zones more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-032",
+    "content": "Create a two-line rhyme about a shared routine that works across time zones.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-033",
+    "content": "Compare a shared routine that works across time zones to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-034",
+    "content": "Pretend to host a one-minute show about a shared routine that works across time zones.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-035",
+    "content": "Ask another player to add one idea to your plan for a shared routine that works across time zones.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-036",
+    "content": "Give a 20-second pitch encouraging the group to try a virtual date you would both enjoy.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-037",
+    "content": "Invent a playful title for a virtual date you would both enjoy and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-038",
+    "content": "Describe a virtual date you would both enjoy using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-039",
+    "content": "Tell a short story in which a virtual date you would both enjoy gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-040",
+    "content": "Mime a harmless scene involving a virtual date you would both enjoy and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-041",
+    "content": "Name three details that would make a virtual date you would both enjoy more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-042",
+    "content": "Create a two-line rhyme about a virtual date you would both enjoy.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-043",
+    "content": "Compare a virtual date you would both enjoy to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-044",
+    "content": "Pretend to host a one-minute show about a virtual date you would both enjoy.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-045",
+    "content": "Ask another player to add one idea to your plan for a virtual date you would both enjoy.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-046",
+    "content": "Give a 20-second pitch encouraging the group to try a local view you would like to show your partner.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-047",
+    "content": "Invent a playful title for a local view you would like to show your partner and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-048",
+    "content": "Describe a local view you would like to show your partner using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-049",
+    "content": "Tell a short story in which a local view you would like to show your partner gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-050",
+    "content": "Mime a harmless scene involving a local view you would like to show your partner and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-051",
+    "content": "Name three details that would make a local view you would like to show your partner more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-052",
+    "content": "Create a two-line rhyme about a local view you would like to show your partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-053",
+    "content": "Compare a local view you would like to show your partner to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-054",
+    "content": "Pretend to host a one-minute show about a local view you would like to show your partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-055",
+    "content": "Ask another player to add one idea to your plan for a local view you would like to show your partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-056",
+    "content": "Give a 20-second pitch encouraging the group to try a favorite memory you can revisit on a call.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-057",
+    "content": "Invent a playful title for a favorite memory you can revisit on a call and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-058",
+    "content": "Describe a favorite memory you can revisit on a call using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-059",
+    "content": "Tell a short story in which a favorite memory you can revisit on a call gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-060",
+    "content": "Mime a harmless scene involving a favorite memory you can revisit on a call and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-061",
+    "content": "Name three details that would make a favorite memory you can revisit on a call more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-062",
+    "content": "Create a two-line rhyme about a favorite memory you can revisit on a call.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-063",
+    "content": "Compare a favorite memory you can revisit on a call to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-064",
+    "content": "Pretend to host a one-minute show about a favorite memory you can revisit on a call.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-065",
+    "content": "Ask another player to add one idea to your plan for a favorite memory you can revisit on a call.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-066",
+    "content": "Give a 20-second pitch encouraging the group to try a small package that would brighten a day.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-067",
+    "content": "Invent a playful title for a small package that would brighten a day and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-068",
+    "content": "Describe a small package that would brighten a day using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-069",
+    "content": "Tell a short story in which a small package that would brighten a day gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-070",
+    "content": "Mime a harmless scene involving a small package that would brighten a day and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-071",
+    "content": "Name three details that would make a small package that would brighten a day more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-072",
+    "content": "Create a two-line rhyme about a small package that would brighten a day.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-073",
+    "content": "Compare a small package that would brighten a day to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-074",
+    "content": "Pretend to host a one-minute show about a small package that would brighten a day.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-075",
+    "content": "Ask another player to add one idea to your plan for a small package that would brighten a day.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-076",
+    "content": "Give a 20-second pitch encouraging the group to try a game you could play together online.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-077",
+    "content": "Invent a playful title for a game you could play together online and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-078",
+    "content": "Describe a game you could play together online using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-079",
+    "content": "Tell a short story in which a game you could play together online gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-080",
+    "content": "Mime a harmless scene involving a game you could play together online and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-081",
+    "content": "Name three details that would make a game you could play together online more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-082",
+    "content": "Create a two-line rhyme about a game you could play together online.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-083",
+    "content": "Compare a game you could play together online to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-084",
+    "content": "Pretend to host a one-minute show about a game you could play together online.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-085",
+    "content": "Ask another player to add one idea to your plan for a game you could play together online.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-086",
+    "content": "Give a 20-second pitch encouraging the group to try a meal you could make at the same time.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-087",
+    "content": "Invent a playful title for a meal you could make at the same time and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-088",
+    "content": "Describe a meal you could make at the same time using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-089",
+    "content": "Tell a short story in which a meal you could make at the same time gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-090",
+    "content": "Mime a harmless scene involving a meal you could make at the same time and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-091",
+    "content": "Name three details that would make a meal you could make at the same time more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-092",
+    "content": "Create a two-line rhyme about a meal you could make at the same time.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-093",
+    "content": "Compare a meal you could make at the same time to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-094",
+    "content": "Pretend to host a one-minute show about a meal you could make at the same time.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-095",
+    "content": "Ask another player to add one idea to your plan for a meal you could make at the same time.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-096",
+    "content": "Give a 20-second pitch encouraging the group to try a shared playlist for a long week.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-097",
+    "content": "Invent a playful title for a shared playlist for a long week and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-098",
+    "content": "Describe a shared playlist for a long week using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-099",
+    "content": "Tell a short story in which a shared playlist for a long week gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-100",
+    "content": "Mime a harmless scene involving a shared playlist for a long week and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-101",
+    "content": "Name three details that would make a shared playlist for a long week more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-102",
+    "content": "Create a two-line rhyme about a shared playlist for a long week.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-103",
+    "content": "Compare a shared playlist for a long week to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-104",
+    "content": "Pretend to host a one-minute show about a shared playlist for a long week.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-105",
+    "content": "Ask another player to add one idea to your plan for a shared playlist for a long week.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-106",
+    "content": "Give a 20-second pitch encouraging the group to try a question you enjoy asking during a call.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-107",
+    "content": "Invent a playful title for a question you enjoy asking during a call and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-108",
+    "content": "Describe a question you enjoy asking during a call using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-109",
+    "content": "Tell a short story in which a question you enjoy asking during a call gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-110",
+    "content": "Mime a harmless scene involving a question you enjoy asking during a call and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-111",
+    "content": "Name three details that would make a question you enjoy asking during a call more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-112",
+    "content": "Create a two-line rhyme about a question you enjoy asking during a call.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-113",
+    "content": "Compare a question you enjoy asking during a call to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-114",
+    "content": "Pretend to host a one-minute show about a question you enjoy asking during a call.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-115",
+    "content": "Ask another player to add one idea to your plan for a question you enjoy asking during a call.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-116",
+    "content": "Give a 20-second pitch encouraging the group to try a future plan that gives you both something to anticipate.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-117",
+    "content": "Invent a playful title for a future plan that gives you both something to anticipate and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-118",
+    "content": "Describe a future plan that gives you both something to anticipate using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-119",
+    "content": "Tell a short story in which a future plan that gives you both something to anticipate gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-120",
+    "content": "Mime a harmless scene involving a future plan that gives you both something to anticipate and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-121",
+    "content": "Name three details that would make a future plan that gives you both something to anticipate more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-122",
+    "content": "Create a two-line rhyme about a future plan that gives you both something to anticipate.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-123",
+    "content": "Compare a future plan that gives you both something to anticipate to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-124",
+    "content": "Pretend to host a one-minute show about a future plan that gives you both something to anticipate.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-125",
+    "content": "Ask another player to add one idea to your plan for a future plan that gives you both something to anticipate.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-126",
+    "content": "Give a 20-second pitch encouraging the group to try a way to celebrate a milestone from afar.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-127",
+    "content": "Invent a playful title for a way to celebrate a milestone from afar and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-128",
+    "content": "Describe a way to celebrate a milestone from afar using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-129",
+    "content": "Tell a short story in which a way to celebrate a milestone from afar gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-130",
+    "content": "Mime a harmless scene involving a way to celebrate a milestone from afar and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-131",
+    "content": "Name three details that would make a way to celebrate a milestone from afar more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-132",
+    "content": "Create a two-line rhyme about a way to celebrate a milestone from afar.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-133",
+    "content": "Compare a way to celebrate a milestone from afar to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-134",
+    "content": "Pretend to host a one-minute show about a way to celebrate a milestone from afar.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-135",
+    "content": "Ask another player to add one idea to your plan for a way to celebrate a milestone from afar.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-136",
+    "content": "Give a 20-second pitch encouraging the group to try a photo that tells a story about your day.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-137",
+    "content": "Invent a playful title for a photo that tells a story about your day and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-138",
+    "content": "Describe a photo that tells a story about your day using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-139",
+    "content": "Tell a short story in which a photo that tells a story about your day gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-140",
+    "content": "Mime a harmless scene involving a photo that tells a story about your day and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-141",
+    "content": "Name three details that would make a photo that tells a story about your day more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-142",
+    "content": "Create a two-line rhyme about a photo that tells a story about your day.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-143",
+    "content": "Compare a photo that tells a story about your day to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-144",
+    "content": "Pretend to host a one-minute show about a photo that tells a story about your day.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-145",
+    "content": "Ask another player to add one idea to your plan for a photo that tells a story about your day.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-146",
+    "content": "Give a 20-second pitch encouraging the group to try a kind voice message for a busy morning.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-147",
+    "content": "Invent a playful title for a kind voice message for a busy morning and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-148",
+    "content": "Describe a kind voice message for a busy morning using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-149",
+    "content": "Tell a short story in which a kind voice message for a busy morning gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-150",
+    "content": "Mime a harmless scene involving a kind voice message for a busy morning and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-151",
+    "content": "Name three details that would make a kind voice message for a busy morning more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-152",
+    "content": "Create a two-line rhyme about a kind voice message for a busy morning.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-153",
+    "content": "Compare a kind voice message for a busy morning to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-154",
+    "content": "Pretend to host a one-minute show about a kind voice message for a busy morning.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-155",
+    "content": "Ask another player to add one idea to your plan for a kind voice message for a busy morning.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-156",
+    "content": "Give a 20-second pitch encouraging the group to try a film you could watch at the same time.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-157",
+    "content": "Invent a playful title for a film you could watch at the same time and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-158",
+    "content": "Describe a film you could watch at the same time using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-159",
+    "content": "Tell a short story in which a film you could watch at the same time gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-160",
+    "content": "Mime a harmless scene involving a film you could watch at the same time and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-161",
+    "content": "Name three details that would make a film you could watch at the same time more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-162",
+    "content": "Create a two-line rhyme about a film you could watch at the same time.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-163",
+    "content": "Compare a film you could watch at the same time to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-164",
+    "content": "Pretend to host a one-minute show about a film you could watch at the same time.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-165",
+    "content": "Ask another player to add one idea to your plan for a film you could watch at the same time.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-166",
+    "content": "Give a 20-second pitch encouraging the group to try a hobby you could practice together remotely.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-167",
+    "content": "Invent a playful title for a hobby you could practice together remotely and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-168",
+    "content": "Describe a hobby you could practice together remotely using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-169",
+    "content": "Tell a short story in which a hobby you could practice together remotely gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-170",
+    "content": "Mime a harmless scene involving a hobby you could practice together remotely and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-171",
+    "content": "Name three details that would make a hobby you could practice together remotely more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-172",
+    "content": "Create a two-line rhyme about a hobby you could practice together remotely.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-173",
+    "content": "Compare a hobby you could practice together remotely to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-174",
+    "content": "Pretend to host a one-minute show about a hobby you could practice together remotely.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-175",
+    "content": "Ask another player to add one idea to your plan for a hobby you could practice together remotely.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-176",
+    "content": "Give a 20-second pitch encouraging the group to try a tradition that helps bridge the distance.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-177",
+    "content": "Invent a playful title for a tradition that helps bridge the distance and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-178",
+    "content": "Describe a tradition that helps bridge the distance using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-179",
+    "content": "Tell a short story in which a tradition that helps bridge the distance gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-180",
+    "content": "Mime a harmless scene involving a tradition that helps bridge the distance and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-181",
+    "content": "Name three details that would make a tradition that helps bridge the distance more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-182",
+    "content": "Create a two-line rhyme about a tradition that helps bridge the distance.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-183",
+    "content": "Compare a tradition that helps bridge the distance to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-184",
+    "content": "Pretend to host a one-minute show about a tradition that helps bridge the distance.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-185",
+    "content": "Ask another player to add one idea to your plan for a tradition that helps bridge the distance.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-186",
+    "content": "Give a 20-second pitch encouraging the group to try a place you would explore together on a video call.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-187",
+    "content": "Invent a playful title for a place you would explore together on a video call and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-188",
+    "content": "Describe a place you would explore together on a video call using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-189",
+    "content": "Tell a short story in which a place you would explore together on a video call gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-190",
+    "content": "Mime a harmless scene involving a place you would explore together on a video call and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-191",
+    "content": "Name three details that would make a place you would explore together on a video call more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-192",
+    "content": "Create a two-line rhyme about a place you would explore together on a video call.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-193",
+    "content": "Compare a place you would explore together on a video call to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-194",
+    "content": "Pretend to host a one-minute show about a place you would explore together on a video call.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-195",
+    "content": "Ask another player to add one idea to your plan for a place you would explore together on a video call.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-196",
+    "content": "Give a 20-second pitch encouraging the group to try a simple way to feel included in each other's day.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-197",
+    "content": "Invent a playful title for a simple way to feel included in each other's day and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-198",
+    "content": "Describe a simple way to feel included in each other's day using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-199",
+    "content": "Tell a short story in which a simple way to feel included in each other's day gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "longdistance-dare-200",
+    "content": "Mime a harmless scene involving a simple way to feel included in each other's day and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "long-distance",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  }
+]

@@ -1,0 +1,2997 @@
+[
+  {
+    "promptId": "friends-dare-001",
+    "content": "Perform a dramatic movie scene for the group.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "acting",
+      "party"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-002",
+    "content": "Invent a funny nickname for yourself and explain it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "funny",
+      "party"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-003",
+    "content": "Give a ten-second acceptance speech for winning an imaginary award.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "acting",
+      "party"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-004",
+    "content": "Choose a harmless object nearby and create a slogan for it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "creative",
+      "party"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-005",
+    "content": "Describe your day using only three sound effects and let the group guess what happened.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "acting",
+      "challenge"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-006",
+    "content": "Give a 20-second pitch encouraging the group to try a memorable outing with friends.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-007",
+    "content": "Invent a playful title for a memorable outing with friends and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-008",
+    "content": "Describe a memorable outing with friends using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-009",
+    "content": "Tell a short story in which a memorable outing with friends gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-010",
+    "content": "Mime a harmless scene involving a memorable outing with friends and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-011",
+    "content": "Name three details that would make a memorable outing with friends more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-012",
+    "content": "Create a two-line rhyme about a memorable outing with friends.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-013",
+    "content": "Compare a memorable outing with friends to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-014",
+    "content": "Pretend to host a one-minute show about a memorable outing with friends.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-015",
+    "content": "Ask another player to add one idea to your plan for a memorable outing with friends.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-016",
+    "content": "Give a 20-second pitch encouraging the group to try a skill someone in the group has.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-017",
+    "content": "Invent a playful title for a skill someone in the group has and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-018",
+    "content": "Describe a skill someone in the group has using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-019",
+    "content": "Tell a short story in which a skill someone in the group has gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-020",
+    "content": "Mime a harmless scene involving a skill someone in the group has and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-021",
+    "content": "Name three details that would make a skill someone in the group has more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-022",
+    "content": "Create a two-line rhyme about a skill someone in the group has.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-023",
+    "content": "Compare a skill someone in the group has to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-024",
+    "content": "Pretend to host a one-minute show about a skill someone in the group has.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-025",
+    "content": "Ask another player to add one idea to your plan for a skill someone in the group has.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-026",
+    "content": "Give a 20-second pitch encouraging the group to try a game the group could play together.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-027",
+    "content": "Invent a playful title for a game the group could play together and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-028",
+    "content": "Describe a game the group could play together using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-029",
+    "content": "Tell a short story in which a game the group could play together gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-030",
+    "content": "Mime a harmless scene involving a game the group could play together and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-031",
+    "content": "Name three details that would make a game the group could play together more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-032",
+    "content": "Create a two-line rhyme about a game the group could play together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-033",
+    "content": "Compare a game the group could play together to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-034",
+    "content": "Pretend to host a one-minute show about a game the group could play together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-035",
+    "content": "Ask another player to add one idea to your plan for a game the group could play together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-036",
+    "content": "Give a 20-second pitch encouraging the group to try a funny harmless misunderstanding.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-037",
+    "content": "Invent a playful title for a funny harmless misunderstanding and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-038",
+    "content": "Describe a funny harmless misunderstanding using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-039",
+    "content": "Tell a short story in which a funny harmless misunderstanding gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-040",
+    "content": "Mime a harmless scene involving a funny harmless misunderstanding and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-041",
+    "content": "Name three details that would make a funny harmless misunderstanding more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-042",
+    "content": "Create a two-line rhyme about a funny harmless misunderstanding.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-043",
+    "content": "Compare a funny harmless misunderstanding to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-044",
+    "content": "Pretend to host a one-minute show about a funny harmless misunderstanding.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-045",
+    "content": "Ask another player to add one idea to your plan for a funny harmless misunderstanding.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-046",
+    "content": "Give a 20-second pitch encouraging the group to try a place the group should visit.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-047",
+    "content": "Invent a playful title for a place the group should visit and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-048",
+    "content": "Describe a place the group should visit using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-049",
+    "content": "Tell a short story in which a place the group should visit gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-050",
+    "content": "Mime a harmless scene involving a place the group should visit and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-051",
+    "content": "Name three details that would make a place the group should visit more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-052",
+    "content": "Create a two-line rhyme about a place the group should visit.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-053",
+    "content": "Compare a place the group should visit to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-054",
+    "content": "Pretend to host a one-minute show about a place the group should visit.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-055",
+    "content": "Ask another player to add one idea to your plan for a place the group should visit.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-056",
+    "content": "Give a 20-second pitch encouraging the group to try a theme for the group's next get-together.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-057",
+    "content": "Invent a playful title for a theme for the group's next get-together and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-058",
+    "content": "Describe a theme for the group's next get-together using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-059",
+    "content": "Tell a short story in which a theme for the group's next get-together gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-060",
+    "content": "Mime a harmless scene involving a theme for the group's next get-together and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-061",
+    "content": "Name three details that would make a theme for the group's next get-together more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-062",
+    "content": "Create a two-line rhyme about a theme for the group's next get-together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-063",
+    "content": "Compare a theme for the group's next get-together to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-064",
+    "content": "Pretend to host a one-minute show about a theme for the group's next get-together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-065",
+    "content": "Ask another player to add one idea to your plan for a theme for the group's next get-together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-066",
+    "content": "Give a 20-second pitch encouraging the group to try a song that would start a dance party.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-067",
+    "content": "Invent a playful title for a song that would start a dance party and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-068",
+    "content": "Describe a song that would start a dance party using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-069",
+    "content": "Tell a short story in which a song that would start a dance party gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-070",
+    "content": "Mime a harmless scene involving a song that would start a dance party and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-071",
+    "content": "Name three details that would make a song that would start a dance party more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-072",
+    "content": "Create a two-line rhyme about a song that would start a dance party.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-073",
+    "content": "Compare a song that would start a dance party to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-074",
+    "content": "Pretend to host a one-minute show about a song that would start a dance party.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-075",
+    "content": "Ask another player to add one idea to your plan for a song that would start a dance party.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-076",
+    "content": "Give a 20-second pitch encouraging the group to try a group challenge everyone could enjoy.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-077",
+    "content": "Invent a playful title for a group challenge everyone could enjoy and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-078",
+    "content": "Describe a group challenge everyone could enjoy using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-079",
+    "content": "Tell a short story in which a group challenge everyone could enjoy gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-080",
+    "content": "Mime a harmless scene involving a group challenge everyone could enjoy and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-081",
+    "content": "Name three details that would make a group challenge everyone could enjoy more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-082",
+    "content": "Create a two-line rhyme about a group challenge everyone could enjoy.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-083",
+    "content": "Compare a group challenge everyone could enjoy to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-084",
+    "content": "Pretend to host a one-minute show about a group challenge everyone could enjoy.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-085",
+    "content": "Ask another player to add one idea to your plan for a group challenge everyone could enjoy.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-086",
+    "content": "Give a 20-second pitch encouraging the group to try a useful talent for a team road trip.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-087",
+    "content": "Invent a playful title for a useful talent for a team road trip and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-088",
+    "content": "Describe a useful talent for a team road trip using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-089",
+    "content": "Tell a short story in which a useful talent for a team road trip gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-090",
+    "content": "Mime a harmless scene involving a useful talent for a team road trip and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-091",
+    "content": "Name three details that would make a useful talent for a team road trip more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-092",
+    "content": "Create a two-line rhyme about a useful talent for a team road trip.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-093",
+    "content": "Compare a useful talent for a team road trip to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-094",
+    "content": "Pretend to host a one-minute show about a useful talent for a team road trip.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-095",
+    "content": "Ask another player to add one idea to your plan for a useful talent for a team road trip.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-096",
+    "content": "Give a 20-second pitch encouraging the group to try a favorite shared meal.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-097",
+    "content": "Invent a playful title for a favorite shared meal and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-098",
+    "content": "Describe a favorite shared meal using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-099",
+    "content": "Tell a short story in which a favorite shared meal gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-100",
+    "content": "Mime a harmless scene involving a favorite shared meal and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-101",
+    "content": "Name three details that would make a favorite shared meal more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-102",
+    "content": "Create a two-line rhyme about a favorite shared meal.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-103",
+    "content": "Compare a favorite shared meal to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-104",
+    "content": "Pretend to host a one-minute show about a favorite shared meal.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-105",
+    "content": "Ask another player to add one idea to your plan for a favorite shared meal.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-106",
+    "content": "Give a 20-second pitch encouraging the group to try a made-up award for someone in the group.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-107",
+    "content": "Invent a playful title for a made-up award for someone in the group and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-108",
+    "content": "Describe a made-up award for someone in the group using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-109",
+    "content": "Tell a short story in which a made-up award for someone in the group gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-110",
+    "content": "Mime a harmless scene involving a made-up award for someone in the group and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-111",
+    "content": "Name three details that would make a made-up award for someone in the group more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-112",
+    "content": "Create a two-line rhyme about a made-up award for someone in the group.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-113",
+    "content": "Compare a made-up award for someone in the group to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-114",
+    "content": "Pretend to host a one-minute show about a made-up award for someone in the group.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-115",
+    "content": "Ask another player to add one idea to your plan for a made-up award for someone in the group.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-116",
+    "content": "Give a 20-second pitch encouraging the group to try a club the group could start.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-117",
+    "content": "Invent a playful title for a club the group could start and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-118",
+    "content": "Describe a club the group could start using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-119",
+    "content": "Tell a short story in which a club the group could start gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-120",
+    "content": "Mime a harmless scene involving a club the group could start and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-121",
+    "content": "Name three details that would make a club the group could start more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-122",
+    "content": "Create a two-line rhyme about a club the group could start.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-123",
+    "content": "Compare a club the group could start to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-124",
+    "content": "Pretend to host a one-minute show about a club the group could start.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-125",
+    "content": "Ask another player to add one idea to your plan for a club the group could start.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-126",
+    "content": "Give a 20-second pitch encouraging the group to try a harmless adventure to plan together.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-127",
+    "content": "Invent a playful title for a harmless adventure to plan together and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-128",
+    "content": "Describe a harmless adventure to plan together using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-129",
+    "content": "Tell a short story in which a harmless adventure to plan together gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-130",
+    "content": "Mime a harmless scene involving a harmless adventure to plan together and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-131",
+    "content": "Name three details that would make a harmless adventure to plan together more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-132",
+    "content": "Create a two-line rhyme about a harmless adventure to plan together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-133",
+    "content": "Compare a harmless adventure to plan together to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-134",
+    "content": "Pretend to host a one-minute show about a harmless adventure to plan together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-135",
+    "content": "Ask another player to add one idea to your plan for a harmless adventure to plan together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-136",
+    "content": "Give a 20-second pitch encouraging the group to try a story from a past celebration.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-137",
+    "content": "Invent a playful title for a story from a past celebration and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-138",
+    "content": "Describe a story from a past celebration using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-139",
+    "content": "Tell a short story in which a story from a past celebration gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-140",
+    "content": "Mime a harmless scene involving a story from a past celebration and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-141",
+    "content": "Name three details that would make a story from a past celebration more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-142",
+    "content": "Create a two-line rhyme about a story from a past celebration.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-143",
+    "content": "Compare a story from a past celebration to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-144",
+    "content": "Pretend to host a one-minute show about a story from a past celebration.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-145",
+    "content": "Ask another player to add one idea to your plan for a story from a past celebration.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-146",
+    "content": "Give a 20-second pitch encouraging the group to try a movie-night snack everyone would choose.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-147",
+    "content": "Invent a playful title for a movie-night snack everyone would choose and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-148",
+    "content": "Describe a movie-night snack everyone would choose using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-149",
+    "content": "Tell a short story in which a movie-night snack everyone would choose gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-150",
+    "content": "Mime a harmless scene involving a movie-night snack everyone would choose and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-151",
+    "content": "Name three details that would make a movie-night snack everyone would choose more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-152",
+    "content": "Create a two-line rhyme about a movie-night snack everyone would choose.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-153",
+    "content": "Compare a movie-night snack everyone would choose to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-154",
+    "content": "Pretend to host a one-minute show about a movie-night snack everyone would choose.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-155",
+    "content": "Ask another player to add one idea to your plan for a movie-night snack everyone would choose.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-156",
+    "content": "Give a 20-second pitch encouraging the group to try a group tradition worth keeping.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-157",
+    "content": "Invent a playful title for a group tradition worth keeping and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-158",
+    "content": "Describe a group tradition worth keeping using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-159",
+    "content": "Tell a short story in which a group tradition worth keeping gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-160",
+    "content": "Mime a harmless scene involving a group tradition worth keeping and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-161",
+    "content": "Name three details that would make a group tradition worth keeping more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-162",
+    "content": "Create a two-line rhyme about a group tradition worth keeping.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-163",
+    "content": "Compare a group tradition worth keeping to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-164",
+    "content": "Pretend to host a one-minute show about a group tradition worth keeping.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-165",
+    "content": "Ask another player to add one idea to your plan for a group tradition worth keeping.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-166",
+    "content": "Give a 20-second pitch encouraging the group to try a funny name for a team of friends.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-167",
+    "content": "Invent a playful title for a funny name for a team of friends and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-168",
+    "content": "Describe a funny name for a team of friends using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-169",
+    "content": "Tell a short story in which a funny name for a team of friends gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-170",
+    "content": "Mime a harmless scene involving a funny name for a team of friends and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-171",
+    "content": "Name three details that would make a funny name for a team of friends more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-172",
+    "content": "Create a two-line rhyme about a funny name for a team of friends.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-173",
+    "content": "Compare a funny name for a team of friends to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-174",
+    "content": "Pretend to host a one-minute show about a funny name for a team of friends.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-175",
+    "content": "Ask another player to add one idea to your plan for a funny name for a team of friends.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-176",
+    "content": "Give a 20-second pitch encouraging the group to try a creative way to spend a rainy afternoon.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-177",
+    "content": "Invent a playful title for a creative way to spend a rainy afternoon and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-178",
+    "content": "Describe a creative way to spend a rainy afternoon using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-179",
+    "content": "Tell a short story in which a creative way to spend a rainy afternoon gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-180",
+    "content": "Mime a harmless scene involving a creative way to spend a rainy afternoon and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-181",
+    "content": "Name three details that would make a creative way to spend a rainy afternoon more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-182",
+    "content": "Create a two-line rhyme about a creative way to spend a rainy afternoon.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-183",
+    "content": "Compare a creative way to spend a rainy afternoon to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-184",
+    "content": "Pretend to host a one-minute show about a creative way to spend a rainy afternoon.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-185",
+    "content": "Ask another player to add one idea to your plan for a creative way to spend a rainy afternoon.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-186",
+    "content": "Give a 20-second pitch encouraging the group to try a friendly competition for the group.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-187",
+    "content": "Invent a playful title for a friendly competition for the group and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-188",
+    "content": "Describe a friendly competition for the group using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-189",
+    "content": "Tell a short story in which a friendly competition for the group gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-190",
+    "content": "Mime a harmless scene involving a friendly competition for the group and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-191",
+    "content": "Name three details that would make a friendly competition for the group more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-192",
+    "content": "Create a two-line rhyme about a friendly competition for the group.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-193",
+    "content": "Compare a friendly competition for the group to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-194",
+    "content": "Pretend to host a one-minute show about a friendly competition for the group.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-195",
+    "content": "Ask another player to add one idea to your plan for a friendly competition for the group.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-196",
+    "content": "Give a 20-second pitch encouraging the group to try a kind thing one friend did for another.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-197",
+    "content": "Invent a playful title for a kind thing one friend did for another and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-198",
+    "content": "Describe a kind thing one friend did for another using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-199",
+    "content": "Tell a short story in which a kind thing one friend did for another gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "friends-dare-200",
+    "content": "Mime a harmless scene involving a kind thing one friend did for another and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "tags": [
+      "friends",
+      "party",
+      "dare"
+    ],
+    "active": true
+  }
+]

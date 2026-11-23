@@ -1,0 +1,702 @@
+[
+  {
+    "wordId": "medium-001",
+    "word": "ELEPHANT",
+    "hint": "A large animal with a trunk",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-002",
+    "word": "KEYBOARD",
+    "hint": "Used to type on a computer",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-003",
+    "word": "MOUNTAIN",
+    "hint": "A very high natural landform",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-004",
+    "word": "RAINBOW",
+    "hint": "A colorful arc in the sky",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-005",
+    "word": "LIBRARY",
+    "hint": "A place containing books",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-006",
+    "word": "COMPASS",
+    "hint": "Helps identify directions",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-007",
+    "word": "JOURNEY",
+    "hint": "Travel from one place to another",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-008",
+    "word": "DIAMOND",
+    "hint": "A very hard precious gemstone",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-009",
+    "word": "KEYSTONE",
+    "hint": "The central stone at the top of an arch",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-010",
+    "word": "WHISPER",
+    "hint": "To speak very softly",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-011",
+    "word": "VOLCANO",
+    "hint": "A mountain that can release lava and ash",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-012",
+    "word": "HORIZON",
+    "hint": "The apparent line where the sky meets the land or sea",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-013",
+    "word": "BLANKET",
+    "hint": "A large warm covering for a bed",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-014",
+    "word": "LANTERN",
+    "hint": "A portable light enclosed in a protective case",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-015",
+    "word": "ORCHARD",
+    "hint": "A planted area where fruit trees grow",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-016",
+    "word": "WHISTLE",
+    "hint": "A small device that makes a high-pitched sound when blown",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-017",
+    "word": "FRAGILE",
+    "hint": "Easily broken or damaged",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-018",
+    "word": "NOTEBOOK",
+    "hint": "A book of blank or lined pages for writing notes",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-019",
+    "word": "TROUBLE",
+    "hint": "A difficult or problematic situation",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-020",
+    "word": "CURTAIN",
+    "hint": "A piece of fabric that covers a window",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-021",
+    "word": "TYPICALLY",
+    "hint": "Complete the quiz clue: Which instrument _____ has 88 keys?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-022",
+    "word": "COMPUTER",
+    "hint": "Answer the quiz clue: What does CGI stand for in filmmaking?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-023",
+    "word": "GENERATED",
+    "hint": "Answer the quiz clue: What does CGI stand for in filmmaking?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-024",
+    "word": "IMAGERY",
+    "hint": "Answer the quiz clue: What does CGI stand for in filmmaking?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-025",
+    "word": "THEATRE",
+    "hint": "Answer the quiz clue: Which art form is traditionally associated with a stage and live actors?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-026",
+    "word": "BELONGS",
+    "hint": "Complete the quiz clue: Which instrument _____ to the woodwind family?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-027",
+    "word": "WOODWIND",
+    "hint": "Complete the quiz clue: Which instrument belongs to the _____ family?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-028",
+    "word": "PRIMARILY",
+    "hint": "Complete the quiz clue: What is a screenplay _____ written for?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-029",
+    "word": "WRITTEN",
+    "hint": "Complete the quiz clue: What is a screenplay primarily _____ for?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-030",
+    "word": "STRINGS",
+    "hint": "Complete the quiz clue: How many _____ does a standard violin have?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-031",
+    "word": "STANDARD",
+    "hint": "Complete the quiz clue: How many strings does a _____ violin have?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-032",
+    "word": "ARMSTRONG",
+    "hint": "Complete the quiz clue: Which instrument is associated with Louis _____?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-033",
+    "word": "TRUMPET",
+    "hint": "Answer the quiz clue: Which instrument is associated with Louis Armstrong?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-034",
+    "word": "CLOSELY",
+    "hint": "Complete the quiz clue: Which dance style is _____ associated with Argentina?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-035",
+    "word": "ARGENTINA",
+    "hint": "Complete the quiz clue: Which dance style is closely associated with _____?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-036",
+    "word": "JAPANESE",
+    "hint": "Complete the quiz clue: What is the traditional _____ art of paper folding called?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-037",
+    "word": "FOLDING",
+    "hint": "Complete the quiz clue: What is the traditional Japanese art of paper _____ called?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-038",
+    "word": "ORIGAMI",
+    "hint": "Answer the quiz clue: What is the traditional Japanese art of paper folding called?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-039",
+    "word": "INCLUDES",
+    "hint": "Complete the quiz clue: Which family of instruments _____ the cello?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-040",
+    "word": "APERTURE",
+    "hint": "Complete the quiz clue: In photography, what does a camera's _____ control?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-041",
+    "word": "CONTROL",
+    "hint": "Complete the quiz clue: In photography, what does a camera's aperture _____?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-042",
+    "word": "ENTERING",
+    "hint": "Answer the quiz clue: In photography, what does a camera's aperture control?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-043",
+    "word": "MOVEMENT",
+    "hint": "Complete the quiz clue: Which art _____ is associated with Claude Monet?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-044",
+    "word": "BASSOON",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-045",
+    "word": "PICCOLO",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-046",
+    "word": "CLARINET",
+    "hint": "Complete the quiz clue: Which instrument family does the bass _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-047",
+    "word": "ENGLISH",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ horn belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-048",
+    "word": "SOPRANO",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ saxophone belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-049",
+    "word": "SAXOPHONE",
+    "hint": "Complete the quiz clue: Which instrument family does the soprano _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-050",
+    "word": "BARITONE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ saxophone belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-051",
+    "word": "SOPRANINO",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ recorder belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-052",
+    "word": "RECORDER",
+    "hint": "Complete the quiz clue: Which instrument family does the sopranino _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-053",
+    "word": "BAROQUE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ flute belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-054",
+    "word": "PANPIPES",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-055",
+    "word": "TROMBONE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-056",
+    "word": "EUPHONIUM",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-057",
+    "word": "NATURAL",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ trumpet belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-058",
+    "word": "MANDOLIN",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-059",
+    "word": "UKULELE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-060",
+    "word": "BALALAIKA",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-061",
+    "word": "DULCIMER",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-062",
+    "word": "CHARANGO",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-063",
+    "word": "BOUZOUKI",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-064",
+    "word": "SHAMISEN",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-065",
+    "word": "PSALTERY",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-066",
+    "word": "AUTOHARP",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-067",
+    "word": "CITTERN",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-068",
+    "word": "BANDURA",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-069",
+    "word": "CELESTA",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-070",
+    "word": "MELODICA",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-071",
+    "word": "ELECTRIC",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ piano belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-072",
+    "word": "MARIMBA",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-073",
+    "word": "XYLOPHONE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-074",
+    "word": "TIMPANI",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-075",
+    "word": "TRIANGLE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-076",
+    "word": "CAPITAL",
+    "hint": "Complete the quiz clue: What is the _____ of Japan?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-077",
+    "word": "LARGEST",
+    "hint": "Complete the quiz clue: Which is the _____ ocean?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-078",
+    "word": "PACIFIC",
+    "hint": "Answer the quiz clue: Which is the largest ocean?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-079",
+    "word": "COMMONLY",
+    "hint": "Complete the quiz clue: How many continents are _____ recognized?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-080",
+    "word": "COUNTRY",
+    "hint": "Complete the quiz clue: Which _____ is home to the Great Pyramid of Giza?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-081",
+    "word": "PYRAMID",
+    "hint": "Complete the quiz clue: Which country is home to the Great _____ of Giza?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-082",
+    "word": "CURRENCY",
+    "hint": "Complete the quiz clue: What is the _____ of Switzerland?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-083",
+    "word": "THROUGH",
+    "hint": "Complete the quiz clue: Which river flows _____ Egypt?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-084",
+    "word": "SMALLEST",
+    "hint": "Complete the quiz clue: What is the _____ prime number?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-085",
+    "word": "MANDARIN",
+    "hint": "Answer the quiz clue: Which language is the most widely spoken native language?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-086",
+    "word": "CHINESE",
+    "hint": "Answer the quiz clue: Which language is the most widely spoken native language?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-087",
+    "word": "CONTINENT",
+    "hint": "Complete the quiz clue: On which _____ is the Sahara Desert?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-088",
+    "word": "HEXAGON",
+    "hint": "Complete the quiz clue: How many sides does a _____ have?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-089",
+    "word": "MEASURES",
+    "hint": "Complete the quiz clue: Which instrument _____ atmospheric pressure?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-090",
+    "word": "PRESSURE",
+    "hint": "Complete the quiz clue: Which instrument measures atmospheric _____?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-091",
+    "word": "BAROMETER",
+    "hint": "Answer the quiz clue: Which instrument measures atmospheric pressure?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-092",
+    "word": "MINUTES",
+    "hint": "Complete the quiz clue: How many _____ are in two hours?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-093",
+    "word": "EXCLUDING",
+    "hint": "Complete the quiz clue: Which is the world's largest island, _____ continents?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-094",
+    "word": "GREENLAND",
+    "hint": "Answer the quiz clue: Which is the world's largest island, excluding continents?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-095",
+    "word": "ALBANIA",
+    "hint": "Complete the quiz clue: What is the capital of _____?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-096",
+    "word": "ALGERIA",
+    "hint": "Complete the quiz clue: What is the capital of _____?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-097",
+    "word": "ALGIERS",
+    "hint": "Answer the quiz clue: What is the capital of Algeria?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-098",
+    "word": "ANDORRA",
+    "hint": "Complete the quiz clue: What is the capital of _____?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-099",
+    "word": "ANTIGUA",
+    "hint": "Complete the quiz clue: What is the capital of _____ and Barbuda?",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "wordId": "medium-100",
+    "word": "BARBUDA",
+    "hint": "Complete the quiz clue: What is the capital of Antigua and _____?",
+    "difficulty": "medium",
+    "points": 20
+  }
+]

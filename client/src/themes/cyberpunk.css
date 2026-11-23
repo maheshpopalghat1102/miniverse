@@ -1,0 +1,33 @@
+
+:root[data-theme="cyberpunk"] {
+  color-scheme: dark;
+
+  --bg-primary: #10091F;
+  --bg-secondary: #180D2B;
+  --bg-tertiary: #24113B;
+  --bg-card: #291542;
+  --bg-card-hover: #381B59;
+  --bg-elevated: #45216B;
+
+  --text-primary: #FAF5FF;
+  --text-secondary: #E9D5FF;
+  --text-muted: #BFA5D9;
+  --text-inverse: #10091F;
+
+  --accent-primary: #F0ABFC;
+  --accent-secondary: #22D3EE;
+  --accent-hover: #F5D0FE;
+  --accent-soft: rgba(240, 171, 252, 0.15);
+
+  --border-color: #4C286C;
+  --border-hover: #8050A6;
+  --input-bg: #180D2B;
+
+  --success: #4ADE80;
+  --danger: #FB7185;
+  --warning: #FACC15;
+  --info: #22D3EE;
+
+  --shadow: 0 8px 30px rgba(15, 0, 30, 0.5);
+  --radius: 14px;
+}

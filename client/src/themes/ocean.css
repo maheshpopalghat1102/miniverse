@@ -1,0 +1,33 @@
+
+:root[data-theme="ocean"] {
+  color-scheme: dark;
+
+  --bg-primary: #071B2B;
+  --bg-secondary: #0B263A;
+  --bg-tertiary: #10344A;
+  --bg-card: #103B52;
+  --bg-card-hover: #164C67;
+  --bg-elevated: #1B5871;
+
+  --text-primary: #F0FDFF;
+  --text-secondary: #C5EAF2;
+  --text-muted: #8FBAC8;
+  --text-inverse: #071B2B;
+
+  --accent-primary: #22D3EE;
+  --accent-secondary: #0EA5E9;
+  --accent-hover: #67E8F9;
+  --accent-soft: rgba(34, 211, 238, 0.15);
+
+  --border-color: #22536A;
+  --border-hover: #38829A;
+  --input-bg: #0B263A;
+
+  --success: #34D399;
+  --danger: #FB7185;
+  --warning: #FBBF24;
+  --info: #38BDF8;
+
+  --shadow: 0 8px 30px rgba(0, 12, 25, 0.35);
+  --radius: 14px;
+}

@@ -1,0 +1,501 @@
+
+.gw-container {
+  min-height: 100vh;
+  padding: 28px;
+  color: #f8fafc;
+  background:
+    radial-gradient(circle at 10% 5%, rgba(14, 165, 233, 0.13), transparent 30%),
+    #0b1020;
+  border-radius: 18px;
+}
+
+.gw-container * {
+  box-sizing: border-box;
+}
+
+.gw-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  max-width: 1200px;
+  margin: 0 auto 25px;
+}
+
+.gw-eyebrow {
+  color: #7dd3fc;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1.8px;
+}
+
+.gw-header h1,
+.gw-welcome-card h1,
+.gw-result-card h1 {
+  margin: 7px 0;
+  color: white;
+  font-size: clamp(26px, 4vw, 35px);
+}
+
+.gw-exit-button {
+  padding: 9px 16px;
+  color: #fca5a5;
+  background: rgba(239, 68, 68, 0.09);
+  border: 1px solid rgba(248, 113, 113, 0.25);
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.gw-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.gw-main,
+.gw-sidebar > div {
+  padding: 23px;
+  background: rgba(22, 30, 55, 0.9);
+  border: 1px solid rgba(148, 163, 184, 0.14);
+  border-radius: 17px;
+}
+
+.gw-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+}
+
+.gw-round-info {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 17px;
+  color: #7dd3fc;
+  font-size: 12px;
+  font-weight: 750;
+  text-transform: capitalize;
+}
+
+.gw-clue-card {
+  padding: 23px;
+  text-align: center;
+  background: rgba(14, 165, 233, 0.08);
+  border: 1px solid rgba(56, 189, 248, 0.2);
+  border-radius: 15px;
+}
+
+.gw-clue-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  color: #bae6fd;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.gw-difficulty {
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 10px;
+  text-transform: capitalize;
+}
+
+.gw-easy {
+  color: #86efac;
+  background: rgba(34, 197, 94, 0.12);
+}
+
+.gw-medium {
+  color: #fcd34d;
+  background: rgba(245, 158, 11, 0.12);
+}
+
+.gw-hard {
+  color: #fca5a5;
+  background: rgba(239, 68, 68, 0.12);
+}
+
+.gw-clue-icon {
+  margin: 24px 0 10px;
+  font-size: 40px;
+}
+
+.gw-clue-label {
+  color: #7dd3fc;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.gw-clue-card h2 {
+  margin: 13px 0 18px;
+  color: white;
+  font-size: clamp(19px, 3vw, 26px);
+  line-height: 1.5;
+}
+
+.gw-extra-hints {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 17px;
+}
+
+.gw-extra-hints p {
+  margin: 0;
+  padding: 10px 12px;
+  color: #bae6fd;
+  background: rgba(255, 255, 255, 0.045);
+  border-radius: 8px;
+  font-size: 12px;
+  line-height: 1.6;
+  text-align: left;
+}
+
+.gw-hint-button {
+  padding: 10px 15px;
+  color: #bae6fd;
+  background: rgba(14, 165, 233, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.23);
+  border-radius: 9px;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.gw-hint-button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.gw-answer-form {
+  margin-top: 24px;
+}
+
+.gw-answer-form label {
+  display: block;
+  margin-bottom: 10px;
+  color: #e2e8f0;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.gw-input-row {
+  display: flex;
+  gap: 9px;
+}
+
+.gw-input-row input {
+  flex: 1;
+  min-width: 0;
+  min-height: 47px;
+  padding: 12px 14px;
+  color: white;
+  background: rgba(255, 255, 255, 0.045);
+  border: 1px solid rgba(148, 163, 184, 0.22);
+  border-radius: 9px;
+  outline: none;
+  font-size: 14px;
+}
+
+.gw-input-row input:focus {
+  border-color: #38bdf8;
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.1);
+}
+
+.gw-input-row input::placeholder {
+  color: #64748b;
+}
+
+.gw-input-row input:disabled {
+  opacity: 0.5;
+}
+
+.gw-input-row button {
+  min-width: 105px;
+  padding: 10px 15px;
+  color: white;
+  background: linear-gradient(120deg, #0284c7, #6366f1);
+  border: 0;
+  border-radius: 9px;
+  font-weight: 750;
+  cursor: pointer;
+}
+
+.gw-input-row button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.gw-turn-indicator {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 20px;
+  padding: 13px 15px;
+  color: #cbd5e1;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 10px;
+  font-size: 13px;
+}
+
+.gw-turn-indicator strong {
+  color: #7dd3fc;
+}
+
+.gw-score-card h3,
+.gw-rules-card h3,
+.gw-leaderboard h3 {
+  margin: 0 0 16px;
+  color: white;
+  font-size: 16px;
+}
+
+.gw-score-row {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.1);
+}
+
+.gw-score-row:last-child {
+  border-bottom: 0;
+}
+
+.gw-avatar {
+  display: grid;
+  width: 38px;
+  height: 38px;
+  place-items: center;
+  background: rgba(14, 165, 233, 0.13);
+  border-radius: 50%;
+}
+
+.gw-score-row > div:last-child {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.gw-score-row strong {
+  color: #e2e8f0;
+  font-size: 13px;
+}
+
+.gw-score-row span {
+  color: #94a3b8;
+  font-size: 11px;
+}
+
+.gw-rules-card ul {
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin: 0;
+  padding-left: 18px;
+  color: #aab5ce;
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+.gw-primary-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 47px;
+  margin-top: 18px;
+  padding: 12px 18px;
+  color: white;
+  background: linear-gradient(120deg, #0284c7, #6366f1);
+  border: 0;
+  border-radius: 10px;
+  font-weight: 750;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.gw-primary-button:hover {
+  transform: translateY(-2px);
+}
+
+.gw-round-result {
+  margin-top: 22px;
+  padding: 23px;
+  text-align: center;
+  background: rgba(14, 165, 233, 0.07);
+  border: 1px solid rgba(56, 189, 248, 0.16);
+  border-radius: 14px;
+}
+
+.gw-round-result h2 {
+  color: white;
+}
+
+.gw-round-result > p {
+  color: #cbd5e1;
+  font-size: 13px;
+}
+
+.gw-round-result > p strong {
+  color: #7dd3fc;
+  letter-spacing: 2px;
+}
+
+.gw-result-icon {
+  font-size: 39px;
+}
+
+.gw-round-players {
+  margin: 17px 0;
+  text-align: left;
+}
+
+.gw-round-players > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 12px 0;
+  color: #cbd5e1;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.1);
+  font-size: 12px;
+}
+
+.gw-round-players strong {
+  color: #7dd3fc;
+}
+
+.gw-welcome-card,
+.gw-result-card {
+  width: min(100%, 610px);
+  margin: 45px auto;
+  padding: 35px;
+  text-align: center;
+  background: rgba(22, 30, 55, 0.94);
+  border: 1px solid rgba(148, 163, 184, 0.15);
+  border-radius: 22px;
+}
+
+.gw-game-icon {
+  margin-bottom: 13px;
+  font-size: 50px;
+}
+
+.gw-welcome-card > p,
+.gw-result-card > p {
+  color: #aab5ce;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.gw-player-preview {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 23px 0;
+}
+
+.gw-player-chip {
+  padding: 10px 14px;
+  color: #bae6fd;
+  background: rgba(14, 165, 233, 0.1);
+  border: 1px solid rgba(56, 189, 248, 0.2);
+  border-radius: 30px;
+  font-size: 13px;
+}
+
+.gw-leaderboard {
+  margin: 22px 0;
+  padding: 18px;
+  text-align: left;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 13px;
+}
+
+.gw-leaderboard-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.1);
+  color: #7dd3fc;
+  font-size: 12px;
+}
+
+.gw-leaderboard-row:last-child {
+  border-bottom: 0;
+}
+
+.gw-leaderboard-row strong {
+  flex: 1;
+  color: #e2e8f0;
+}
+
+.gw-text-button {
+  margin-top: 13px;
+  padding: 9px 15px;
+  color: #7dd3fc;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+.gw-error {
+  color: #fca5a5;
+  font-size: 13px;
+}
+
+.gw-muted {
+  color: #94a3b8;
+  font-size: 12px;
+}
+
+@media (max-width: 850px) {
+  .gw-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .gw-sidebar {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .gw-container {
+    padding: 14px;
+  }
+
+  .gw-main,
+  .gw-sidebar > div {
+    padding: 15px;
+  }
+
+  .gw-sidebar {
+    display: flex;
+  }
+
+  .gw-welcome-card,
+  .gw-result-card {
+    margin: 20px auto;
+    padding: 24px 17px;
+  }
+
+  .gw-clue-card {
+    padding: 16px;
+  }
+
+  .gw-input-row {
+    flex-direction: column;
+  }
+
+  .gw-input-row button {
+    min-height: 44px;
+  }
+}

@@ -1,0 +1,183 @@
+
+[
+  {
+    "gameId": "tic-tac-toe",
+    "name": "Tic Tac Toe",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 2 },
+    "difficulty": "easy",
+    "featured": true,
+    "active": true
+  },
+  {
+    "gameId": "rock-paper-scissors",
+    "name": "Rock Paper Scissors",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 2 },
+    "difficulty": "easy",
+    "featured": true,
+    "active": true
+  },
+  {
+    "gameId": "connect-four",
+    "name": "Connect Four",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 2 },
+    "difficulty": "medium",
+    "featured": true,
+    "active": true
+  },
+  {
+    "gameId": "guess-the-number",
+    "name": "Guess the Number",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 2 },
+    "difficulty": "easy",
+    "featured": false,
+    "active": true
+  },
+  {
+    "gameId": "word-battle",
+    "name": "Word Battle",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 2 },
+    "difficulty": "medium",
+    "featured": false,
+    "active": true
+  },
+  {
+    "gameId": "quiz-battle",
+    "name": "Quiz Battle",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 8 },
+    "difficulty": "medium",
+    "featured": true,
+    "active": true
+  },
+  {
+    "gameId": "emoji-guess",
+    "name": "Emoji Guess",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 8 },
+    "difficulty": "easy",
+    "featured": false,
+    "active": true
+  },
+  {
+    "gameId": "truth-or-dare",
+    "name": "Truth or Dare",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 12 },
+    "difficulty": "easy",
+    "featured": true,
+    "active": true
+  },
+  {
+    "gameId": "guess-the-picture",
+    "name": "Guess the Picture",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 8 },
+    "difficulty": "medium",
+    "featured": false,
+    "active": true
+  },
+  {
+    "gameId": "draw-and-guess",
+    "name": "Draw & Guess",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 8 },
+    "difficulty": "medium",
+    "featured": true,
+    "active": true
+  },
+  {
+    "gameId": "who-am-i",
+    "name": "Who Am I?",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 8 },
+    "difficulty": "medium",
+    "featured": false,
+    "active": true
+  },
+  {
+    "gameId": "number-battle",
+    "name": "Number Battle",
+    "category": "multiplayer",
+    "players": { "min": 2, "max": 4 },
+    "difficulty": "medium",
+    "featured": false,
+    "active": true
+  },
+  {
+    "gameId": "snake",
+    "name": "Snake",
+    "category": "single-player",
+    "players": { "min": 1, "max": 1 },
+    "difficulty": "easy",
+    "featured": true,
+    "active": true
+  },
+  {
+    "gameId": "2048",
+    "name": "2048",
+    "category": "single-player",
+    "players": { "min": 1, "max": 1 },
+    "difficulty": "medium",
+    "featured": true,
+    "active": true
+  },
+  {
+    "gameId": "memory-match",
+    "name": "Memory Match",
+    "category": "single-player",
+    "players": { "min": 1, "max": 1 },
+    "difficulty": "easy",
+    "featured": false,
+    "active": true
+  },
+  {
+    "gameId": "number-puzzle",
+    "name": "Number Puzzle",
+    "category": "single-player",
+    "players": { "min": 1, "max": 1 },
+    "difficulty": "medium",
+    "featured": false,
+    "active": true
+  },
+  {
+    "gameId": "couple-quiz",
+    "name": "Couple Quiz",
+    "category": "turn-by-turn",
+    "players": { "min": 2, "max": 2 },
+    "difficulty": "easy",
+    "featured": true,
+    "active": true
+  },
+  {
+    "gameId": "guess-the-word",
+    "name": "Guess the Word",
+    "category": "turn-by-turn",
+    "players": { "min": 2, "max": 4 },
+    "difficulty": "medium",
+    "featured": false,
+    "active": true
+  },
+  {
+    "gameId": "emoji-challenge",
+    "name": "Emoji Challenge",
+    "category": "turn-by-turn",
+    "players": { "min": 2, "max": 4 },
+    "difficulty": "easy",
+    "featured": false,
+    "active": true
+  },
+  {
+    "gameId": "story-builder",
+    "name": "Story Builder",
+    "category": "turn-by-turn",
+    "players": { "min": 2, "max": 8 },
+    "difficulty": "easy",
+    "featured": false,
+    "active": true
+  }
+]

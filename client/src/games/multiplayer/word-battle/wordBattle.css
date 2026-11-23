@@ -1,0 +1,413 @@
+
+.wb-container {
+  position: relative;
+  width: 100%;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 24px;
+  color: #f8fafc;
+  background: #10182c;
+  border: 1px solid rgba(148, 163, 184, 0.15);
+  border-radius: 24px;
+}
+
+.wb-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  margin-bottom: 24px;
+}
+
+.wb-eyebrow {
+  color: #a78bfa;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.wb-header h1 {
+  margin: 7px 0;
+  font-size: 29px;
+}
+
+.wb-header p {
+  margin: 0;
+  color: #94a3b8;
+  font-size: 14px;
+}
+
+.wb-exit-button,
+.wb-primary-button,
+.wb-secondary-button {
+  padding: 11px 18px;
+  border: 0;
+  border-radius: 10px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.wb-exit-button,
+.wb-secondary-button {
+  color: #e2e8f0;
+  background: #26334d;
+}
+
+.wb-game-info {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 9px;
+  margin: 18px 0;
+}
+
+.wb-game-info span {
+  padding: 8px 12px;
+  color: #c4b5fd;
+  background: #252449;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.wb-scoreboard {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 22px 0;
+}
+
+.wb-score-player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px;
+  padding: 16px 10px;
+  background: #1b2942;
+  border: 1px solid transparent;
+  border-radius: 14px;
+}
+
+.wb-score-active {
+  border-color: #a78bfa;
+  background: #252449;
+}
+
+.wb-score-symbol {
+  display: grid;
+  place-items: center;
+  width: 35px;
+  height: 35px;
+  background: #344563;
+  border-radius: 10px;
+  font-weight: 900;
+}
+
+.wb-symbol-x {
+  color: #60a5fa;
+}
+
+.wb-symbol-o {
+  color: #f472b6;
+}
+
+.wb-score-player > strong {
+  font-size: 13px;
+}
+
+.wb-score-number {
+  color: #c4b5fd;
+  font-size: 28px;
+  font-weight: 900;
+}
+
+.wb-score-player small {
+  color: #94a3b8;
+  font-size: 11px;
+}
+
+.wb-chain-card {
+  margin: 20px 0;
+  padding: 20px;
+  background: #1b2942;
+  border: 1px solid #344563;
+  border-radius: 16px;
+  text-align: center;
+}
+
+.wb-chain-card > small {
+  display: block;
+  margin-bottom: 8px;
+  color: #94a3b8;
+  font-size: 10px;
+  letter-spacing: 1.5px;
+}
+
+.wb-chain-card > strong {
+  color: #c4b5fd;
+  font-size: 30px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.wb-chain-card p {
+  margin: 10px 0 0;
+  color: #94a3b8;
+  font-size: 13px;
+}
+
+.wb-chain-card p strong {
+  color: #facc15;
+  font-size: 17px;
+}
+
+.wb-turn {
+  margin: 20px 0;
+  color: #ddd6fe;
+  font-weight: 700;
+  text-align: center;
+}
+
+.wb-error {
+  margin: 12px 0;
+  padding: 12px;
+  color: #fecaca;
+  background: rgba(239, 68, 68, 0.12);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  border-radius: 10px;
+  font-size: 13px;
+}
+
+.wb-input-form {
+  margin: 20px 0;
+  padding: 20px;
+  background: #1b2942;
+  border-radius: 15px;
+}
+
+.wb-input-form label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 13px;
+}
+
+.wb-required-letter {
+  margin-bottom: 12px;
+  color: #94a3b8;
+  font-size: 12px;
+}
+
+.wb-required-letter strong {
+  color: #facc15;
+}
+
+.wb-input-row {
+  display: flex;
+  gap: 10px;
+}
+
+.wb-input-row input {
+  flex: 1;
+  min-width: 0;
+  padding: 13px;
+  color: white;
+  background: #10182c;
+  border: 1px solid #465575;
+  border-radius: 10px;
+  outline: none;
+}
+
+.wb-input-row input:focus {
+  border-color: #a78bfa;
+}
+
+.wb-input-row button,
+.wb-primary-button {
+  color: white;
+  background: #7c3aed;
+}
+
+.wb-input-row button {
+  padding: 12px 18px;
+  border: 0;
+  border-radius: 10px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.wb-input-row button:disabled,
+.wb-primary-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.wb-input-form > small {
+  display: block;
+  margin-top: 10px;
+  color: #94a3b8;
+  font-size: 11px;
+}
+
+.wb-history {
+  margin-top: 25px;
+}
+
+.wb-history-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.wb-history-heading h3 {
+  margin: 0;
+  font-size: 17px;
+}
+
+.wb-history-heading span {
+  color: #94a3b8;
+  font-size: 12px;
+}
+
+.wb-history-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.wb-history-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 11px;
+  background: #1b2942;
+  border-radius: 11px;
+}
+
+.wb-history-round {
+  display: grid;
+  place-items: center;
+  width: 29px;
+  height: 29px;
+  flex: 0 0 auto;
+  color: #c4b5fd;
+  background: #344563;
+  border-radius: 9px;
+  font-size: 11px;
+  font-weight: 800;
+}
+
+.wb-history-item > div {
+  flex: 1;
+  min-width: 0;
+}
+
+.wb-history-item strong,
+.wb-history-item small {
+  display: block;
+  overflow-wrap: anywhere;
+}
+
+.wb-history-item strong {
+  text-transform: capitalize;
+  font-size: 13px;
+}
+
+.wb-history-item small {
+  margin-top: 3px;
+  color: #94a3b8;
+  font-size: 10px;
+}
+
+.wb-history-points {
+  color: #4ade80;
+  font-weight: 800;
+  font-size: 13px;
+}
+
+.wb-empty {
+  padding: 24px;
+  color: #94a3b8;
+  background: #1b2942;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.wb-empty span {
+  font-size: 32px;
+}
+
+.wb-empty p {
+  margin-bottom: 0;
+}
+
+.wb-rematch-notice {
+  color: #c4b5fd;
+  text-align: center;
+}
+
+.wb-result-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 5;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  background: rgba(3, 7, 18, 0.84);
+  border-radius: 24px;
+  backdrop-filter: blur(8px);
+}
+
+.wb-result-card {
+  width: 100%;
+  max-width: 340px;
+  padding: 28px 22px;
+  background: #1b2942;
+  border: 1px solid #465575;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.wb-result-icon {
+  font-size: 48px;
+}
+
+.wb-result-card h2 {
+  margin: 12px 0;
+}
+
+.wb-result-card p {
+  color: #aebbd0;
+}
+
+.wb-primary-button,
+.wb-secondary-button {
+  display: block;
+  width: 100%;
+  margin-top: 12px;
+}
+
+.wb-secondary-button {
+  background: #26334d;
+}
+
+@media (max-width: 520px) {
+  .wb-container {
+    padding: 15px;
+  }
+
+  .wb-header h1 {
+    font-size: 23px;
+  }
+
+  .wb-input-row {
+    flex-direction: column;
+  }
+
+  .wb-input-row button {
+    min-height: 43px;
+  }
+}

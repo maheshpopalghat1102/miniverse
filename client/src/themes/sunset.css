@@ -1,0 +1,33 @@
+
+:root[data-theme="sunset"] {
+  color-scheme: dark;
+
+  --bg-primary: #241329;
+  --bg-secondary: #321A32;
+  --bg-tertiary: #45213B;
+  --bg-card: #54243D;
+  --bg-card-hover: #69304A;
+  --bg-elevated: #783A50;
+
+  --text-primary: #FFF7ED;
+  --text-secondary: #FED7AA;
+  --text-muted: #D6A6A5;
+  --text-inverse: #241329;
+
+  --accent-primary: #FB923C;
+  --accent-secondary: #F472B6;
+  --accent-hover: #FDBA74;
+  --accent-soft: rgba(251, 146, 60, 0.15);
+
+  --border-color: #704052;
+  --border-hover: #A65B60;
+  --input-bg: #321A32;
+
+  --success: #4ADE80;
+  --danger: #FB7185;
+  --warning: #FACC15;
+  --info: #7DD3FC;
+
+  --shadow: 0 8px 30px rgba(20, 5, 20, 0.35);
+  --radius: 14px;
+}

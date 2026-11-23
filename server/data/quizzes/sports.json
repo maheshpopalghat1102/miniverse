@@ -1,0 +1,1402 @@
+[
+  {
+    "questionId": "sports-001",
+    "question": "How many players from one team are on the field in a standard football match?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "A standard football team has 11 players on the field.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "sports-002",
+    "question": "Which sport uses a shuttlecock?",
+    "options": [
+      "Tennis",
+      "Badminton",
+      "Squash",
+      "Table Tennis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Badminton is played using a shuttlecock.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "sports-003",
+    "question": "How many legal balls are there in one over of standard cricket?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "A standard cricket over contains six legal deliveries.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "sports-004",
+    "question": "In which sport is the term 'love' used for a score of zero?",
+    "options": [
+      "Basketball",
+      "Tennis",
+      "Hockey",
+      "Golf"
+    ],
+    "correctIndex": 1,
+    "explanation": "Love represents zero in tennis scoring.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "sports-005",
+    "question": "How many rings are on the Olympic symbol?",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Olympic symbol has five interlocking rings.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "sports-006",
+    "question": "How many points is a free throw worth in basketball?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "explanation": "A successful free throw is worth one point.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "sports-007",
+    "question": "In which sport would you perform a slam dunk?",
+    "options": [
+      "Volleyball",
+      "Basketball",
+      "Handball",
+      "Netball"
+    ],
+    "correctIndex": 1,
+    "explanation": "A slam dunk is a scoring move in basketball.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "sports-008",
+    "question": "What is the standard distance of a marathon?",
+    "options": [
+      "21.1 km",
+      "42.195 km",
+      "50 km",
+      "100 km"
+    ],
+    "correctIndex": 1,
+    "explanation": "A marathon is 42.195 kilometers, or 26 miles and 385 yards.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "sports-009",
+    "question": "Which sport is played at Wimbledon?",
+    "options": [
+      "Golf",
+      "Tennis",
+      "Cricket",
+      "Rugby"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wimbledon is a major tennis tournament.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "sports-010",
+    "question": "How many bases are on a baseball diamond?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correctIndex": 1,
+    "explanation": "A baseball diamond has four bases, including home plate.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "sports-011",
+    "question": "Which country is credited with developing modern judo?",
+    "options": [
+      "China",
+      "Japan",
+      "Brazil",
+      "South Korea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Judo was developed in Japan by Jigoro Kano.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "sports-012",
+    "question": "In golf, what is a score of one under par on a hole called?",
+    "options": [
+      "Eagle",
+      "Birdie",
+      "Bogey",
+      "Albatross"
+    ],
+    "correctIndex": 1,
+    "explanation": "A birdie is one stroke under par on a hole.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "sports-013",
+    "question": "Which sport uses the terms scrum and try?",
+    "options": [
+      "Rugby",
+      "Field hockey",
+      "Baseball",
+      "Swimming"
+    ],
+    "correctIndex": 0,
+    "explanation": "A scrum and a try are features of rugby.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "sports-014",
+    "question": "How many players from one team are on court in volleyball?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indoor volleyball teams have six players on court.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "sports-015",
+    "question": "Which swimming stroke is named after an insect?",
+    "options": [
+      "Backstroke",
+      "Breaststroke",
+      "Butterfly",
+      "Freestyle"
+    ],
+    "correctIndex": 2,
+    "explanation": "The butterfly stroke is named after the insect.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "question": "Which sport uses a scrum?",
+    "options": [
+      "Rugby",
+      "Gymnastics",
+      "Cricket",
+      "Rowing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a scrum is used in Rugby.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-016"
+  },
+  {
+    "question": "Which sport uses a puck?",
+    "options": [
+      "Ice hockey",
+      "Track cycling",
+      "Bowling",
+      "Baseball"
+    ],
+    "correctIndex": 0,
+    "explanation": "a puck is used in Ice hockey.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-017"
+  },
+  {
+    "question": "Which sport uses a pommel horse?",
+    "options": [
+      "Gymnastics",
+      "Golf",
+      "Polo",
+      "Field hockey"
+    ],
+    "correctIndex": 0,
+    "explanation": "a pommel horse is used in Gymnastics.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-018"
+  },
+  {
+    "question": "Which sport uses a foil?",
+    "options": [
+      "Fencing",
+      "Cricket",
+      "Rowing",
+      "Motor racing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a foil is used in Fencing.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-019"
+  },
+  {
+    "question": "Which sport uses a velodrome?",
+    "options": [
+      "Track cycling",
+      "Volleyball",
+      "Snowboarding",
+      "Boxing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a velodrome is used in Track cycling.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-020"
+  },
+  {
+    "question": "Which sport uses a caddie?",
+    "options": [
+      "Golf",
+      "Bowling",
+      "Baseball",
+      "American football"
+    ],
+    "correctIndex": 0,
+    "explanation": "a caddie is used in Golf.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-021"
+  },
+  {
+    "question": "Which sport uses a wicket?",
+    "options": [
+      "Cricket",
+      "Polo",
+      "Field hockey",
+      "Basketball"
+    ],
+    "correctIndex": 0,
+    "explanation": "a wicket is used in Cricket.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-022"
+  },
+  {
+    "question": "Which sport uses a libero?",
+    "options": [
+      "Volleyball",
+      "Rowing",
+      "Motor racing",
+      "Darts"
+    ],
+    "correctIndex": 0,
+    "explanation": "a libero is used in Volleyball.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-023"
+  },
+  {
+    "question": "Which sport uses a pinfall?",
+    "options": [
+      "Bowling",
+      "Snowboarding",
+      "Boxing",
+      "Weightlifting"
+    ],
+    "correctIndex": 0,
+    "explanation": "a pinfall is used in Bowling.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-024"
+  },
+  {
+    "question": "Which sport uses a chukker?",
+    "options": [
+      "Polo",
+      "Baseball",
+      "American football",
+      "Road cycling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a chukker is used in Polo.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-025"
+  },
+  {
+    "question": "Which sport uses a regatta?",
+    "options": [
+      "Rowing",
+      "Field hockey",
+      "Basketball",
+      "Swimming"
+    ],
+    "correctIndex": 0,
+    "explanation": "a regatta is used in Rowing.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-026"
+  },
+  {
+    "question": "Which sport uses a piste?",
+    "options": [
+      "Fencing",
+      "Motor racing",
+      "Darts",
+      "Angling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a piste is used in Fencing.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-027"
+  },
+  {
+    "question": "Which sport uses a halfpipe?",
+    "options": [
+      "Snowboarding",
+      "Boxing",
+      "Weightlifting",
+      "Tennis"
+    ],
+    "correctIndex": 0,
+    "explanation": "a halfpipe is used in Snowboarding.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-028"
+  },
+  {
+    "question": "Which sport uses a strike zone?",
+    "options": [
+      "Baseball",
+      "American football",
+      "Road cycling",
+      "Association football"
+    ],
+    "correctIndex": 0,
+    "explanation": "a strike zone is used in Baseball.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-029"
+  },
+  {
+    "question": "Which sport uses a penalty corner?",
+    "options": [
+      "Field hockey",
+      "Basketball",
+      "Swimming",
+      "Track and field"
+    ],
+    "correctIndex": 0,
+    "explanation": "a penalty corner is used in Field hockey.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-030"
+  },
+  {
+    "question": "Which sport uses a pit stop?",
+    "options": [
+      "Motor racing",
+      "Darts",
+      "Angling",
+      "Karate"
+    ],
+    "correctIndex": 0,
+    "explanation": "a pit stop is used in Motor racing.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-031"
+  },
+  {
+    "question": "Which sport uses a knockout?",
+    "options": [
+      "Boxing",
+      "Weightlifting",
+      "Tennis",
+      "Wrestling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a knockout is used in Boxing.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-032"
+  },
+  {
+    "question": "Which sport uses a face-off?",
+    "options": [
+      "Ice hockey",
+      "Road cycling",
+      "Association football",
+      "Snooker"
+    ],
+    "correctIndex": 0,
+    "explanation": "a face-off is used in Ice hockey.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-033"
+  },
+  {
+    "question": "Which sport uses a touchdown?",
+    "options": [
+      "American football",
+      "Swimming",
+      "Track and field",
+      "Rodeo"
+    ],
+    "correctIndex": 0,
+    "explanation": "a touchdown is used in American football.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-034"
+  },
+  {
+    "question": "Which sport uses a try?",
+    "options": [
+      "Rugby",
+      "Angling",
+      "Karate",
+      "Pole vault"
+    ],
+    "correctIndex": 0,
+    "explanation": "a try is used in Rugby.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-035"
+  },
+  {
+    "question": "Which sport uses a free throw?",
+    "options": [
+      "Basketball",
+      "Tennis",
+      "Wrestling",
+      "Ski jumping"
+    ],
+    "correctIndex": 0,
+    "explanation": "a free throw is used in Basketball.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-036"
+  },
+  {
+    "question": "Which sport uses a home run?",
+    "options": [
+      "Baseball",
+      "Association football",
+      "Snooker",
+      "Alpine skiing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a home run is used in Baseball.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-037"
+  },
+  {
+    "question": "Which sport uses a bullseye?",
+    "options": [
+      "Darts",
+      "Track and field",
+      "Rodeo",
+      "Curling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a bullseye is used in Darts.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-038"
+  },
+  {
+    "question": "Which sport uses a clean and jerk?",
+    "options": [
+      "Weightlifting",
+      "Karate",
+      "Pole vault",
+      "Lacrosse"
+    ],
+    "correctIndex": 0,
+    "explanation": "a clean and jerk is used in Weightlifting.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-039"
+  },
+  {
+    "question": "Which sport uses a peloton?",
+    "options": [
+      "Road cycling",
+      "Wrestling",
+      "Ski jumping",
+      "Canoe racing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a peloton is used in Road cycling.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-040"
+  },
+  {
+    "question": "Which sport uses a coxswain?",
+    "options": [
+      "Rowing",
+      "Snooker",
+      "Alpine skiing",
+      "Canoe slalom"
+    ],
+    "correctIndex": 0,
+    "explanation": "a coxswain is used in Rowing.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-041"
+  },
+  {
+    "question": "Which sport uses a tee box?",
+    "options": [
+      "Golf",
+      "Rodeo",
+      "Curling",
+      "Harness racing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a tee box is used in Golf.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-042"
+  },
+  {
+    "question": "Which sport uses a breakaway?",
+    "options": [
+      "Ice hockey",
+      "Pole vault",
+      "Lacrosse",
+      "Horse racing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a breakaway is used in Ice hockey.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-043"
+  },
+  {
+    "question": "Which sport uses a scrum-half?",
+    "options": [
+      "Rugby",
+      "Ski jumping",
+      "Canoe racing",
+      "Equestrian"
+    ],
+    "correctIndex": 0,
+    "explanation": "a scrum-half is used in Rugby.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-044"
+  },
+  {
+    "question": "Which sport uses a wicketkeeper?",
+    "options": [
+      "Cricket",
+      "Alpine skiing",
+      "Canoe slalom",
+      "Rugby"
+    ],
+    "correctIndex": 0,
+    "explanation": "a wicketkeeper is used in Cricket.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-045"
+  },
+  {
+    "question": "Which sport uses a backstroke?",
+    "options": [
+      "Swimming",
+      "Curling",
+      "Harness racing",
+      "Badminton"
+    ],
+    "correctIndex": 0,
+    "explanation": "a backstroke is used in Swimming.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-046"
+  },
+  {
+    "question": "Which sport uses a bobber?",
+    "options": [
+      "Angling",
+      "Lacrosse",
+      "Horse racing",
+      "Ice hockey"
+    ],
+    "correctIndex": 0,
+    "explanation": "a bobber is used in Angling.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-047"
+  },
+  {
+    "question": "Which sport uses a layup?",
+    "options": [
+      "Basketball",
+      "Canoe racing",
+      "Equestrian",
+      "Gymnastics"
+    ],
+    "correctIndex": 0,
+    "explanation": "a layup is used in Basketball.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-048"
+  },
+  {
+    "question": "Which sport uses a double fault?",
+    "options": [
+      "Tennis",
+      "Canoe slalom",
+      "Rugby",
+      "Fencing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a double fault is used in Tennis.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-049"
+  },
+  {
+    "question": "Which sport uses a penalty shootout?",
+    "options": [
+      "Association football",
+      "Harness racing",
+      "Badminton",
+      "Track cycling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a penalty shootout is used in Association football.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-050"
+  },
+  {
+    "question": "Which sport uses a fast break?",
+    "options": [
+      "Basketball",
+      "Horse racing",
+      "Ice hockey",
+      "Golf"
+    ],
+    "correctIndex": 0,
+    "explanation": "a fast break is used in Basketball.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-051"
+  },
+  {
+    "question": "Which sport uses a red card?",
+    "options": [
+      "Association football",
+      "Equestrian",
+      "Gymnastics",
+      "Cricket"
+    ],
+    "correctIndex": 0,
+    "explanation": "a red card is used in Association football.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-052"
+  },
+  {
+    "question": "Which sport uses a yellow jersey?",
+    "options": [
+      "Road cycling",
+      "Rugby",
+      "Fencing",
+      "Volleyball"
+    ],
+    "correctIndex": 0,
+    "explanation": "a yellow jersey is used in Road cycling.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-053"
+  },
+  {
+    "question": "Which sport uses a double play?",
+    "options": [
+      "Baseball",
+      "Badminton",
+      "Track cycling",
+      "Bowling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a double play is used in Baseball.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-054"
+  },
+  {
+    "question": "Which sport uses a power play?",
+    "options": [
+      "Ice hockey",
+      "Ice hockey",
+      "Golf",
+      "Polo"
+    ],
+    "correctIndex": 0,
+    "explanation": "a power play is used in Ice hockey.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-055"
+  },
+  {
+    "question": "Which sport uses a line-out?",
+    "options": [
+      "Rugby",
+      "Gymnastics",
+      "Cricket",
+      "Rowing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a line-out is used in Rugby.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-056"
+  },
+  {
+    "question": "Which sport uses a setter?",
+    "options": [
+      "Volleyball",
+      "Fencing",
+      "Volleyball",
+      "Snowboarding"
+    ],
+    "correctIndex": 0,
+    "explanation": "a setter is used in Volleyball.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-057"
+  },
+  {
+    "question": "Which sport uses a relay baton?",
+    "options": [
+      "Track and field",
+      "Track cycling",
+      "Bowling",
+      "Baseball"
+    ],
+    "correctIndex": 0,
+    "explanation": "a relay baton is used in Track and field.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-058"
+  },
+  {
+    "question": "Which sport uses a starting block?",
+    "options": [
+      "Track and field",
+      "Golf",
+      "Polo",
+      "Field hockey"
+    ],
+    "correctIndex": 0,
+    "explanation": "a starting block is used in Track and field.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-059"
+  },
+  {
+    "question": "Which sport uses a steeplechase?",
+    "options": [
+      "Track and field",
+      "Cricket",
+      "Rowing",
+      "Motor racing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a steeplechase is used in Track and field.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-060"
+  },
+  {
+    "question": "Which sport uses a decathlon?",
+    "options": [
+      "Track and field",
+      "Volleyball",
+      "Snowboarding",
+      "Boxing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a decathlon is used in Track and field.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-061"
+  },
+  {
+    "question": "Which sport uses a javelin?",
+    "options": [
+      "Track and field",
+      "Bowling",
+      "Baseball",
+      "American football"
+    ],
+    "correctIndex": 0,
+    "explanation": "a javelin is used in Track and field.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-062"
+  },
+  {
+    "question": "Which sport uses a discus?",
+    "options": [
+      "Track and field",
+      "Polo",
+      "Field hockey",
+      "Basketball"
+    ],
+    "correctIndex": 0,
+    "explanation": "a discus is used in Track and field.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-063"
+  },
+  {
+    "question": "Which sport uses a shot put?",
+    "options": [
+      "Track and field",
+      "Rowing",
+      "Motor racing",
+      "Darts"
+    ],
+    "correctIndex": 0,
+    "explanation": "a shot put is used in Track and field.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-064"
+  },
+  {
+    "question": "Which sport uses a kata?",
+    "options": [
+      "Karate",
+      "Snowboarding",
+      "Boxing",
+      "Weightlifting"
+    ],
+    "correctIndex": 0,
+    "explanation": "a kata is used in Karate.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-065"
+  },
+  {
+    "question": "Which sport uses a takedown?",
+    "options": [
+      "Wrestling",
+      "Baseball",
+      "American football",
+      "Road cycling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a takedown is used in Wrestling.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-066"
+  },
+  {
+    "question": "Which sport uses a pin?",
+    "options": [
+      "Wrestling",
+      "Field hockey",
+      "Basketball",
+      "Swimming"
+    ],
+    "correctIndex": 0,
+    "explanation": "a pin is used in Wrestling.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-067"
+  },
+  {
+    "question": "Which sport uses a knock-on?",
+    "options": [
+      "Rugby",
+      "Motor racing",
+      "Darts",
+      "Angling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a knock-on is used in Rugby.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-068"
+  },
+  {
+    "question": "Which sport uses a penalty stroke?",
+    "options": [
+      "Field hockey",
+      "Boxing",
+      "Weightlifting",
+      "Tennis"
+    ],
+    "correctIndex": 0,
+    "explanation": "a penalty stroke is used in Field hockey.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-069"
+  },
+  {
+    "question": "Which sport uses a service ace?",
+    "options": [
+      "Tennis",
+      "American football",
+      "Road cycling",
+      "Association football"
+    ],
+    "correctIndex": 0,
+    "explanation": "a service ace is used in Tennis.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-070"
+  },
+  {
+    "question": "Which sport uses a one-two pass?",
+    "options": [
+      "Association football",
+      "Basketball",
+      "Swimming",
+      "Track and field"
+    ],
+    "correctIndex": 0,
+    "explanation": "a one-two pass is used in Association football.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-071"
+  },
+  {
+    "question": "Which sport uses a penalty kick?",
+    "options": [
+      "Association football",
+      "Darts",
+      "Angling",
+      "Karate"
+    ],
+    "correctIndex": 0,
+    "explanation": "a penalty kick is used in Association football.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-072"
+  },
+  {
+    "question": "Which sport uses a draw play?",
+    "options": [
+      "American football",
+      "Weightlifting",
+      "Tennis",
+      "Wrestling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a draw play is used in American football.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-073"
+  },
+  {
+    "question": "Which sport uses a three-pointer?",
+    "options": [
+      "Basketball",
+      "Road cycling",
+      "Association football",
+      "Snooker"
+    ],
+    "correctIndex": 0,
+    "explanation": "a three-pointer is used in Basketball.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-074"
+  },
+  {
+    "question": "Which sport uses a slam dunk?",
+    "options": [
+      "Basketball",
+      "Swimming",
+      "Track and field",
+      "Rodeo"
+    ],
+    "correctIndex": 0,
+    "explanation": "a slam dunk is used in Basketball.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-075"
+  },
+  {
+    "question": "Which sport uses a strike?",
+    "options": [
+      "Bowling",
+      "Angling",
+      "Karate",
+      "Pole vault"
+    ],
+    "correctIndex": 0,
+    "explanation": "a strike is used in Bowling.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-076"
+  },
+  {
+    "question": "Which sport uses a spare?",
+    "options": [
+      "Bowling",
+      "Tennis",
+      "Wrestling",
+      "Ski jumping"
+    ],
+    "correctIndex": 0,
+    "explanation": "a spare is used in Bowling.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-077"
+  },
+  {
+    "question": "Which sport uses a break?",
+    "options": [
+      "Snooker",
+      "Association football",
+      "Snooker",
+      "Alpine skiing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a break is used in Snooker.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-078"
+  },
+  {
+    "question": "Which sport uses a frame?",
+    "options": [
+      "Snooker",
+      "Track and field",
+      "Rodeo",
+      "Curling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a frame is used in Snooker.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-079"
+  },
+  {
+    "question": "Which sport uses a bull run?",
+    "options": [
+      "Rodeo",
+      "Karate",
+      "Pole vault",
+      "Lacrosse"
+    ],
+    "correctIndex": 0,
+    "explanation": "a bull run is used in Rodeo.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-080"
+  },
+  {
+    "question": "Which sport uses a vaulting pole?",
+    "options": [
+      "Pole vault",
+      "Wrestling",
+      "Ski jumping",
+      "Canoe racing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a vaulting pole is used in Pole vault.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-081"
+  },
+  {
+    "question": "Which sport uses a butterfly stroke?",
+    "options": [
+      "Swimming",
+      "Snooker",
+      "Alpine skiing",
+      "Canoe slalom"
+    ],
+    "correctIndex": 0,
+    "explanation": "a butterfly stroke is used in Swimming.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-082"
+  },
+  {
+    "question": "Which sport uses a backhand?",
+    "options": [
+      "Tennis",
+      "Rodeo",
+      "Curling",
+      "Harness racing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a backhand is used in Tennis.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-083"
+  },
+  {
+    "question": "Which sport uses a forehand?",
+    "options": [
+      "Tennis",
+      "Pole vault",
+      "Lacrosse",
+      "Horse racing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a forehand is used in Tennis.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-084"
+  },
+  {
+    "question": "Which sport uses a coxless four?",
+    "options": [
+      "Rowing",
+      "Ski jumping",
+      "Canoe racing",
+      "Equestrian"
+    ],
+    "correctIndex": 0,
+    "explanation": "a coxless four is used in Rowing.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-085"
+  },
+  {
+    "question": "Which sport uses a scrum cap?",
+    "options": [
+      "Rugby",
+      "Alpine skiing",
+      "Canoe slalom",
+      "Rugby"
+    ],
+    "correctIndex": 0,
+    "explanation": "a scrum cap is used in Rugby.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-086"
+  },
+  {
+    "question": "Which sport uses a scrum machine?",
+    "options": [
+      "Rugby",
+      "Curling",
+      "Harness racing",
+      "Badminton"
+    ],
+    "correctIndex": 0,
+    "explanation": "a scrum machine is used in Rugby.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-087"
+  },
+  {
+    "question": "Which sport uses a ski jump?",
+    "options": [
+      "Ski jumping",
+      "Lacrosse",
+      "Horse racing",
+      "Ice hockey"
+    ],
+    "correctIndex": 0,
+    "explanation": "a ski jump is used in Ski jumping.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-088"
+  },
+  {
+    "question": "Which sport uses a slalom gate?",
+    "options": [
+      "Alpine skiing",
+      "Canoe racing",
+      "Equestrian",
+      "Gymnastics"
+    ],
+    "correctIndex": 0,
+    "explanation": "a slalom gate is used in Alpine skiing.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-089"
+  },
+  {
+    "question": "Which sport uses a curling stone?",
+    "options": [
+      "Curling",
+      "Canoe slalom",
+      "Rugby",
+      "Fencing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a curling stone is used in Curling.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-090"
+  },
+  {
+    "question": "Which sport uses a broom?",
+    "options": [
+      "Curling",
+      "Harness racing",
+      "Badminton",
+      "Track cycling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a broom is used in Curling.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-091"
+  },
+  {
+    "question": "Which sport uses a goal crease?",
+    "options": [
+      "Lacrosse",
+      "Horse racing",
+      "Ice hockey",
+      "Golf"
+    ],
+    "correctIndex": 0,
+    "explanation": "a goal crease is used in Lacrosse.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-092"
+  },
+  {
+    "question": "Which sport uses a faceoff circle?",
+    "options": [
+      "Lacrosse",
+      "Equestrian",
+      "Gymnastics",
+      "Cricket"
+    ],
+    "correctIndex": 0,
+    "explanation": "a faceoff circle is used in Lacrosse.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-093"
+  },
+  {
+    "question": "Which sport uses a pommel?",
+    "options": [
+      "Gymnastics",
+      "Rugby",
+      "Fencing",
+      "Volleyball"
+    ],
+    "correctIndex": 0,
+    "explanation": "a pommel is used in Gymnastics.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-094"
+  },
+  {
+    "question": "Which sport uses a vault?",
+    "options": [
+      "Gymnastics",
+      "Badminton",
+      "Track cycling",
+      "Bowling"
+    ],
+    "correctIndex": 0,
+    "explanation": "a vault is used in Gymnastics.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-095"
+  },
+  {
+    "question": "Which sport uses a balance beam?",
+    "options": [
+      "Gymnastics",
+      "Ice hockey",
+      "Golf",
+      "Polo"
+    ],
+    "correctIndex": 0,
+    "explanation": "a balance beam is used in Gymnastics.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-096"
+  },
+  {
+    "question": "Which sport uses a parallel bars routine?",
+    "options": [
+      "Gymnastics",
+      "Gymnastics",
+      "Cricket",
+      "Rowing"
+    ],
+    "correctIndex": 0,
+    "explanation": "a parallel bars routine is used in Gymnastics.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-097"
+  },
+  {
+    "question": "Which sport uses a bowling lane?",
+    "options": [
+      "Bowling",
+      "Fencing",
+      "Volleyball",
+      "Snowboarding"
+    ],
+    "correctIndex": 0,
+    "explanation": "a bowling lane is used in Bowling.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-098"
+  },
+  {
+    "question": "Which sport uses a split decision?",
+    "options": [
+      "Boxing",
+      "Track cycling",
+      "Bowling",
+      "Baseball"
+    ],
+    "correctIndex": 0,
+    "explanation": "a split decision is used in Boxing.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "sports-099"
+  },
+  {
+    "question": "Which sport uses a clinch?",
+    "options": [
+      "Boxing",
+      "Golf",
+      "Polo",
+      "Field hockey"
+    ],
+    "correctIndex": 0,
+    "explanation": "a clinch is used in Boxing.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "sports-100"
+  }
+]

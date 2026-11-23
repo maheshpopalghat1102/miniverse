@@ -1,0 +1,702 @@
+[
+  {
+    "wordId": "hard-001",
+    "word": "ARCHITECTURE",
+    "hint": "The art and science of designing buildings",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-002",
+    "word": "PHOTOGRAPHY",
+    "hint": "The art of capturing images",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-003",
+    "word": "ASTRONOMICAL",
+    "hint": "Related to stars and space",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-004",
+    "word": "EXTRAORDINARY",
+    "hint": "Very unusual or remarkable",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-005",
+    "word": "ENVIRONMENT",
+    "hint": "The natural world around us",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-006",
+    "word": "CONSCIOUSNESS",
+    "hint": "The state of being aware",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-007",
+    "word": "ENTREPRENEUR",
+    "hint": "A person who starts a business",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-008",
+    "word": "REVOLUTIONARY",
+    "hint": "Involving a dramatic change",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-009",
+    "word": "LABYRINTH",
+    "hint": "A complicated network of paths or passages",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-010",
+    "word": "PERSEVERANCE",
+    "hint": "Continued effort despite difficulty",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-011",
+    "word": "METAMORPHOSIS",
+    "hint": "A major change in form during an animal's life cycle",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-012",
+    "word": "CONSTELLATION",
+    "hint": "A recognized pattern of stars in the night sky",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-013",
+    "word": "MISCELLANEOUS",
+    "hint": "Made up of a variety of different things",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-014",
+    "word": "THERMOMETER",
+    "hint": "An instrument used to measure temperature",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-015",
+    "word": "PHILOSOPHY",
+    "hint": "The study of fundamental questions about knowledge and existence",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-016",
+    "word": "ATMOSPHERE",
+    "hint": "The layer of gases surrounding a planet",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-017",
+    "word": "NAVIGATION",
+    "hint": "The process of planning and following a route",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-018",
+    "word": "IMAGINATION",
+    "hint": "The ability to form ideas or images in the mind",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-019",
+    "word": "TRANQUILITY",
+    "hint": "A state of calm and peacefulness",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-020",
+    "word": "ARCHIPELAGO",
+    "hint": "A group or chain of islands",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-021",
+    "word": "INSTRUMENT",
+    "hint": "Complete the quiz clue: Which _____ typically has 88 keys?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-022",
+    "word": "FILMMAKING",
+    "hint": "Complete the quiz clue: What does CGI stand for in _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-023",
+    "word": "TRADITIONALLY",
+    "hint": "Complete the quiz clue: Which art form is _____ associated with a stage and live actors?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-024",
+    "word": "ASSOCIATED",
+    "hint": "Complete the quiz clue: Which art form is traditionally _____ with a stage and live actors?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-025",
+    "word": "SCREENPLAY",
+    "hint": "Complete the quiz clue: What is a _____ primarily written for?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-026",
+    "word": "TELEVISION",
+    "hint": "Answer the quiz clue: What is a screenplay primarily written for?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-027",
+    "word": "PRODUCTION",
+    "hint": "Answer the quiz clue: What is a screenplay primarily written for?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-028",
+    "word": "AUTOBIOGRAPHY",
+    "hint": "Answer the quiz clue: What is the name for a book about a person's own life, written by that person?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-029",
+    "word": "TRADITIONAL",
+    "hint": "Complete the quiz clue: What is the _____ Japanese art of paper folding called?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-030",
+    "word": "INSTRUMENTS",
+    "hint": "Complete the quiz clue: Which family of _____ includes the cello?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-031",
+    "word": "IMPRESSIONISM",
+    "hint": "Answer the quiz clue: Which art movement is associated with Claude Monet?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-032",
+    "word": "CONTRABASSOON",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-033",
+    "word": "NYCKELHARPA",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-034",
+    "word": "FLUGELHORN",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-035",
+    "word": "SOUSAPHONE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-036",
+    "word": "HARPSICHORD",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-037",
+    "word": "SYNTHESIZER",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-038",
+    "word": "CLAVICHORD",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-039",
+    "word": "PERCUSSION",
+    "hint": "Answer the quiz clue: Which instrument family does the marimba belong to?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-040",
+    "word": "VIBRAPHONE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-041",
+    "word": "GLOCKENSPIEL",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-042",
+    "word": "TAMBOURINE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-043",
+    "word": "CONTINENTS",
+    "hint": "Complete the quiz clue: How many _____ are commonly recognized?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-044",
+    "word": "RECOGNIZED",
+    "hint": "Complete the quiz clue: How many continents are commonly _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-045",
+    "word": "SWITZERLAND",
+    "hint": "Complete the quiz clue: What is the currency of _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-046",
+    "word": "ATMOSPHERIC",
+    "hint": "Complete the quiz clue: Which instrument measures _____ pressure?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-047",
+    "word": "AFGHANISTAN",
+    "hint": "Complete the quiz clue: What is the capital of _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-048",
+    "word": "AZERBAIJAN",
+    "hint": "Complete the quiz clue: What is the capital of _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-049",
+    "word": "BANGLADESH",
+    "hint": "Complete the quiz clue: What is the capital of _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-050",
+    "word": "BRIDGETOWN",
+    "hint": "Answer the quiz clue: What is the capital of Barbados?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-051",
+    "word": "HERZEGOVINA",
+    "hint": "Complete the quiz clue: What is the capital of Bosnia and _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-052",
+    "word": "OUAGADOUGOU",
+    "hint": "Answer the quiz clue: What is the capital of Burkina Faso?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-053",
+    "word": "COPENHAGEN",
+    "hint": "Answer the quiz clue: What is the capital of Denmark?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-054",
+    "word": "EQUATORIAL",
+    "hint": "Complete the quiz clue: What is the capital of _____ Guinea?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-055",
+    "word": "LIBREVILLE",
+    "hint": "Answer the quiz clue: What is the capital of Gabon?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-056",
+    "word": "GEORGETOWN",
+    "hint": "Answer the quiz clue: What is the capital of Guyana?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-057",
+    "word": "TEGUCIGALPA",
+    "hint": "Answer the quiz clue: What is the capital of Honduras?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-058",
+    "word": "KAZAKHSTAN",
+    "hint": "Complete the quiz clue: What is the capital of _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-059",
+    "word": "MITOCHONDRION",
+    "hint": "Answer the quiz clue: Which organelle produces most cellular ATP?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-060",
+    "word": "APPROXIMATE",
+    "hint": "Complete the quiz clue: What is the _____ speed of light in vacuum?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-061",
+    "word": "PHOTOSYNTHESIS",
+    "hint": "Complete the quiz clue: What gas do plants absorb during _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-062",
+    "word": "EVAPORATION",
+    "hint": "Answer the quiz clue: What is the process by which liquid water becomes water vapor?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-063",
+    "word": "TEMPERATURE",
+    "hint": "Complete the quiz clue: What is the pH of a neutral solution at room _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-064",
+    "word": "INFECTIONS",
+    "hint": "Complete the quiz clue: Which blood cells help the body fight _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-065",
+    "word": "PHOSPHORUS",
+    "hint": "Complete the quiz clue: What is the chemical symbol for _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-066",
+    "word": "MOLYBDENUM",
+    "hint": "Complete the quiz clue: What is the chemical symbol for _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-067",
+    "word": "TECHNETIUM",
+    "hint": "Complete the quiz clue: What is the chemical symbol for _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-068",
+    "word": "PRASEODYMIUM",
+    "hint": "Complete the quiz clue: What is the chemical symbol for _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-069",
+    "word": "GADOLINIUM",
+    "hint": "Complete the quiz clue: What is the chemical symbol for _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-070",
+    "word": "DYSPROSIUM",
+    "hint": "Complete the quiz clue: What is the chemical symbol for _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-071",
+    "word": "PROTACTINIUM",
+    "hint": "Complete the quiz clue: What is the chemical symbol for _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-072",
+    "word": "SHUTTLECOCK",
+    "hint": "Complete the quiz clue: Which sport uses a _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-073",
+    "word": "BASKETBALL",
+    "hint": "Complete the quiz clue: How many points is a free throw worth in _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-074",
+    "word": "DEVELOPING",
+    "hint": "Complete the quiz clue: Which country is credited with _____ modern judo?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-075",
+    "word": "VOLLEYBALL",
+    "hint": "Complete the quiz clue: How many players from one team are on court in _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-076",
+    "word": "GYMNASTICS",
+    "hint": "Answer the quiz clue: Which sport uses a pommel horse?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-077",
+    "word": "SNOWBOARDING",
+    "hint": "Answer the quiz clue: Which sport uses a halfpipe?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-078",
+    "word": "WEIGHTLIFTING",
+    "hint": "Answer the quiz clue: Which sport uses a clean and jerk?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-079",
+    "word": "WICKETKEEPER",
+    "hint": "Complete the quiz clue: Which sport uses a _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-080",
+    "word": "BACKSTROKE",
+    "hint": "Complete the quiz clue: Which sport uses a _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-081",
+    "word": "ASSOCIATION",
+    "hint": "Answer the quiz clue: Which sport uses a penalty shootout?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-082",
+    "word": "STEEPLECHASE",
+    "hint": "Complete the quiz clue: Which sport uses a _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-083",
+    "word": "PROCESSING",
+    "hint": "Answer the quiz clue: What does CPU stand for?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-084",
+    "word": "INSPECTION",
+    "hint": "Answer the quiz clue: What does open-source software generally mean?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-085",
+    "word": "AUTHENTICATION",
+    "hint": "Complete the quiz clue: What is two-factor _____ designed to add?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-086",
+    "word": "VERIFICATION",
+    "hint": "Answer the quiz clue: What is two-factor authentication designed to add?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-087",
+    "word": "RELATIONAL",
+    "hint": "Complete the quiz clue: Which language is widely used to query _____ databases?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-088",
+    "word": "DISTRIBUTE",
+    "hint": "Complete the quiz clue: What does a CDN _____ closer to users?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-089",
+    "word": "ACCELERATE",
+    "hint": "Complete the quiz clue: What does a GPU primarily _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-090",
+    "word": "COMPUTATIONS",
+    "hint": "Answer the quiz clue: What does a GPU primarily accelerate?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-091",
+    "word": "REPRESENTATION",
+    "hint": "Answer the quiz clue: What does a compiler translate?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-092",
+    "word": "INFORMATION",
+    "hint": "Answer the quiz clue: What does a QR code encode?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-093",
+    "word": "APPLICATION",
+    "hint": "Complete the quiz clue: What does a container package with an _____?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-094",
+    "word": "DEPENDENCIES",
+    "hint": "Answer the quiz clue: What does a container package with an application?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-095",
+    "word": "DEVELOPMENT",
+    "hint": "Answer the quiz clue: What does a version-control branch isolate?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-096",
+    "word": "CREDENTIALS",
+    "hint": "Answer the quiz clue: What does a password manager store securely?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-097",
+    "word": "ENCRYPTION",
+    "hint": "Complete the quiz clue: What does end-to-end _____ protect?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-098",
+    "word": "COMMUNICATING",
+    "hint": "Answer the quiz clue: What does end-to-end encryption protect?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-099",
+    "word": "MOTHERBOARD",
+    "hint": "Complete the quiz clue: What does a _____ connect?",
+    "difficulty": "hard",
+    "points": 30
+  },
+  {
+    "wordId": "hard-100",
+    "word": "COMPONENTS",
+    "hint": "Answer the quiz clue: What does a motherboard connect?",
+    "difficulty": "hard",
+    "points": 30
+  }
+]

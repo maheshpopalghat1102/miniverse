@@ -1,0 +1,657 @@
+
+.who-am-i-game {
+  position: relative;
+  width: 100%;
+  min-height: 500px;
+  padding: 24px;
+  color: #f8fafc;
+  background: #0b1020;
+  border: 1px solid rgba(148, 163, 184, 0.12);
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.wai-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 25px;
+}
+
+.wai-header-title {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.wai-header-icon {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  font-size: 28px;
+  background: rgba(139, 92, 246, 0.18);
+  border-radius: 15px;
+}
+
+.wai-header-title h1 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.wai-header-title p {
+  margin: 5px 0 0;
+  color: #94a3b8;
+  font-size: 13px;
+}
+
+.wai-exit-button {
+  padding: 10px 14px;
+  color: #fca5a5;
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.wai-start-screen,
+.wai-completed-screen {
+  max-width: 650px;
+  margin: 45px auto;
+  padding: 35px 25px;
+  text-align: center;
+  background: #151d31;
+  border: 1px solid #26334d;
+  border-radius: 20px;
+}
+
+.wai-start-icon,
+.wai-completed-icon {
+  font-size: 55px;
+}
+
+.wai-start-screen h2,
+.wai-completed-screen h2 {
+  margin: 15px 0 10px;
+  font-size: 25px;
+}
+
+.wai-start-screen > p,
+.wai-completed-screen > p {
+  max-width: 480px;
+  margin: 0 auto;
+  color: #94a3b8;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.wai-start-stats {
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+  margin: 30px 0;
+}
+
+.wai-start-stats div {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.wai-start-stats strong {
+  color: #c4b5fd;
+  font-size: 21px;
+}
+
+.wai-start-stats span {
+  color: #94a3b8;
+  font-size: 11px;
+}
+
+.wai-primary-button {
+  min-height: 44px;
+  padding: 12px 20px;
+  color: white;
+  font-weight: 700;
+  background: linear-gradient(120deg, #7c3aed, #4f46e5);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.wai-primary-button:hover:not(:disabled) {
+  transform: translateY(-2px);
+  filter: brightness(1.1);
+}
+
+.wai-primary-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.wai-game-info {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 18px;
+}
+
+.wai-game-info > div {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  padding: 13px;
+  background: #151d31;
+  border: 1px solid #26334d;
+  border-radius: 11px;
+}
+
+.wai-game-info span {
+  color: #94a3b8;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.wai-game-info strong {
+  font-size: 15px;
+}
+
+.wai-identity-card {
+  margin-bottom: 18px;
+  padding: 20px;
+  background: linear-gradient(
+    120deg,
+    rgba(124, 58, 237, 0.2),
+    rgba(37, 99, 235, 0.12)
+  );
+  border: 1px solid rgba(139, 92, 246, 0.3);
+  border-radius: 16px;
+}
+
+.wai-card-top {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.wai-identity-icon {
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  width: 55px;
+  height: 55px;
+  font-size: 28px;
+  background: rgba(139, 92, 246, 0.2);
+  border-radius: 14px;
+}
+
+.wai-card-label {
+  color: #c4b5fd;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 1.4px;
+}
+
+.wai-card-meta h2 {
+  margin: 6px 0 0;
+  font-size: 22px;
+}
+
+.wai-card-footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 17px;
+  padding-top: 14px;
+  color: #cbd5e1;
+  font-size: 11px;
+  border-top: 1px solid rgba(148, 163, 184, 0.15);
+}
+
+.wai-difficulty {
+  text-transform: capitalize;
+}
+
+.wai-easy {
+  color: #86efac;
+}
+
+.wai-medium {
+  color: #fcd34d;
+}
+
+.wai-hard {
+  color: #fca5a5;
+}
+
+.wai-main-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 290px;
+  gap: 18px;
+  align-items: start;
+}
+
+.wai-game-panel,
+.wai-sidebar {
+  min-width: 0;
+}
+
+.wai-clue-section,
+.wai-guess-form,
+.wai-scoreboard,
+.wai-rules {
+  margin-bottom: 16px;
+  padding: 18px;
+  background: #151d31;
+  border: 1px solid #26334d;
+  border-radius: 14px;
+}
+
+.wai-clue-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 17px;
+}
+
+.wai-clue-heading h3 {
+  margin: 0 0 6px;
+  font-size: 16px;
+}
+
+.wai-clue-heading p {
+  margin: 0;
+  color: #94a3b8;
+  font-size: 11px;
+}
+
+.wai-clue-counter {
+  padding: 7px 10px;
+  color: #c4b5fd;
+  background: rgba(139, 92, 246, 0.15);
+  border-radius: 20px;
+  font-size: 11px;
+}
+
+.wai-clue-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.wai-clue-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  background: #0b1020;
+  border: 1px solid #26334d;
+  border-radius: 10px;
+  animation: wai-clue-appear 0.3s ease;
+}
+
+.wai-clue-number {
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  color: #c4b5fd;
+  background: rgba(139, 92, 246, 0.2);
+  border-radius: 8px;
+  font-size: 11px;
+  font-weight: 800;
+}
+
+.wai-clue-item p {
+  flex: 1;
+  margin: 0;
+  color: #e2e8f0;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.wai-clue-check {
+  color: #86efac;
+  font-weight: 900;
+}
+
+.wai-no-clues {
+  padding: 25px 10px;
+  color: #94a3b8;
+  text-align: center;
+  background: #0b1020;
+  border-radius: 10px;
+}
+
+.wai-no-clues span {
+  font-size: 30px;
+}
+
+.wai-no-clues p {
+  margin: 9px 0 0;
+  font-size: 12px;
+}
+
+.wai-reveal-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  width: 100%;
+  margin-top: 16px;
+  padding: 12px;
+  color: #fcd34d;
+  background: rgba(245, 158, 11, 0.1);
+  border: 1px solid rgba(245, 158, 11, 0.25);
+  border-radius: 10px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.wai-reveal-button small {
+  color: #fbbf24;
+  font-size: 10px;
+}
+
+.wai-reveal-button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.wai-guess-form label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.wai-guess-input-row {
+  display: flex;
+  gap: 9px;
+}
+
+.wai-guess-input-row input {
+  flex: 1;
+  min-width: 0;
+  padding: 11px;
+  color: white;
+  background: #0b1020;
+  border: 1px solid #475569;
+  border-radius: 9px;
+  outline: none;
+}
+
+.wai-guess-input-row input:focus {
+  border-color: #8b5cf6;
+}
+
+.wai-result-message {
+  margin: 12px 0;
+  padding: 12px;
+  color: #c4b5fd;
+  background: rgba(139, 92, 246, 0.12);
+  border-radius: 9px;
+  font-size: 13px;
+}
+
+.wai-reveal-answer-button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  color: #fca5a5;
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.wai-round-result {
+  margin-top: 18px;
+  padding: 22px;
+  text-align: center;
+  background: rgba(34, 197, 94, 0.08);
+  border: 1px solid rgba(34, 197, 94, 0.25);
+  border-radius: 14px;
+}
+
+.wai-round-result-icon {
+  font-size: 35px;
+}
+
+.wai-round-result h3 {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+.wai-round-result p {
+  color: #94a3b8;
+  font-size: 13px;
+}
+
+.wai-round-result p strong {
+  color: #86efac;
+}
+
+.wai-points-earned {
+  color: #86efac !important;
+}
+
+.wai-scoreboard h3,
+.wai-rules h3 {
+  margin: 0 0 14px;
+  font-size: 15px;
+}
+
+.wai-player-score,
+.wai-final-player {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+  padding: 10px;
+  background: #0b1020;
+  border-radius: 8px;
+}
+
+.wai-player-score strong,
+.wai-final-player strong {
+  flex: 1;
+  font-size: 12px;
+}
+
+.wai-player-score > span:last-child,
+.wai-final-player > span:last-child {
+  color: #c4b5fd;
+  font-size: 12px;
+}
+
+.wai-rules ul {
+  margin: 0;
+  padding-left: 18px;
+  color: #94a3b8;
+}
+
+.wai-rules li {
+  margin: 9px 0;
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.wai-waiting-message {
+  margin-bottom: 15px;
+  padding: 12px;
+  color: #c4b5fd;
+  text-align: center;
+  background: rgba(139, 92, 246, 0.12);
+  border-radius: 10px;
+}
+
+.wai-final-scoreboard {
+  max-width: 450px;
+  margin: 25px auto;
+}
+
+.wai-error {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 18px;
+  padding: 12px;
+  color: #fecaca;
+  background: rgba(239, 68, 68, 0.12);
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  border-radius: 10px;
+}
+
+.wai-error p {
+  flex: 1;
+  margin: 0;
+  font-size: 12px;
+}
+
+.wai-error button {
+  color: #fecaca;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.wai-loading {
+  position: absolute;
+  inset: 0;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  color: white;
+  background: rgba(11, 16, 32, 0.75);
+  backdrop-filter: blur(4px);
+}
+
+.wai-spinner {
+  width: 35px;
+  height: 35px;
+  border: 3px solid #475569;
+  border-top-color: #a78bfa;
+  border-radius: 50%;
+  animation: wai-spin 0.8s linear infinite;
+}
+
+@keyframes wai-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes wai-clue-appear {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 850px) {
+  .wai-main-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .wai-sidebar {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+
+  .wai-scoreboard,
+  .wai-rules {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .who-am-i-game {
+    padding: 14px;
+  }
+
+  .wai-header-title h1 {
+    font-size: 19px;
+  }
+
+  .wai-header-title p {
+    font-size: 11px;
+  }
+
+  .wai-header-icon {
+    width: 43px;
+    height: 43px;
+    font-size: 23px;
+  }
+
+  .wai-exit-button {
+    padding: 8px;
+    font-size: 11px;
+  }
+
+  .wai-game-info {
+    gap: 7px;
+  }
+
+  .wai-game-info > div {
+    padding: 10px;
+  }
+
+  .wai-game-info strong {
+    font-size: 12px;
+  }
+
+  .wai-game-info span {
+    font-size: 8px;
+  }
+
+  .wai-sidebar {
+    grid-template-columns: 1fr;
+  }
+
+  .wai-card-meta h2 {
+    font-size: 19px;
+  }
+
+  .wai-start-stats {
+    gap: 20px;
+  }
+
+  .wai-guess-input-row {
+    flex-direction: column;
+  }
+
+  .wai-guess-input-row button {
+    width: 100%;
+  }
+}
+
+@media (max-width: 380px) {
+  .wai-header {
+    align-items: flex-start;
+  }
+
+  .wai-header-title {
+    gap: 8px;
+  }
+
+  .wai-start-screen {
+    padding: 25px 15px;
+  }
+}

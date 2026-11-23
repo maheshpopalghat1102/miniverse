@@ -1,0 +1,2997 @@
+[
+  {
+    "promptId": "couples-dare-001",
+    "content": "Give your partner three genuine compliments.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "compliments"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-002",
+    "content": "Describe your dream weekend together in one minute.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "dreams"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-003",
+    "content": "Take turns naming one thing you appreciate about each other.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "appreciation"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-004",
+    "content": "Plan a pretend day trip together, taking turns choosing each activity.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "creative"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-005",
+    "content": "Re-create how you first greeted each other, keeping it kind and comfortable.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "memories"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-006",
+    "content": "Give a 20-second pitch encouraging the group to try a simple moment you enjoy sharing together.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-007",
+    "content": "Invent a playful title for a simple moment you enjoy sharing together and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-008",
+    "content": "Describe a simple moment you enjoy sharing together using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-009",
+    "content": "Tell a short story in which a simple moment you enjoy sharing together gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-010",
+    "content": "Mime a harmless scene involving a simple moment you enjoy sharing together and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-011",
+    "content": "Name three details that would make a simple moment you enjoy sharing together more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-012",
+    "content": "Create a two-line rhyme about a simple moment you enjoy sharing together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-013",
+    "content": "Compare a simple moment you enjoy sharing together to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-014",
+    "content": "Pretend to host a one-minute show about a simple moment you enjoy sharing together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-015",
+    "content": "Ask another player to add one idea to your plan for a simple moment you enjoy sharing together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-016",
+    "content": "Give a 20-second pitch encouraging the group to try a trip you would like to take as a couple.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-017",
+    "content": "Invent a playful title for a trip you would like to take as a couple and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-018",
+    "content": "Describe a trip you would like to take as a couple using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-019",
+    "content": "Tell a short story in which a trip you would like to take as a couple gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-020",
+    "content": "Mime a harmless scene involving a trip you would like to take as a couple and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-021",
+    "content": "Name three details that would make a trip you would like to take as a couple more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-022",
+    "content": "Create a two-line rhyme about a trip you would like to take as a couple.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-023",
+    "content": "Compare a trip you would like to take as a couple to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-024",
+    "content": "Pretend to host a one-minute show about a trip you would like to take as a couple.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-025",
+    "content": "Ask another player to add one idea to your plan for a trip you would like to take as a couple.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-026",
+    "content": "Give a 20-second pitch encouraging the group to try a meal you would enjoy cooking together.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-027",
+    "content": "Invent a playful title for a meal you would enjoy cooking together and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-028",
+    "content": "Describe a meal you would enjoy cooking together using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-029",
+    "content": "Tell a short story in which a meal you would enjoy cooking together gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-030",
+    "content": "Mime a harmless scene involving a meal you would enjoy cooking together and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-031",
+    "content": "Name three details that would make a meal you would enjoy cooking together more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-032",
+    "content": "Create a two-line rhyme about a meal you would enjoy cooking together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-033",
+    "content": "Compare a meal you would enjoy cooking together to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-034",
+    "content": "Pretend to host a one-minute show about a meal you would enjoy cooking together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-035",
+    "content": "Ask another player to add one idea to your plan for a meal you would enjoy cooking together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-036",
+    "content": "Give a 20-second pitch encouraging the group to try a new activity you could learn as a team.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-037",
+    "content": "Invent a playful title for a new activity you could learn as a team and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-038",
+    "content": "Describe a new activity you could learn as a team using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-039",
+    "content": "Tell a short story in which a new activity you could learn as a team gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-040",
+    "content": "Mime a harmless scene involving a new activity you could learn as a team and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-041",
+    "content": "Name three details that would make a new activity you could learn as a team more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-042",
+    "content": "Create a two-line rhyme about a new activity you could learn as a team.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-043",
+    "content": "Compare a new activity you could learn as a team to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-044",
+    "content": "Pretend to host a one-minute show about a new activity you could learn as a team.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-045",
+    "content": "Ask another player to add one idea to your plan for a new activity you could learn as a team.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-046",
+    "content": "Give a 20-second pitch encouraging the group to try a way your partner makes an ordinary day better.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-047",
+    "content": "Invent a playful title for a way your partner makes an ordinary day better and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-048",
+    "content": "Describe a way your partner makes an ordinary day better using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-049",
+    "content": "Tell a short story in which a way your partner makes an ordinary day better gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-050",
+    "content": "Mime a harmless scene involving a way your partner makes an ordinary day better and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-051",
+    "content": "Name three details that would make a way your partner makes an ordinary day better more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-052",
+    "content": "Create a two-line rhyme about a way your partner makes an ordinary day better.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-053",
+    "content": "Compare a way your partner makes an ordinary day better to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-054",
+    "content": "Pretend to host a one-minute show about a way your partner makes an ordinary day better.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-055",
+    "content": "Ask another player to add one idea to your plan for a way your partner makes an ordinary day better.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-056",
+    "content": "Give a 20-second pitch encouraging the group to try a tradition you might create together.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-057",
+    "content": "Invent a playful title for a tradition you might create together and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-058",
+    "content": "Describe a tradition you might create together using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-059",
+    "content": "Tell a short story in which a tradition you might create together gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-060",
+    "content": "Mime a harmless scene involving a tradition you might create together and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-061",
+    "content": "Name three details that would make a tradition you might create together more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-062",
+    "content": "Create a two-line rhyme about a tradition you might create together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-063",
+    "content": "Compare a tradition you might create together to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-064",
+    "content": "Pretend to host a one-minute show about a tradition you might create together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-065",
+    "content": "Ask another player to add one idea to your plan for a tradition you might create together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-066",
+    "content": "Give a 20-second pitch encouraging the group to try a favorite memory from your time together.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-067",
+    "content": "Invent a playful title for a favorite memory from your time together and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-068",
+    "content": "Describe a favorite memory from your time together using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-069",
+    "content": "Tell a short story in which a favorite memory from your time together gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-070",
+    "content": "Mime a harmless scene involving a favorite memory from your time together and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-071",
+    "content": "Name three details that would make a favorite memory from your time together more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-072",
+    "content": "Create a two-line rhyme about a favorite memory from your time together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-073",
+    "content": "Compare a favorite memory from your time together to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-074",
+    "content": "Pretend to host a one-minute show about a favorite memory from your time together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-075",
+    "content": "Ask another player to add one idea to your plan for a favorite memory from your time together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-076",
+    "content": "Give a 20-second pitch encouraging the group to try a shared goal you would like to work toward.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-077",
+    "content": "Invent a playful title for a shared goal you would like to work toward and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-078",
+    "content": "Describe a shared goal you would like to work toward using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-079",
+    "content": "Tell a short story in which a shared goal you would like to work toward gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-080",
+    "content": "Mime a harmless scene involving a shared goal you would like to work toward and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-081",
+    "content": "Name three details that would make a shared goal you would like to work toward more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-082",
+    "content": "Create a two-line rhyme about a shared goal you would like to work toward.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-083",
+    "content": "Compare a shared goal you would like to work toward to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-084",
+    "content": "Pretend to host a one-minute show about a shared goal you would like to work toward.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-085",
+    "content": "Ask another player to add one idea to your plan for a shared goal you would like to work toward.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-086",
+    "content": "Give a 20-second pitch encouraging the group to try a relaxing weekend you could plan together.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-087",
+    "content": "Invent a playful title for a relaxing weekend you could plan together and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-088",
+    "content": "Describe a relaxing weekend you could plan together using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-089",
+    "content": "Tell a short story in which a relaxing weekend you could plan together gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-090",
+    "content": "Mime a harmless scene involving a relaxing weekend you could plan together and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-091",
+    "content": "Name three details that would make a relaxing weekend you could plan together more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-092",
+    "content": "Create a two-line rhyme about a relaxing weekend you could plan together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-093",
+    "content": "Compare a relaxing weekend you could plan together to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-094",
+    "content": "Pretend to host a one-minute show about a relaxing weekend you could plan together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-095",
+    "content": "Ask another player to add one idea to your plan for a relaxing weekend you could plan together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-096",
+    "content": "Give a 20-second pitch encouraging the group to try a quality you appreciate in your partner.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-097",
+    "content": "Invent a playful title for a quality you appreciate in your partner and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-098",
+    "content": "Describe a quality you appreciate in your partner using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-099",
+    "content": "Tell a short story in which a quality you appreciate in your partner gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-100",
+    "content": "Mime a harmless scene involving a quality you appreciate in your partner and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-101",
+    "content": "Name three details that would make a quality you appreciate in your partner more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-102",
+    "content": "Create a two-line rhyme about a quality you appreciate in your partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-103",
+    "content": "Compare a quality you appreciate in your partner to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-104",
+    "content": "Pretend to host a one-minute show about a quality you appreciate in your partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-105",
+    "content": "Ask another player to add one idea to your plan for a quality you appreciate in your partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-106",
+    "content": "Give a 20-second pitch encouraging the group to try a place you would like to show your partner.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-107",
+    "content": "Invent a playful title for a place you would like to show your partner and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-108",
+    "content": "Describe a place you would like to show your partner using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-109",
+    "content": "Tell a short story in which a place you would like to show your partner gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-110",
+    "content": "Mime a harmless scene involving a place you would like to show your partner and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-111",
+    "content": "Name three details that would make a place you would like to show your partner more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-112",
+    "content": "Create a two-line rhyme about a place you would like to show your partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-113",
+    "content": "Compare a place you would like to show your partner to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-114",
+    "content": "Pretend to host a one-minute show about a place you would like to show your partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-115",
+    "content": "Ask another player to add one idea to your plan for a place you would like to show your partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-116",
+    "content": "Give a 20-second pitch encouraging the group to try a small surprise that would make your partner smile.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-117",
+    "content": "Invent a playful title for a small surprise that would make your partner smile and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-118",
+    "content": "Describe a small surprise that would make your partner smile using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-119",
+    "content": "Tell a short story in which a small surprise that would make your partner smile gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-120",
+    "content": "Mime a harmless scene involving a small surprise that would make your partner smile and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-121",
+    "content": "Name three details that would make a small surprise that would make your partner smile more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-122",
+    "content": "Create a two-line rhyme about a small surprise that would make your partner smile.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-123",
+    "content": "Compare a small surprise that would make your partner smile to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-124",
+    "content": "Pretend to host a one-minute show about a small surprise that would make your partner smile.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-125",
+    "content": "Ask another player to add one idea to your plan for a small surprise that would make your partner smile.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-126",
+    "content": "Give a 20-second pitch encouraging the group to try a conversation you would like to have together.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-127",
+    "content": "Invent a playful title for a conversation you would like to have together and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-128",
+    "content": "Describe a conversation you would like to have together using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-129",
+    "content": "Tell a short story in which a conversation you would like to have together gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-130",
+    "content": "Mime a harmless scene involving a conversation you would like to have together and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-131",
+    "content": "Name three details that would make a conversation you would like to have together more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-132",
+    "content": "Create a two-line rhyme about a conversation you would like to have together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-133",
+    "content": "Compare a conversation you would like to have together to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-134",
+    "content": "Pretend to host a one-minute show about a conversation you would like to have together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-135",
+    "content": "Ask another player to add one idea to your plan for a conversation you would like to have together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-136",
+    "content": "Give a 20-second pitch encouraging the group to try a hobby you could enjoy as a pair.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-137",
+    "content": "Invent a playful title for a hobby you could enjoy as a pair and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-138",
+    "content": "Describe a hobby you could enjoy as a pair using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-139",
+    "content": "Tell a short story in which a hobby you could enjoy as a pair gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-140",
+    "content": "Mime a harmless scene involving a hobby you could enjoy as a pair and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-141",
+    "content": "Name three details that would make a hobby you could enjoy as a pair more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-142",
+    "content": "Create a two-line rhyme about a hobby you could enjoy as a pair.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-143",
+    "content": "Compare a hobby you could enjoy as a pair to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-144",
+    "content": "Pretend to host a one-minute show about a hobby you could enjoy as a pair.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-145",
+    "content": "Ask another player to add one idea to your plan for a hobby you could enjoy as a pair.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-146",
+    "content": "Give a 20-second pitch encouraging the group to try a way to support each other during a busy week.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-147",
+    "content": "Invent a playful title for a way to support each other during a busy week and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-148",
+    "content": "Describe a way to support each other during a busy week using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-149",
+    "content": "Tell a short story in which a way to support each other during a busy week gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-150",
+    "content": "Mime a harmless scene involving a way to support each other during a busy week and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-151",
+    "content": "Name three details that would make a way to support each other during a busy week more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-152",
+    "content": "Create a two-line rhyme about a way to support each other during a busy week.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-153",
+    "content": "Compare a way to support each other during a busy week to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-154",
+    "content": "Pretend to host a one-minute show about a way to support each other during a busy week.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-155",
+    "content": "Ask another player to add one idea to your plan for a way to support each other during a busy week.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-156",
+    "content": "Give a 20-second pitch encouraging the group to try a kind gesture you would like to repeat.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-157",
+    "content": "Invent a playful title for a kind gesture you would like to repeat and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-158",
+    "content": "Describe a kind gesture you would like to repeat using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-159",
+    "content": "Tell a short story in which a kind gesture you would like to repeat gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-160",
+    "content": "Mime a harmless scene involving a kind gesture you would like to repeat and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-161",
+    "content": "Name three details that would make a kind gesture you would like to repeat more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-162",
+    "content": "Create a two-line rhyme about a kind gesture you would like to repeat.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-163",
+    "content": "Compare a kind gesture you would like to repeat to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-164",
+    "content": "Pretend to host a one-minute show about a kind gesture you would like to repeat.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-165",
+    "content": "Ask another player to add one idea to your plan for a kind gesture you would like to repeat.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-166",
+    "content": "Give a 20-second pitch encouraging the group to try a future experience you are excited to share.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-167",
+    "content": "Invent a playful title for a future experience you are excited to share and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-168",
+    "content": "Describe a future experience you are excited to share using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-169",
+    "content": "Tell a short story in which a future experience you are excited to share gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-170",
+    "content": "Mime a harmless scene involving a future experience you are excited to share and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-171",
+    "content": "Name three details that would make a future experience you are excited to share more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-172",
+    "content": "Create a two-line rhyme about a future experience you are excited to share.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-173",
+    "content": "Compare a future experience you are excited to share to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-174",
+    "content": "Pretend to host a one-minute show about a future experience you are excited to share.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-175",
+    "content": "Ask another player to add one idea to your plan for a future experience you are excited to share.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-176",
+    "content": "Give a 20-second pitch encouraging the group to try a song that reminds you of time together.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-177",
+    "content": "Invent a playful title for a song that reminds you of time together and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-178",
+    "content": "Describe a song that reminds you of time together using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-179",
+    "content": "Tell a short story in which a song that reminds you of time together gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-180",
+    "content": "Mime a harmless scene involving a song that reminds you of time together and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-181",
+    "content": "Name three details that would make a song that reminds you of time together more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-182",
+    "content": "Create a two-line rhyme about a song that reminds you of time together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-183",
+    "content": "Compare a song that reminds you of time together to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-184",
+    "content": "Pretend to host a one-minute show about a song that reminds you of time together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-185",
+    "content": "Ask another player to add one idea to your plan for a song that reminds you of time together.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-186",
+    "content": "Give a 20-second pitch encouraging the group to try a way you have grown as a team.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-187",
+    "content": "Invent a playful title for a way you have grown as a team and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-188",
+    "content": "Describe a way you have grown as a team using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-189",
+    "content": "Tell a short story in which a way you have grown as a team gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-190",
+    "content": "Mime a harmless scene involving a way you have grown as a team and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-191",
+    "content": "Name three details that would make a way you have grown as a team more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-192",
+    "content": "Create a two-line rhyme about a way you have grown as a team.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-193",
+    "content": "Compare a way you have grown as a team to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-194",
+    "content": "Pretend to host a one-minute show about a way you have grown as a team.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-195",
+    "content": "Ask another player to add one idea to your plan for a way you have grown as a team.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-196",
+    "content": "Give a 20-second pitch encouraging the group to try a fun date idea that fits both of your interests.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-197",
+    "content": "Invent a playful title for a fun date idea that fits both of your interests and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-198",
+    "content": "Describe a fun date idea that fits both of your interests using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-199",
+    "content": "Tell a short story in which a fun date idea that fits both of your interests gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "couples-dare-200",
+    "content": "Mime a harmless scene involving a fun date idea that fits both of your interests and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "couples",
+      "connection",
+      "dare"
+    ],
+    "active": true
+  }
+]

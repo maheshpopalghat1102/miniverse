@@ -1,0 +1,2996 @@
+[
+  {
+    "promptId": "normal-dare-001",
+    "content": "Sing the chorus of your favorite song.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "music",
+      "fun"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-002",
+    "content": "Do your best impression of an animal for 20 seconds.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "acting",
+      "funny"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-003",
+    "content": "Try to say the alphabet backwards.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "challenge",
+      "fun"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-004",
+    "content": "Describe your favorite meal as if you were hosting a cooking show.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "food",
+      "acting"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-005",
+    "content": "Name five animals in ten seconds.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "quick-thinking",
+      "challenge"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-006",
+    "content": "Make up a short, cheerful greeting and use it to welcome everyone.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "creative",
+      "fun"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-007",
+    "content": "Give a 20-second pitch encouraging the group to try a meal you remember fondly.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-008",
+    "content": "Invent a playful title for a meal you remember fondly and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-009",
+    "content": "Describe a meal you remember fondly using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-010",
+    "content": "Tell a short story in which a meal you remember fondly gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-011",
+    "content": "Mime a harmless scene involving a meal you remember fondly and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-012",
+    "content": "Name three details that would make a meal you remember fondly more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-013",
+    "content": "Create a two-line rhyme about a meal you remember fondly.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-014",
+    "content": "Compare a meal you remember fondly to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-015",
+    "content": "Pretend to host a one-minute show about a meal you remember fondly.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-016",
+    "content": "Ask another player to add one idea to your plan for a meal you remember fondly.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-017",
+    "content": "Give a 20-second pitch encouraging the group to try a hobby you want to try.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-018",
+    "content": "Invent a playful title for a hobby you want to try and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-019",
+    "content": "Describe a hobby you want to try using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-020",
+    "content": "Tell a short story in which a hobby you want to try gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-021",
+    "content": "Mime a harmless scene involving a hobby you want to try and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-022",
+    "content": "Name three details that would make a hobby you want to try more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-023",
+    "content": "Create a two-line rhyme about a hobby you want to try.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-024",
+    "content": "Compare a hobby you want to try to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-025",
+    "content": "Pretend to host a one-minute show about a hobby you want to try.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-026",
+    "content": "Ask another player to add one idea to your plan for a hobby you want to try.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-027",
+    "content": "Give a 20-second pitch encouraging the group to try a place you enjoy visiting.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-028",
+    "content": "Invent a playful title for a place you enjoy visiting and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-029",
+    "content": "Describe a place you enjoy visiting using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-030",
+    "content": "Tell a short story in which a place you enjoy visiting gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-031",
+    "content": "Mime a harmless scene involving a place you enjoy visiting and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-032",
+    "content": "Name three details that would make a place you enjoy visiting more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-033",
+    "content": "Create a two-line rhyme about a place you enjoy visiting.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-034",
+    "content": "Compare a place you enjoy visiting to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-035",
+    "content": "Pretend to host a one-minute show about a place you enjoy visiting.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-036",
+    "content": "Ask another player to add one idea to your plan for a place you enjoy visiting.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-037",
+    "content": "Give a 20-second pitch encouraging the group to try a song that changes your mood.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-038",
+    "content": "Invent a playful title for a song that changes your mood and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-039",
+    "content": "Describe a song that changes your mood using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-040",
+    "content": "Tell a short story in which a song that changes your mood gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-041",
+    "content": "Mime a harmless scene involving a song that changes your mood and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-042",
+    "content": "Name three details that would make a song that changes your mood more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-043",
+    "content": "Create a two-line rhyme about a song that changes your mood.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-044",
+    "content": "Compare a song that changes your mood to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-045",
+    "content": "Pretend to host a one-minute show about a song that changes your mood.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-046",
+    "content": "Ask another player to add one idea to your plan for a song that changes your mood.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-047",
+    "content": "Give a 20-second pitch encouraging the group to try a skill you would like to learn.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-048",
+    "content": "Invent a playful title for a skill you would like to learn and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-049",
+    "content": "Describe a skill you would like to learn using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-050",
+    "content": "Tell a short story in which a skill you would like to learn gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-051",
+    "content": "Mime a harmless scene involving a skill you would like to learn and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-052",
+    "content": "Name three details that would make a skill you would like to learn more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-053",
+    "content": "Create a two-line rhyme about a skill you would like to learn.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-054",
+    "content": "Compare a skill you would like to learn to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-055",
+    "content": "Pretend to host a one-minute show about a skill you would like to learn.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-056",
+    "content": "Ask another player to add one idea to your plan for a skill you would like to learn.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-057",
+    "content": "Give a 20-second pitch encouraging the group to try a book you would recommend.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-058",
+    "content": "Invent a playful title for a book you would recommend and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-059",
+    "content": "Describe a book you would recommend using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-060",
+    "content": "Tell a short story in which a book you would recommend gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-061",
+    "content": "Mime a harmless scene involving a book you would recommend and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-062",
+    "content": "Name three details that would make a book you would recommend more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-063",
+    "content": "Create a two-line rhyme about a book you would recommend.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-064",
+    "content": "Compare a book you would recommend to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-065",
+    "content": "Pretend to host a one-minute show about a book you would recommend.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-066",
+    "content": "Ask another player to add one idea to your plan for a book you would recommend.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-067",
+    "content": "Give a 20-second pitch encouraging the group to try a small daily routine.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-068",
+    "content": "Invent a playful title for a small daily routine and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-069",
+    "content": "Describe a small daily routine using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-070",
+    "content": "Tell a short story in which a small daily routine gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-071",
+    "content": "Mime a harmless scene involving a small daily routine and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-072",
+    "content": "Name three details that would make a small daily routine more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-073",
+    "content": "Create a two-line rhyme about a small daily routine.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-074",
+    "content": "Compare a small daily routine to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-075",
+    "content": "Pretend to host a one-minute show about a small daily routine.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-076",
+    "content": "Ask another player to add one idea to your plan for a small daily routine.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-077",
+    "content": "Give a 20-second pitch encouraging the group to try a celebration you look forward to.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-078",
+    "content": "Invent a playful title for a celebration you look forward to and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-079",
+    "content": "Describe a celebration you look forward to using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-080",
+    "content": "Tell a short story in which a celebration you look forward to gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-081",
+    "content": "Mime a harmless scene involving a celebration you look forward to and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-082",
+    "content": "Name three details that would make a celebration you look forward to more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-083",
+    "content": "Create a two-line rhyme about a celebration you look forward to.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-084",
+    "content": "Compare a celebration you look forward to to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-085",
+    "content": "Pretend to host a one-minute show about a celebration you look forward to.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-086",
+    "content": "Ask another player to add one idea to your plan for a celebration you look forward to.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-087",
+    "content": "Give a 20-second pitch encouraging the group to try a trip you would like to take.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-088",
+    "content": "Invent a playful title for a trip you would like to take and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-089",
+    "content": "Describe a trip you would like to take using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-090",
+    "content": "Tell a short story in which a trip you would like to take gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-091",
+    "content": "Mime a harmless scene involving a trip you would like to take and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-092",
+    "content": "Name three details that would make a trip you would like to take more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-093",
+    "content": "Create a two-line rhyme about a trip you would like to take.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-094",
+    "content": "Compare a trip you would like to take to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-095",
+    "content": "Pretend to host a one-minute show about a trip you would like to take.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-096",
+    "content": "Ask another player to add one idea to your plan for a trip you would like to take.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-097",
+    "content": "Give a 20-second pitch encouraging the group to try a favorite way to relax.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-098",
+    "content": "Invent a playful title for a favorite way to relax and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-099",
+    "content": "Describe a favorite way to relax using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-100",
+    "content": "Tell a short story in which a favorite way to relax gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-101",
+    "content": "Mime a harmless scene involving a favorite way to relax and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-102",
+    "content": "Name three details that would make a favorite way to relax more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-103",
+    "content": "Create a two-line rhyme about a favorite way to relax.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-104",
+    "content": "Compare a favorite way to relax to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-105",
+    "content": "Pretend to host a one-minute show about a favorite way to relax.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-106",
+    "content": "Ask another player to add one idea to your plan for a favorite way to relax.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-107",
+    "content": "Give a 20-second pitch encouraging the group to try a kind gesture you remember.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-108",
+    "content": "Invent a playful title for a kind gesture you remember and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-109",
+    "content": "Describe a kind gesture you remember using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-110",
+    "content": "Tell a short story in which a kind gesture you remember gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-111",
+    "content": "Mime a harmless scene involving a kind gesture you remember and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-112",
+    "content": "Name three details that would make a kind gesture you remember more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-113",
+    "content": "Create a two-line rhyme about a kind gesture you remember.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-114",
+    "content": "Compare a kind gesture you remember to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-115",
+    "content": "Pretend to host a one-minute show about a kind gesture you remember.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-116",
+    "content": "Ask another player to add one idea to your plan for a kind gesture you remember.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-117",
+    "content": "Give a 20-second pitch encouraging the group to try a new recipe you would try.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-118",
+    "content": "Invent a playful title for a new recipe you would try and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-119",
+    "content": "Describe a new recipe you would try using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-120",
+    "content": "Tell a short story in which a new recipe you would try gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-121",
+    "content": "Mime a harmless scene involving a new recipe you would try and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-122",
+    "content": "Name three details that would make a new recipe you would try more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-123",
+    "content": "Create a two-line rhyme about a new recipe you would try.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-124",
+    "content": "Compare a new recipe you would try to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-125",
+    "content": "Pretend to host a one-minute show about a new recipe you would try.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-126",
+    "content": "Ask another player to add one idea to your plan for a new recipe you would try.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-127",
+    "content": "Give a 20-second pitch encouraging the group to try a game you enjoy playing.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-128",
+    "content": "Invent a playful title for a game you enjoy playing and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-129",
+    "content": "Describe a game you enjoy playing using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-130",
+    "content": "Tell a short story in which a game you enjoy playing gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-131",
+    "content": "Mime a harmless scene involving a game you enjoy playing and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-132",
+    "content": "Name three details that would make a game you enjoy playing more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-133",
+    "content": "Create a two-line rhyme about a game you enjoy playing.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-134",
+    "content": "Compare a game you enjoy playing to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-135",
+    "content": "Pretend to host a one-minute show about a game you enjoy playing.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-136",
+    "content": "Ask another player to add one idea to your plan for a game you enjoy playing.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-137",
+    "content": "Give a 20-second pitch encouraging the group to try a useful thing you learned recently.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-138",
+    "content": "Invent a playful title for a useful thing you learned recently and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-139",
+    "content": "Describe a useful thing you learned recently using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-140",
+    "content": "Tell a short story in which a useful thing you learned recently gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-141",
+    "content": "Mime a harmless scene involving a useful thing you learned recently and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-142",
+    "content": "Name three details that would make a useful thing you learned recently more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-143",
+    "content": "Create a two-line rhyme about a useful thing you learned recently.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-144",
+    "content": "Compare a useful thing you learned recently to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-145",
+    "content": "Pretend to host a one-minute show about a useful thing you learned recently.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-146",
+    "content": "Ask another player to add one idea to your plan for a useful thing you learned recently.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-147",
+    "content": "Give a 20-second pitch encouraging the group to try a goal you hope to reach.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-148",
+    "content": "Invent a playful title for a goal you hope to reach and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-149",
+    "content": "Describe a goal you hope to reach using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-150",
+    "content": "Tell a short story in which a goal you hope to reach gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-151",
+    "content": "Mime a harmless scene involving a goal you hope to reach and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-152",
+    "content": "Name three details that would make a goal you hope to reach more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-153",
+    "content": "Create a two-line rhyme about a goal you hope to reach.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-154",
+    "content": "Compare a goal you hope to reach to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-155",
+    "content": "Pretend to host a one-minute show about a goal you hope to reach.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-156",
+    "content": "Ask another player to add one idea to your plan for a goal you hope to reach.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-157",
+    "content": "Give a 20-second pitch encouraging the group to try a pet you would like to have.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-158",
+    "content": "Invent a playful title for a pet you would like to have and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-159",
+    "content": "Describe a pet you would like to have using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-160",
+    "content": "Tell a short story in which a pet you would like to have gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-161",
+    "content": "Mime a harmless scene involving a pet you would like to have and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-162",
+    "content": "Name three details that would make a pet you would like to have more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-163",
+    "content": "Create a two-line rhyme about a pet you would like to have.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-164",
+    "content": "Compare a pet you would like to have to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-165",
+    "content": "Pretend to host a one-minute show about a pet you would like to have.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-166",
+    "content": "Ask another player to add one idea to your plan for a pet you would like to have.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-167",
+    "content": "Give a 20-second pitch encouraging the group to try a subject you enjoy discussing.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-168",
+    "content": "Invent a playful title for a subject you enjoy discussing and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-169",
+    "content": "Describe a subject you enjoy discussing using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-170",
+    "content": "Tell a short story in which a subject you enjoy discussing gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-171",
+    "content": "Mime a harmless scene involving a subject you enjoy discussing and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-172",
+    "content": "Name three details that would make a subject you enjoy discussing more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-173",
+    "content": "Create a two-line rhyme about a subject you enjoy discussing.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-174",
+    "content": "Compare a subject you enjoy discussing to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-175",
+    "content": "Pretend to host a one-minute show about a subject you enjoy discussing.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-176",
+    "content": "Ask another player to add one idea to your plan for a subject you enjoy discussing.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-177",
+    "content": "Give a 20-second pitch encouraging the group to try a weekend you would plan.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-178",
+    "content": "Invent a playful title for a weekend you would plan and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-179",
+    "content": "Describe a weekend you would plan using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-180",
+    "content": "Tell a short story in which a weekend you would plan gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-181",
+    "content": "Mime a harmless scene involving a weekend you would plan and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-182",
+    "content": "Name three details that would make a weekend you would plan more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-183",
+    "content": "Create a two-line rhyme about a weekend you would plan.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-184",
+    "content": "Compare a weekend you would plan to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-185",
+    "content": "Pretend to host a one-minute show about a weekend you would plan.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-186",
+    "content": "Ask another player to add one idea to your plan for a weekend you would plan.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-187",
+    "content": "Give a 20-second pitch encouraging the group to try a local place you want to explore.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-188",
+    "content": "Invent a playful title for a local place you want to explore and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-189",
+    "content": "Describe a local place you want to explore using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-190",
+    "content": "Tell a short story in which a local place you want to explore gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-191",
+    "content": "Mime a harmless scene involving a local place you want to explore and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-192",
+    "content": "Name three details that would make a local place you want to explore more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-193",
+    "content": "Create a two-line rhyme about a local place you want to explore.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-194",
+    "content": "Compare a local place you want to explore to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-195",
+    "content": "Pretend to host a one-minute show about a local place you want to explore.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-196",
+    "content": "Ask another player to add one idea to your plan for a local place you want to explore.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-197",
+    "content": "Give a 20-second pitch encouraging the group to try a tradition you would like to start.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-198",
+    "content": "Invent a playful title for a tradition you would like to start and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-199",
+    "content": "Describe a tradition you would like to start using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "normal-dare-200",
+    "content": "Tell a short story in which a tradition you would like to start gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "everyday",
+      "fun",
+      "dare"
+    ],
+    "active": true
+  }
+]

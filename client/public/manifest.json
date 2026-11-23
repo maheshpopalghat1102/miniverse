@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "MiniVerse",
+  "short_name": "MiniVerse",
+  "description": "Play mini games, challenge friends, create rooms, and have fun together.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B1020",
+  "theme_color": "#6366F1",
+  "categories": [
+    "games",
+    "entertainment",
+    "social"
+  ],
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

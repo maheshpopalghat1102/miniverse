@@ -1,0 +1,2997 @@
+[
+  {
+    "promptId": "private-dare-001",
+    "content": "Share one positive thing about yourself that you rarely acknowledge.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "confidence",
+      "personal"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-002",
+    "content": "Tell the group about a personal goal you want to achieve this year.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "goals",
+      "reflection"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-003",
+    "content": "Share a piece of advice that has helped you through a difficult moment.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "reflection",
+      "support"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-004",
+    "content": "Name one personal strength you want to make more use of.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "confidence",
+      "reflection"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-005",
+    "content": "Describe one small change that would make your week feel more balanced.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "wellbeing",
+      "reflection"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-006",
+    "content": "Give a 20-second pitch encouraging the group to try a personal strength you are learning to value.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-007",
+    "content": "Invent a playful title for a personal strength you are learning to value and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-008",
+    "content": "Describe a personal strength you are learning to value using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-009",
+    "content": "Tell a short story in which a personal strength you are learning to value gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-010",
+    "content": "Mime a harmless scene involving a personal strength you are learning to value and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-011",
+    "content": "Name three details that would make a personal strength you are learning to value more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-012",
+    "content": "Create a two-line rhyme about a personal strength you are learning to value.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-013",
+    "content": "Compare a personal strength you are learning to value to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-014",
+    "content": "Pretend to host a one-minute show about a personal strength you are learning to value.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-015",
+    "content": "Ask another player to add one idea to your plan for a personal strength you are learning to value.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-016",
+    "content": "Give a 20-second pitch encouraging the group to try a boundary that helps you feel respected.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-017",
+    "content": "Invent a playful title for a boundary that helps you feel respected and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-018",
+    "content": "Describe a boundary that helps you feel respected using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-019",
+    "content": "Tell a short story in which a boundary that helps you feel respected gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-020",
+    "content": "Mime a harmless scene involving a boundary that helps you feel respected and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-021",
+    "content": "Name three details that would make a boundary that helps you feel respected more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-022",
+    "content": "Create a two-line rhyme about a boundary that helps you feel respected.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-023",
+    "content": "Compare a boundary that helps you feel respected to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-024",
+    "content": "Pretend to host a one-minute show about a boundary that helps you feel respected.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-025",
+    "content": "Ask another player to add one idea to your plan for a boundary that helps you feel respected.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-026",
+    "content": "Give a 20-second pitch encouraging the group to try a hope you have for the next year.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-027",
+    "content": "Invent a playful title for a hope you have for the next year and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-028",
+    "content": "Describe a hope you have for the next year using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-029",
+    "content": "Tell a short story in which a hope you have for the next year gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-030",
+    "content": "Mime a harmless scene involving a hope you have for the next year and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-031",
+    "content": "Name three details that would make a hope you have for the next year more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-032",
+    "content": "Create a two-line rhyme about a hope you have for the next year.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-033",
+    "content": "Compare a hope you have for the next year to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-034",
+    "content": "Pretend to host a one-minute show about a hope you have for the next year.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-035",
+    "content": "Ask another player to add one idea to your plan for a hope you have for the next year.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-036",
+    "content": "Give a 20-second pitch encouraging the group to try a lesson you learned from a setback.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-037",
+    "content": "Invent a playful title for a lesson you learned from a setback and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-038",
+    "content": "Describe a lesson you learned from a setback using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-039",
+    "content": "Tell a short story in which a lesson you learned from a setback gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-040",
+    "content": "Mime a harmless scene involving a lesson you learned from a setback and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-041",
+    "content": "Name three details that would make a lesson you learned from a setback more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-042",
+    "content": "Create a two-line rhyme about a lesson you learned from a setback.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-043",
+    "content": "Compare a lesson you learned from a setback to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-044",
+    "content": "Pretend to host a one-minute show about a lesson you learned from a setback.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-045",
+    "content": "Ask another player to add one idea to your plan for a lesson you learned from a setback.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-046",
+    "content": "Give a 20-second pitch encouraging the group to try a habit you would like to change gently.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-047",
+    "content": "Invent a playful title for a habit you would like to change gently and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-048",
+    "content": "Describe a habit you would like to change gently using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-049",
+    "content": "Tell a short story in which a habit you would like to change gently gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-050",
+    "content": "Mime a harmless scene involving a habit you would like to change gently and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-051",
+    "content": "Name three details that would make a habit you would like to change gently more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-052",
+    "content": "Create a two-line rhyme about a habit you would like to change gently.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-053",
+    "content": "Compare a habit you would like to change gently to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-054",
+    "content": "Pretend to host a one-minute show about a habit you would like to change gently.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-055",
+    "content": "Ask another player to add one idea to your plan for a habit you would like to change gently.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-056",
+    "content": "Give a 20-second pitch encouraging the group to try a time you felt proud of your effort.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-057",
+    "content": "Invent a playful title for a time you felt proud of your effort and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-058",
+    "content": "Describe a time you felt proud of your effort using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-059",
+    "content": "Tell a short story in which a time you felt proud of your effort gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-060",
+    "content": "Mime a harmless scene involving a time you felt proud of your effort and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-061",
+    "content": "Name three details that would make a time you felt proud of your effort more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-062",
+    "content": "Create a two-line rhyme about a time you felt proud of your effort.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-063",
+    "content": "Compare a time you felt proud of your effort to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-064",
+    "content": "Pretend to host a one-minute show about a time you felt proud of your effort.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-065",
+    "content": "Ask another player to add one idea to your plan for a time you felt proud of your effort.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-066",
+    "content": "Give a 20-second pitch encouraging the group to try a kind of support that helps on a hard day.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-067",
+    "content": "Invent a playful title for a kind of support that helps on a hard day and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-068",
+    "content": "Describe a kind of support that helps on a hard day using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-069",
+    "content": "Tell a short story in which a kind of support that helps on a hard day gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-070",
+    "content": "Mime a harmless scene involving a kind of support that helps on a hard day and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-071",
+    "content": "Name three details that would make a kind of support that helps on a hard day more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-072",
+    "content": "Create a two-line rhyme about a kind of support that helps on a hard day.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-073",
+    "content": "Compare a kind of support that helps on a hard day to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-074",
+    "content": "Pretend to host a one-minute show about a kind of support that helps on a hard day.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-075",
+    "content": "Ask another player to add one idea to your plan for a kind of support that helps on a hard day.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-076",
+    "content": "Give a 20-second pitch encouraging the group to try a worry you have found a way to manage.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-077",
+    "content": "Invent a playful title for a worry you have found a way to manage and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-078",
+    "content": "Describe a worry you have found a way to manage using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-079",
+    "content": "Tell a short story in which a worry you have found a way to manage gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-080",
+    "content": "Mime a harmless scene involving a worry you have found a way to manage and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-081",
+    "content": "Name three details that would make a worry you have found a way to manage more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-082",
+    "content": "Create a two-line rhyme about a worry you have found a way to manage.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-083",
+    "content": "Compare a worry you have found a way to manage to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-084",
+    "content": "Pretend to host a one-minute show about a worry you have found a way to manage.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-085",
+    "content": "Ask another player to add one idea to your plan for a worry you have found a way to manage.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-086",
+    "content": "Give a 20-second pitch encouraging the group to try a decision that taught you something.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-087",
+    "content": "Invent a playful title for a decision that taught you something and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-088",
+    "content": "Describe a decision that taught you something using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-089",
+    "content": "Tell a short story in which a decision that taught you something gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-090",
+    "content": "Mime a harmless scene involving a decision that taught you something and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-091",
+    "content": "Name three details that would make a decision that taught you something more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-092",
+    "content": "Create a two-line rhyme about a decision that taught you something.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-093",
+    "content": "Compare a decision that taught you something to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-094",
+    "content": "Pretend to host a one-minute show about a decision that taught you something.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-095",
+    "content": "Ask another player to add one idea to your plan for a decision that taught you something.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-096",
+    "content": "Give a 20-second pitch encouraging the group to try a quality you admire in yourself.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-097",
+    "content": "Invent a playful title for a quality you admire in yourself and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-098",
+    "content": "Describe a quality you admire in yourself using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-099",
+    "content": "Tell a short story in which a quality you admire in yourself gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-100",
+    "content": "Mime a harmless scene involving a quality you admire in yourself and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-101",
+    "content": "Name three details that would make a quality you admire in yourself more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-102",
+    "content": "Create a two-line rhyme about a quality you admire in yourself.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-103",
+    "content": "Compare a quality you admire in yourself to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-104",
+    "content": "Pretend to host a one-minute show about a quality you admire in yourself.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-105",
+    "content": "Ask another player to add one idea to your plan for a quality you admire in yourself.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-106",
+    "content": "Give a 20-second pitch encouraging the group to try a personal goal that matters to you.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-107",
+    "content": "Invent a playful title for a personal goal that matters to you and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-108",
+    "content": "Describe a personal goal that matters to you using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-109",
+    "content": "Tell a short story in which a personal goal that matters to you gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-110",
+    "content": "Mime a harmless scene involving a personal goal that matters to you and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-111",
+    "content": "Name three details that would make a personal goal that matters to you more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-112",
+    "content": "Create a two-line rhyme about a personal goal that matters to you.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-113",
+    "content": "Compare a personal goal that matters to you to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-114",
+    "content": "Pretend to host a one-minute show about a personal goal that matters to you.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-115",
+    "content": "Ask another player to add one idea to your plan for a personal goal that matters to you.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-116",
+    "content": "Give a 20-second pitch encouraging the group to try a moment when you felt understood.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-117",
+    "content": "Invent a playful title for a moment when you felt understood and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-118",
+    "content": "Describe a moment when you felt understood using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-119",
+    "content": "Tell a short story in which a moment when you felt understood gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-120",
+    "content": "Mime a harmless scene involving a moment when you felt understood and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-121",
+    "content": "Name three details that would make a moment when you felt understood more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-122",
+    "content": "Create a two-line rhyme about a moment when you felt understood.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-123",
+    "content": "Compare a moment when you felt understood to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-124",
+    "content": "Pretend to host a one-minute show about a moment when you felt understood.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-125",
+    "content": "Ask another player to add one idea to your plan for a moment when you felt understood.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-126",
+    "content": "Give a 20-second pitch encouraging the group to try a value you try to live by.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-127",
+    "content": "Invent a playful title for a value you try to live by and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-128",
+    "content": "Describe a value you try to live by using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-129",
+    "content": "Tell a short story in which a value you try to live by gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-130",
+    "content": "Mime a harmless scene involving a value you try to live by and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-131",
+    "content": "Name three details that would make a value you try to live by more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-132",
+    "content": "Create a two-line rhyme about a value you try to live by.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-133",
+    "content": "Compare a value you try to live by to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-134",
+    "content": "Pretend to host a one-minute show about a value you try to live by.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-135",
+    "content": "Ask another player to add one idea to your plan for a value you try to live by.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-136",
+    "content": "Give a 20-second pitch encouraging the group to try a way you recharge after a busy week.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-137",
+    "content": "Invent a playful title for a way you recharge after a busy week and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-138",
+    "content": "Describe a way you recharge after a busy week using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-139",
+    "content": "Tell a short story in which a way you recharge after a busy week gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-140",
+    "content": "Mime a harmless scene involving a way you recharge after a busy week and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-141",
+    "content": "Name three details that would make a way you recharge after a busy week more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-142",
+    "content": "Create a two-line rhyme about a way you recharge after a busy week.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-143",
+    "content": "Compare a way you recharge after a busy week to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-144",
+    "content": "Pretend to host a one-minute show about a way you recharge after a busy week.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-145",
+    "content": "Ask another player to add one idea to your plan for a way you recharge after a busy week.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-146",
+    "content": "Give a 20-second pitch encouraging the group to try a new perspective you gained recently.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-147",
+    "content": "Invent a playful title for a new perspective you gained recently and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-148",
+    "content": "Describe a new perspective you gained recently using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-149",
+    "content": "Tell a short story in which a new perspective you gained recently gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-150",
+    "content": "Mime a harmless scene involving a new perspective you gained recently and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-151",
+    "content": "Name three details that would make a new perspective you gained recently more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-152",
+    "content": "Create a two-line rhyme about a new perspective you gained recently.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-153",
+    "content": "Compare a new perspective you gained recently to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-154",
+    "content": "Pretend to host a one-minute show about a new perspective you gained recently.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-155",
+    "content": "Ask another player to add one idea to your plan for a new perspective you gained recently.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-156",
+    "content": "Give a 20-second pitch encouraging the group to try a choice you made that took courage.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-157",
+    "content": "Invent a playful title for a choice you made that took courage and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-158",
+    "content": "Describe a choice you made that took courage using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-159",
+    "content": "Tell a short story in which a choice you made that took courage gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-160",
+    "content": "Mime a harmless scene involving a choice you made that took courage and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-161",
+    "content": "Name three details that would make a choice you made that took courage more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-162",
+    "content": "Create a two-line rhyme about a choice you made that took courage.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-163",
+    "content": "Compare a choice you made that took courage to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-164",
+    "content": "Pretend to host a one-minute show about a choice you made that took courage.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-165",
+    "content": "Ask another player to add one idea to your plan for a choice you made that took courage.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-166",
+    "content": "Give a 20-second pitch encouraging the group to try a skill you have improved through practice.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-167",
+    "content": "Invent a playful title for a skill you have improved through practice and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-168",
+    "content": "Describe a skill you have improved through practice using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-169",
+    "content": "Tell a short story in which a skill you have improved through practice gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-170",
+    "content": "Mime a harmless scene involving a skill you have improved through practice and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-171",
+    "content": "Name three details that would make a skill you have improved through practice more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-172",
+    "content": "Create a two-line rhyme about a skill you have improved through practice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-173",
+    "content": "Compare a skill you have improved through practice to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-174",
+    "content": "Pretend to host a one-minute show about a skill you have improved through practice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-175",
+    "content": "Ask another player to add one idea to your plan for a skill you have improved through practice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-176",
+    "content": "Give a 20-second pitch encouraging the group to try a small change that would improve your routine.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-177",
+    "content": "Invent a playful title for a small change that would improve your routine and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-178",
+    "content": "Describe a small change that would improve your routine using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-179",
+    "content": "Tell a short story in which a small change that would improve your routine gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-180",
+    "content": "Mime a harmless scene involving a small change that would improve your routine and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-181",
+    "content": "Name three details that would make a small change that would improve your routine more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-182",
+    "content": "Create a two-line rhyme about a small change that would improve your routine.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-183",
+    "content": "Compare a small change that would improve your routine to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-184",
+    "content": "Pretend to host a one-minute show about a small change that would improve your routine.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-185",
+    "content": "Ask another player to add one idea to your plan for a small change that would improve your routine.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-186",
+    "content": "Give a 20-second pitch encouraging the group to try a topic you prefer to discuss at your own pace.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-187",
+    "content": "Invent a playful title for a topic you prefer to discuss at your own pace and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-188",
+    "content": "Describe a topic you prefer to discuss at your own pace using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-189",
+    "content": "Tell a short story in which a topic you prefer to discuss at your own pace gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-190",
+    "content": "Mime a harmless scene involving a topic you prefer to discuss at your own pace and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-191",
+    "content": "Name three details that would make a topic you prefer to discuss at your own pace more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-192",
+    "content": "Create a two-line rhyme about a topic you prefer to discuss at your own pace.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-193",
+    "content": "Compare a topic you prefer to discuss at your own pace to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-194",
+    "content": "Pretend to host a one-minute show about a topic you prefer to discuss at your own pace.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-195",
+    "content": "Ask another player to add one idea to your plan for a topic you prefer to discuss at your own pace.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-196",
+    "content": "Give a 20-second pitch encouraging the group to try a recent moment of calm.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-197",
+    "content": "Invent a playful title for a recent moment of calm and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-198",
+    "content": "Describe a recent moment of calm using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-199",
+    "content": "Tell a short story in which a recent moment of calm gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "private-dare-200",
+    "content": "Mime a harmless scene involving a recent moment of calm and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": false,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "tags": [
+      "personal",
+      "reflection",
+      "dare"
+    ],
+    "active": true
+  }
+]

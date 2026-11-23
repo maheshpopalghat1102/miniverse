@@ -1,0 +1,638 @@
+
+miniverse/
+│
+├── .env.example
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── README.md
+├── PROJECT_FILE_MANIFEST.txt
+│
+├── client/
+│   ├── .env.example
+│   ├── package.json
+│   ├── index.html
+│   ├── vite.config.js
+│   ├── postcss.config.js
+│   ├── tailwind.config.js
+│   │
+│   ├── public/
+│   │   ├── favicon.ico
+│   │   ├── logo.svg
+│   │   ├── manifest.json
+│   │   ├── robots.txt
+│   │   ├── sounds/
+│   │   │   ├── click.mp3
+│   │   │   ├── win.mp3
+│   │   │   ├── lose.mp3
+│   │   │   ├── draw.mp3
+│   │   │   ├── notification.mp3
+│   │   │   └── background-music.mp3
+│   │   └── images/
+│   │       ├── logo/
+│   │       ├── avatars/
+│   │       ├── games/
+│   │       ├── backgrounds/
+│   │       ├── icons/
+│   │       └── banners/
+│   │
+│   └── src/
+│       ├── main.jsx
+│       ├── App.jsx
+│       ├── index.css
+│       │
+│       ├── app/
+│       │   ├── AppRouter.jsx
+│       │   ├── AppProviders.jsx
+│       │   ├── ProtectedRoute.jsx
+│       │   ├── GuestRoute.jsx
+│       │   ├── ErrorBoundary.jsx
+│       │   └── NotFoundHandler.jsx
+│       │
+│       ├── assets/
+│       │   ├── images/
+│       │   ├── icons/
+│       │   ├── fonts/
+│       │   └── animations/
+│       │
+│       ├── components/
+│       │   ├── common/
+│       │   │   ├── Button.jsx
+│       │   │   ├── Input.jsx
+│       │   │   ├── Select.jsx
+│       │   │   ├── Checkbox.jsx
+│       │   │   ├── Modal.jsx
+│       │   │   ├── Loader.jsx
+│       │   │   ├── Toast.jsx
+│       │   │   ├── ConfirmDialog.jsx
+│       │   │   ├── Avatar.jsx
+│       │   │   ├── Badge.jsx
+│       │   │   ├── Timer.jsx
+│       │   │   ├── ScoreBoard.jsx
+│       │   │   ├── EmptyState.jsx
+│       │   │   ├── ErrorMessage.jsx
+│       │   │   └── Skeleton.jsx
+│       │   │
+│       │   ├── layout/
+│       │   │   ├── MainLayout.jsx
+│       │   │   ├── AuthLayout.jsx
+│       │   │   ├── Header.jsx
+│       │   │   ├── Sidebar.jsx
+│       │   │   ├── MobileNavbar.jsx
+│       │   │   ├── Footer.jsx
+│       │   │   ├── PageContainer.jsx
+│       │   │   └── BottomNavigation.jsx
+│       │   │
+│       │   ├── game/
+│       │   │   ├── GameCard.jsx
+│       │   │   ├── GameGrid.jsx
+│       │   │   ├── GameHeader.jsx
+│       │   │   ├── GameInstructions.jsx
+│       │   │   ├── GameResult.jsx
+│       │   │   ├── GameTimer.jsx
+│       │   │   ├── PlayerCard.jsx
+│       │   │   ├── PlayerList.jsx
+│       │   │   ├── TurnIndicator.jsx
+│       │   │   ├── GameChat.jsx
+│       │   │   ├── GameSettings.jsx
+│       │   │   ├── RematchButton.jsx
+│       │   │   └── GameExitButton.jsx
+│       │   │
+│       │   ├── room/
+│       │   │   ├── CreateRoomModal.jsx
+│       │   │   ├── JoinRoomModal.jsx
+│       │   │   ├── RoomCode.jsx
+│       │   │   ├── RoomPlayerList.jsx
+│       │   │   ├── RoomSettings.jsx
+│       │   │   ├── RoomWaiting.jsx
+│       │   │   ├── RoomInvite.jsx
+│       │   │   └── RoomControls.jsx
+│       │   │
+│       │   ├── social/
+│       │   │   ├── FriendCard.jsx
+│       │   │   ├── FriendRequest.jsx
+│       │   │   ├── OnlineStatus.jsx
+│       │   │   ├── NotificationCard.jsx
+│       │   │   └── InviteFriend.jsx
+│       │   │
+│       │   └── ui/
+│       │       ├── Dropdown.jsx
+│       │       ├── Tabs.jsx
+│       │       ├── Tooltip.jsx
+│       │       ├── Pagination.jsx
+│       │       ├── SearchBar.jsx
+│       │       ├── Slider.jsx
+│       │       └── ThemeSelector.jsx
+│       │
+│       ├── pages/
+│       │   ├── Home.jsx
+│       │   ├── Dashboard.jsx
+│       │   ├── Games.jsx
+│       │   ├── GameDetails.jsx
+│       │   ├── Multiplayer.jsx
+│       │   ├── SinglePlayer.jsx
+│       │   ├── TurnByTurn.jsx
+│       │   ├── CreateRoom.jsx
+│       │   ├── JoinRoom.jsx
+│       │   ├── Room.jsx
+│       │   ├── Leaderboard.jsx
+│       │   ├── Achievements.jsx
+│       │   ├── Friends.jsx
+│       │   ├── GameHistory.jsx
+│       │   ├── Notifications.jsx
+│       │   ├── Profile.jsx
+│       │   ├── EditProfile.jsx
+│       │   ├── Settings.jsx
+│       │   ├── Help.jsx
+│       │   ├── PrivacyPolicy.jsx
+│       │   ├── Terms.jsx
+│       │   ├── About.jsx
+│       │   ├── Contact.jsx
+│       │   ├── NotFound.jsx
+│       │   │
+│       │   └── auth/
+│       │       ├── Login.jsx
+│       │       ├── Register.jsx
+│       │       ├── VerifyEmail.jsx
+│       │       ├── ForgotPassword.jsx
+│       │       ├── ResetPassword.jsx
+│       │       └── VerifySuccess.jsx
+│       │
+│       ├── games/
+│       │   ├── multiplayer/
+│       │   │   ├── tic-tac-toe/
+│       │   │   │   ├── TicTacToe.jsx
+│       │   │   │   ├── TicTacToeBoard.jsx
+│       │   │   │   ├── TicTacToeCell.jsx
+│       │   │   │   ├── TicTacToeResult.jsx
+│       │   │   │   ├── ticTacToeLogic.js
+│       │   │   │   ├── ticTacToeSocket.js
+│       │   │   │   └── ticTacToe.css
+│       │   │   │
+│       │   │   ├── rock-paper-scissors/
+│       │   │   │   ├── RockPaperScissors.jsx
+│       │   │   │   ├── RPSChoices.jsx
+│       │   │   │   ├── RPSResult.jsx
+│       │   │   │   ├── rpsLogic.js
+│       │   │   │   ├── rpsSocket.js
+│       │   │   │   └── rps.css
+│       │   │   │
+│       │   │   ├── connect-four/
+│       │   │   │   ├── ConnectFour.jsx
+│       │   │   │   ├── ConnectFourBoard.jsx
+│       │   │   │   ├── ConnectFourCell.jsx
+│       │   │   │   ├── connectFourLogic.js
+│       │   │   │   ├── connectFourSocket.js
+│       │   │   │   └── connectFour.css
+│       │   │   │
+│       │   │   ├── guess-number/
+│       │   │   │   ├── GuessNumber.jsx
+│       │   │   │   ├── NumberInput.jsx
+│       │   │   │   ├── GuessHistory.jsx
+│       │   │   │   ├── guessNumberLogic.js
+│       │   │   │   ├── guessNumberSocket.js
+│       │   │   │   └── guessNumber.css
+│       │   │   │
+│       │   │   ├── word-battle/
+│       │   │   │   ├── WordBattle.jsx
+│       │   │   │   ├── WordInput.jsx
+│       │   │   │   ├── WordScore.jsx
+│       │   │   │   ├── wordBattleLogic.js
+│       │   │   │   ├── wordBattleSocket.js
+│       │   │   │   └── wordBattle.css
+│       │   │   │
+│       │   │   ├── quiz-battle/
+│       │   │   │   ├── QuizBattle.jsx
+│       │   │   │   ├── QuizQuestion.jsx
+│       │   │   │   ├── QuizOptions.jsx
+│       │   │   │   ├── QuizResult.jsx
+│       │   │   │   ├── quizBattleLogic.js
+│       │   │   │   ├── quizBattleSocket.js
+│       │   │   │   └── quizBattle.css
+│       │   │   │
+│       │   │   ├── emoji-guess/
+│       │   │   │   ├── EmojiGuess.jsx
+│       │   │   │   ├── EmojiQuestion.jsx
+│       │   │   │   ├── EmojiAnswer.jsx
+│       │   │   │   ├── emojiGuessLogic.js
+│       │   │   │   ├── emojiGuessSocket.js
+│       │   │   │   └── emojiGuess.css
+│       │   │   │
+│       │   │   ├── truth-or-dare/
+│       │   │   │   ├── TruthOrDare.jsx
+│       │   │   │   ├── SituationSelector.jsx
+│       │   │   │   ├── TruthDareCard.jsx
+│       │   │   │   ├── PromptPicker.jsx
+│       │   │   │   ├── PlayerTurn.jsx
+│       │   │   │   ├── truthOrDareLogic.js
+│       │   │   │   ├── truthOrDareSocket.js
+│       │   │   │   └── truthOrDare.css
+│       │   │   │
+│       │   │   ├── guess-picture/
+│       │   │   │   ├── GuessPicture.jsx
+│       │   │   │   ├── PictureDisplay.jsx
+│       │   │   │   ├── PictureOptions.jsx
+│       │   │   │   ├── guessPictureLogic.js
+│       │   │   │   ├── guessPictureSocket.js
+│       │   │   │   └── guessPicture.css
+│       │   │   │
+│       │   │   ├── draw-guess/
+│       │   │   │   ├── DrawGuess.jsx
+│       │   │   │   ├── DrawingCanvas.jsx
+│       │   │   │   ├── DrawingToolbar.jsx
+│       │   │   │   ├── ColorPicker.jsx
+│       │   │   │   ├── BrushSize.jsx
+│       │   │   │   ├── GuessInput.jsx
+│       │   │   │   ├── drawGuessLogic.js
+│       │   │   │   ├── drawGuessSocket.js
+│       │   │   │   └── drawGuess.css
+│       │   │   │
+│       │   │   ├── who-am-i/
+│       │   │   │   ├── WhoAmI.jsx
+│       │   │   │   ├── IdentityCard.jsx
+│       │   │   │   ├── ClueDisplay.jsx
+│       │   │   │   ├── whoAmILogic.js
+│       │   │   │   ├── whoAmISocket.js
+│       │   │   │   └── whoAmI.css
+│       │   │   │
+│       │   │   └── number-battle/
+│       │   │       ├── NumberBattle.jsx
+│       │   │       ├── NumberQuestion.jsx
+│       │   │       ├── NumberAnswer.jsx
+│       │   │       ├── numberBattleLogic.js
+│       │   │       ├── numberBattleSocket.js
+│       │   │       └── numberBattle.css
+│       │   │
+│       │   ├── single-player/
+│       │   │   ├── snake/
+│       │   │   │   ├── Snake.jsx
+│       │   │   │   ├── SnakeCanvas.jsx
+│       │   │   │   ├── SnakeControls.jsx
+│       │   │   │   ├── snakeLogic.js
+│       │   │   │   └── snake.css
+│       │   │   │
+│       │   │   ├── 2048/
+│       │   │   │   ├── Game2048.jsx
+│       │   │   │   ├── Game2048Board.jsx
+│       │   │   │   ├── Game2048Tile.jsx
+│       │   │   │   ├── game2048Logic.js
+│       │   │   │   └── game2048.css
+│       │   │   │
+│       │   │   ├── memory-match/
+│       │   │   │   ├── MemoryMatch.jsx
+│       │   │   │   ├── MemoryBoard.jsx
+│       │   │   │   ├── MemoryCard.jsx
+│       │   │   │   ├── memoryMatchLogic.js
+│       │   │   │   └── memoryMatch.css
+│       │   │   │
+│       │   │   └── number-puzzle/
+│       │   │       ├── NumberPuzzle.jsx
+│       │   │       ├── PuzzleBoard.jsx
+│       │   │       ├── PuzzleTile.jsx
+│       │   │       ├── numberPuzzleLogic.js
+│       │   │       └── numberPuzzle.css
+│       │   │
+│       │   └── turn-by-turn/
+│       │       ├── couple-quiz/
+│       │       │   ├── CoupleQuiz.jsx
+│       │       │   ├── CoupleQuestion.jsx
+│       │       │   ├── CoupleAnswer.jsx
+│       │       │   ├── coupleQuizLogic.js
+│       │       │   ├── coupleQuizSocket.js
+│       │       │   └── coupleQuiz.css
+│       │       │
+│       │       ├── guess-word/
+│       │       │   ├── GuessWord.jsx
+│       │       │   ├── WordClue.jsx
+│       │       │   ├── WordAnswer.jsx
+│       │       │   ├── guessWordLogic.js
+│       │       │   ├── guessWordSocket.js
+│       │       │   └── guessWord.css
+│       │       │
+│       │       ├── emoji-challenge/
+│       │       │   ├── EmojiChallenge.jsx
+│       │       │   ├── EmojiQuestion.jsx
+│       │       │   ├── EmojiAnswer.jsx
+│       │       │   ├── emojiChallengeLogic.js
+│       │       │   ├── emojiChallengeSocket.js
+│       │       │   └── emojiChallenge.css
+│       │       │
+│       │       └── story-builder/
+│       │           ├── StoryBuilder.jsx
+│       │           ├── StoryPrompt.jsx
+│       │           ├── StoryEditor.jsx
+│       │           ├── StoryTimeline.jsx
+│       │           ├── storyBuilderLogic.js
+│       │           ├── storyBuilderSocket.js
+│       │           └── storyBuilder.css
+│       │
+│       ├── hooks/
+│       │   ├── useAuth.js
+│       │   ├── useSocket.js
+│       │   ├── useTimer.js
+│       │   ├── useTheme.js
+│       │   ├── useGameRoom.js
+│       │   ├── useGameState.js
+│       │   ├── useSound.js
+│       │   ├── useOnlineStatus.js
+│       │   └── useDebounce.js
+│       │
+│       ├── context/
+│       │   ├── AuthContext.jsx
+│       │   ├── SocketContext.jsx
+│       │   ├── ThemeContext.jsx
+│       │   ├── SoundContext.jsx
+│       │   └── NotificationContext.jsx
+│       │
+│       ├── services/
+│       │   ├── api.js
+│       │   ├── authService.js
+│       │   ├── gameService.js
+│       │   ├── roomService.js
+│       │   ├── userService.js
+│       │   ├── friendService.js
+│       │   ├── leaderboardService.js
+│       │   ├── achievementService.js
+│       │   ├── notificationService.js
+│       │   └── uploadService.js
+│       │
+│       ├── socket/
+│       │   ├── socketClient.js
+│       │   ├── socketEvents.js
+│       │   ├── socketHandlers.js
+│       │   ├── roomSocket.js
+│       │   ├── gameSocket.js
+│       │   └── chatSocket.js
+│       │
+│       ├── store/
+│       │   ├── authStore.js
+│       │   ├── gameStore.js
+│       │   ├── roomStore.js
+│       │   ├── userStore.js
+│       │   ├── friendStore.js
+│       │   └── notificationStore.js
+│       │
+│       ├── themes/
+│       │   ├── themes.js
+│       │   ├── ThemeProvider.jsx
+│       │   ├── themeStorage.js
+│       │   ├── midnight.css
+│       │   ├── amoled.css
+│       │   ├── ocean.css
+│       │   ├── sunset.css
+│       │   ├── sakura.css
+│       │   ├── emerald.css
+│       │   ├── light.css
+│       │   └── cyberpunk.css
+│       │
+│       ├── config/
+│       │   ├── env.js
+│       │   ├── routes.js
+│       │   ├── gameConfig.js
+│       │   ├── socketConfig.js
+│       │   └── themeConfig.js
+│       │
+│       └── utils/
+│           ├── formatDate.js
+│           ├── validators.js
+│           ├── generateCode.js
+│           ├── random.js
+│           ├── storage.js
+│           ├── errorHandler.js
+│           ├── soundManager.js
+│           ├── gameHelpers.js
+│           └── constants.js
+│
+├── server/
+│   ├── .env.example
+│   ├── package.json
+│   ├── server.js
+│   ├── app.js
+│   │
+│   ├── config/
+│   │   ├── database.js
+│   │   ├── cors.js
+│   │   ├── mail.js
+│   │   ├── cloudinary.js
+│   │   ├── security.js
+│   │   └── environment.js
+│   │
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Profile.js
+│   │   ├── Game.js
+│   │   ├── Match.js
+│   │   ├── Room.js
+│   │   ├── Score.js
+│   │   ├── Achievement.js
+│   │   ├── UserAchievement.js
+│   │   ├── Friendship.js
+│   │   ├── Notification.js
+│   │   ├── Report.js
+│   │   ├── TruthDarePrompt.js
+│   │   ├── RefreshSession.js
+│   │   └── EmailVerification.js
+│   │
+│   ├── controllers/
+│   │   ├── authController.js
+│   │   ├── userController.js
+│   │   ├── gameController.js
+│   │   ├── roomController.js
+│   │   ├── matchController.js
+│   │   ├── scoreController.js
+│   │   ├── leaderboardController.js
+│   │   ├── achievementController.js
+│   │   ├── friendController.js
+│   │   ├── notificationController.js
+│   │   ├── truthDareController.js
+│   │   ├── uploadController.js
+│   │   └── reportController.js
+│   │
+│   ├── routes/
+│   │   ├── authRoutes.js
+│   │   ├── userRoutes.js
+│   │   ├── gameRoutes.js
+│   │   ├── roomRoutes.js
+│   │   ├── matchRoutes.js
+│   │   ├── scoreRoutes.js
+│   │   ├── leaderboardRoutes.js
+│   │   ├── achievementRoutes.js
+│   │   ├── friendRoutes.js
+│   │   ├── notificationRoutes.js
+│   │   ├── truthDareRoutes.js
+│   │   ├── uploadRoutes.js
+│   │   └── reportRoutes.js
+│   │
+│   ├── middleware/
+│   │   ├── authMiddleware.js
+│   │   ├── errorMiddleware.js
+│   │   ├── rateLimitMiddleware.js
+│   │   ├── validateMiddleware.js
+│   │   ├── notFoundMiddleware.js
+│   │   ├── uploadMiddleware.js
+│   │   └── adminMiddleware.js
+│   │
+│   ├── services/
+│   │   ├── authService.js
+│   │   ├── emailService.js
+│   │   ├── roomService.js
+│   │   ├── matchService.js
+│   │   ├── scoreService.js
+│   │   ├── leaderboardService.js
+│   │   ├── achievementService.js
+│   │   ├── truthDareService.js
+│   │   ├── friendService.js
+│   │   ├── notificationService.js
+│   │   ├── uploadService.js
+│   │   └── moderationService.js
+│   │
+│   ├── sockets/
+│   │   ├── socketServer.js
+│   │   ├── socketAuth.js
+│   │   ├── socketEvents.js
+│   │   ├── roomHandlers.js
+│   │   ├── gameHandlers.js
+│   │   ├── chatHandlers.js
+│   │   ├── presenceHandlers.js
+│   │   └── matchmakingHandlers.js
+│   │/////############TBC
+│   ├── games/
+│   │   ├── multiplayer/
+│   │   │   ├── ticTacToeEngine.js
+│   │   │   ├── rockPaperScissorsEngine.js
+│   │   │   ├── connectFourEngine.js
+│   │   │   ├── guessNumberEngine.js
+│   │   │   ├── wordBattleEngine.js
+│   │   │   ├── quizBattleEngine.js
+│   │   │   ├── emojiGuessEngine.js
+│   │   │   ├── truthOrDareEngine.js
+│   │   │   ├── guessPictureEngine.js
+│   │   │   ├── drawGuessEngine.js
+│   │   │   ├── whoAmIEngine.js
+│   │   │   └── numberBattleEngine.js
+│   │   │
+│   │   ├── turn-by-turn/
+│   │   │   ├── coupleQuizEngine.js
+│   │   │   ├── guessWordEngine.js
+│   │   │   ├── emojiChallengeEngine.js
+│   │   │   └── storyBuilderEngine.js
+│   │   │
+│   │   └── shared/
+│   │       ├── gameRegistry.js
+│   │       ├── gameValidator.js
+│   │       ├── scoreCalculator.js
+│   │       ├── turnManager.js
+│   │       ├── timerManager.js
+│   │       ├── roomManager.js
+│   │       └── matchmakingManager.js
+│   │
+│   ├── data/
+│   │   ├── games/
+│   │   │   ├── gameCatalog.json
+│   │   │   └── gameCategories.json
+│   │   ├── quizzes/
+│   │   │   ├── general.json
+│   │   │   ├── science.json
+│   │   │   ├── sports.json
+│   │   │   ├── entertainment.json
+│   │   │   └── technology.json
+│   │   ├── words/
+│   │   │   ├── easy.json
+│   │   │   ├── medium.json
+│   │   │   └── hard.json
+│   │   ├── emojis/
+│   │   │   └── emojiQuestions.json
+│   │   ├── pictures/
+│   │   │   └── pictureQuestions.json
+│   │   ├── truth-dare/
+│   │   │   ├── normal/
+│   │   │   │   ├── truths.json
+│   │   │   │   └── dares.json
+│   │   │   ├── adult-18-plus/
+│   │   │   │   ├── truths.json
+│   │   │   │   └── dares.json
+│   │   │   ├── private/
+│   │   │   │   ├── truths.json
+│   │   │   │   └── dares.json
+│   │   │   ├── couples/
+│   │   │   │   ├── truths.json
+│   │   │   │   └── dares.json
+│   │   │   ├── friends-party/
+│   │   │   │   ├── truths.json
+│   │   │   │   └── dares.json
+│   │   │   ├── funny-crazy/
+│   │   │   │   ├── truths.json
+│   │   │   │   └── dares.json
+│   │   │   └── long-distance/
+│   │   │       ├── truths.json
+│   │   │       └── dares.json
+│   │   └── achievements/
+│   │       └── achievements.json
+│   │
+│   ├── validators/
+│   │   ├── authValidator.js
+│   │   ├── roomValidator.js
+│   │   ├── gameValidator.js
+│   │   ├── userValidator.js
+│   │   ├── friendValidator.js
+│   │   └── truthDareValidator.js
+│   │
+│   ├── utils/
+│   │   ├── token.js
+│   │   ├── password.js
+│   │   ├── generateRoomCode.js
+│   │   ├── generateRandom.js
+│   │   ├── ApiError.js
+│   │   ├── asyncHandler.js
+│   │   ├── logger.js
+│   │   └── sanitize.js
+│   │
+│   ├── jobs/
+│   │   ├── cleanupRooms.js
+│   │   ├── cleanupSessions.js
+│   │   └── cleanupNotifications.js
+│   │
+│   ├── tests/
+│   │   ├── auth/
+│   │   │   ├── auth.test.js
+│   │   │   └── password.test.js
+│   │   ├── games/
+│   │   │   ├── ticTacToe.test.js
+│   │   │   ├── connectFour.test.js
+│   │   │   └── gameValidation.test.js
+│   │   ├── rooms/
+│   │   │   └── room.test.js
+│   │   └── sockets/
+│   │       └── socketEvents.test.js
+│   │
+│   └── scripts/
+│       ├── seedGames.js
+│       ├── seedAchievements.js
+│       ├── importTruthDare.js
+│       ├── validateTruthDare.js
+│       └── createAdmin.js
+│
+├── shared/
+│   ├── constants/
+│   │   ├── gameIds.js
+│   │   ├── gameModes.js
+│   │   ├── socketEvents.js
+│   │   └── appConstants.js
+│   └── validation/
+│       ├── gameRules.js
+│       └── roomRules.js
+│
+├── mobile/
+│   ├── capacitor.config.js
+│   └── README.md
+│
+└── docs/
+    ├── PROJECT_OVERVIEW.md
+    ├── DATABASE_SCHEMA.md
+    ├── API_DOCUMENTATION.md
+    ├── SOCKET_EVENTS.md
+    ├── GAME_RULES.md
+    ├── SECURITY.md
+    ├── DEPLOYMENT.md
+    ├── ANDROID_BUILD.md
+    └── DEVELOPMENT_ROADMAP.md

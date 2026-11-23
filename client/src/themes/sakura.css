@@ -1,0 +1,33 @@
+
+:root[data-theme="sakura"] {
+  color-scheme: light;
+
+  --bg-primary: #FFF1F5;
+  --bg-secondary: #FFE4EC;
+  --bg-tertiary: #FCE7F3;
+  --bg-card: #FFFFFF;
+  --bg-card-hover: #FFF7FA;
+  --bg-elevated: #FFFFFF;
+
+  --text-primary: #4A1832;
+  --text-secondary: #813D61;
+  --text-muted: #A66C89;
+  --text-inverse: #FFFFFF;
+
+  --accent-primary: #DB2777;
+  --accent-secondary: #EC4899;
+  --accent-hover: #BE185D;
+  --accent-soft: rgba(219, 39, 119, 0.12);
+
+  --border-color: #F3C6D9;
+  --border-hover: #E99BBC;
+  --input-bg: #FFFFFF;
+
+  --success: #15803D;
+  --danger: #DC2626;
+  --warning: #B45309;
+  --info: #0369A1;
+
+  --shadow: 0 8px 30px rgba(131, 24, 67, 0.09);
+  --radius: 14px;
+}

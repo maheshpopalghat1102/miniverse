@@ -1,0 +1,1402 @@
+[
+  {
+    "questionId": "technology-001",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Utility",
+      "Central Program Upload",
+      "Core Processing User"
+    ],
+    "correctIndex": 0,
+    "explanation": "CPU stands for Central Processing Unit.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-002",
+    "question": "Which language is primarily used to style web pages?",
+    "options": [
+      "HTML",
+      "CSS",
+      "SQL",
+      "Python"
+    ],
+    "correctIndex": 1,
+    "explanation": "CSS controls the presentation and layout of web pages.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-003",
+    "question": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Program",
+      "Hyper Tool Transmission Process",
+      "Host Transfer Technology Protocol"
+    ],
+    "correctIndex": 0,
+    "explanation": "HTTP stands for HyperText Transfer Protocol.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "technology-004",
+    "question": "Which database is commonly used with the MERN stack?",
+    "options": [
+      "MongoDB",
+      "SQLite",
+      "Oracle Database",
+      "Redis only"
+    ],
+    "correctIndex": 0,
+    "explanation": "MERN uses MongoDB, Express, React, and Node.js.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-005",
+    "question": "What is Git primarily used for?",
+    "options": [
+      "Image editing",
+      "Version control",
+      "Video streaming",
+      "Database hosting"
+    ],
+    "correctIndex": 1,
+    "explanation": "Git tracks changes to source code and other files.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-006",
+    "question": "What does URL stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Reference Link",
+      "Unified Routing Language",
+      "User Resource List"
+    ],
+    "correctIndex": 0,
+    "explanation": "A URL is a Uniform Resource Locator, the address of a resource.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-007",
+    "question": "Which number system uses only 0 and 1?",
+    "options": [
+      "Decimal",
+      "Binary",
+      "Octal",
+      "Hexadecimal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Binary is a base-two number system with digits 0 and 1.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-008",
+    "question": "What does RAM provide to a computer?",
+    "options": [
+      "Long-term archival storage",
+      "Temporary working memory",
+      "A network connection",
+      "A display signal"
+    ],
+    "correctIndex": 1,
+    "explanation": "RAM stores data temporarily while programs are running.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-009",
+    "question": "Which protocol is commonly used to securely browse websites?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "HTTPS",
+      "SMTP"
+    ],
+    "correctIndex": 2,
+    "explanation": "HTTPS protects web traffic using TLS encryption.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-010",
+    "question": "What is an algorithm?",
+    "options": [
+      "A computer's power supply",
+      "A step-by-step procedure for solving a problem",
+      "A type of monitor",
+      "A programming language"
+    ],
+    "correctIndex": 1,
+    "explanation": "An algorithm is a defined sequence of steps for a task or problem.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-011",
+    "question": "Which device forwards data between different computer networks?",
+    "options": [
+      "Router",
+      "Keyboard",
+      "Microphone",
+      "Scanner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Routers direct network traffic between networks.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-012",
+    "question": "What does open-source software generally mean?",
+    "options": [
+      "Its source code is available under a license for inspection and use",
+      "It can only run offline",
+      "It has no user interface",
+      "It is always free of charge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Open-source licenses allow access to source code and define permitted uses.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "technology-013",
+    "question": "Which storage device has no moving parts and uses flash memory?",
+    "options": [
+      "Hard disk drive",
+      "Solid-state drive",
+      "Optical disc",
+      "Magnetic tape"
+    ],
+    "correctIndex": 1,
+    "explanation": "An SSD stores data in flash memory without spinning disks.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-014",
+    "question": "What is two-factor authentication designed to add?",
+    "options": [
+      "A second verification step",
+      "A second username",
+      "A faster internet connection",
+      "An extra copy of a file"
+    ],
+    "correctIndex": 0,
+    "explanation": "Two-factor authentication requires a second proof of identity.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "technology-015",
+    "question": "Which language is widely used to query relational databases?",
+    "options": [
+      "SQL",
+      "CSS",
+      "XML",
+      "Bash"
+    ],
+    "correctIndex": 0,
+    "explanation": "SQL is the standard language used to query and manage relational databases.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "question": "What does DNS translate into an IP address?",
+    "options": [
+      "A domain name",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "A domain name.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-016"
+  },
+  {
+    "question": "What does a CDN distribute closer to users?",
+    "options": [
+      "Web content",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Web content.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-017"
+  },
+  {
+    "question": "What does an SSD store data on?",
+    "options": [
+      "Flash memory",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Flash memory.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-018"
+  },
+  {
+    "question": "What does a GPU primarily accelerate?",
+    "options": [
+      "Graphics and parallel computations",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Graphics and parallel computations.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-019"
+  },
+  {
+    "question": "What does a firewall filter?",
+    "options": [
+      "Network traffic",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Network traffic.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-020"
+  },
+  {
+    "question": "What does a compiler translate?",
+    "options": [
+      "Source code into another representation",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Source code into another representation.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-021"
+  },
+  {
+    "question": "What does a browser render?",
+    "options": [
+      "Web pages",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Web pages.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-022"
+  },
+  {
+    "question": "What does a database index help speed up?",
+    "options": [
+      "Data lookup",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Data lookup.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-023"
+  },
+  {
+    "question": "What does a QR code encode?",
+    "options": [
+      "Machine-readable information",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machine-readable information.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-024"
+  },
+  {
+    "question": "What does a checksum help verify?",
+    "options": [
+      "Data integrity",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Data integrity.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-025"
+  },
+  {
+    "question": "What does a cache keep for faster access?",
+    "options": [
+      "Recently used data",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Recently used data.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-026"
+  },
+  {
+    "question": "What does a load balancer distribute?",
+    "options": [
+      "Requests across servers",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Requests across servers.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-027"
+  },
+  {
+    "question": "What does a container package with an application?",
+    "options": [
+      "Its dependencies and runtime",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Its dependencies and runtime.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-028"
+  },
+  {
+    "question": "What does a version-control branch isolate?",
+    "options": [
+      "A line of development",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "A line of development.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-029"
+  },
+  {
+    "question": "What does a password manager store securely?",
+    "options": [
+      "Login credentials",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Login credentials.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-030"
+  },
+  {
+    "question": "What does end-to-end encryption protect?",
+    "options": [
+      "Messages between communicating endpoints",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Messages between communicating endpoints.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-031"
+  },
+  {
+    "question": "What does a search engine index?",
+    "options": [
+      "Web pages and other content",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Web pages and other content.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-032"
+  },
+  {
+    "question": "What does a pixel represent in a digital image?",
+    "options": [
+      "A picture element",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "A picture element.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-033"
+  },
+  {
+    "question": "What does a touch screen detect?",
+    "options": [
+      "Touch input",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Touch input.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-034"
+  },
+  {
+    "question": "What does a virtual machine emulate?",
+    "options": [
+      "A computer system",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "A computer system.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-035"
+  },
+  {
+    "question": "What does a web cookie commonly store?",
+    "options": [
+      "Small pieces of website-related data",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Small pieces of website-related data.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-036"
+  },
+  {
+    "question": "What does a motherboard connect?",
+    "options": [
+      "Computer components",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Computer components.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-037"
+  },
+  {
+    "question": "What does a UPS provide during a power failure?",
+    "options": [
+      "Temporary backup power",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Temporary backup power.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-038"
+  },
+  {
+    "question": "What does an interpreter execute?",
+    "options": [
+      "Program instructions",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Program instructions.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-039"
+  },
+  {
+    "question": "What does a compiler produce from source code?",
+    "options": [
+      "Executable or intermediate code",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Executable or intermediate code.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-040"
+  },
+  {
+    "question": "What does a router forward?",
+    "options": [
+      "Packets between networks",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Packets between networks.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-041"
+  },
+  {
+    "question": "What does a modem modulate and demodulate?",
+    "options": [
+      "Signals for data communication",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signals for data communication.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-042"
+  },
+  {
+    "question": "What does a stylus provide on a tablet?",
+    "options": [
+      "Pen-like input",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pen-like input.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-043"
+  },
+  {
+    "question": "What does a CAPTCHA help distinguish?",
+    "options": [
+      "People from automated programs",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "People from automated programs.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-044"
+  },
+  {
+    "question": "What does a data backup preserve?",
+    "options": [
+      "A recoverable copy of information",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "A recoverable copy of information.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-045"
+  },
+  {
+    "question": "What does a repository contain in software development?",
+    "options": [
+      "Project files and their version history",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Project files and their version history.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-046"
+  },
+  {
+    "question": "What does an operating system manage?",
+    "options": [
+      "Hardware and software resources",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hardware and software resources.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-047"
+  },
+  {
+    "question": "What does a web server deliver?",
+    "options": [
+      "Web content to clients",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Web content to clients.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-048"
+  },
+  {
+    "question": "What does an email client manage?",
+    "options": [
+      "Electronic mail",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Electronic mail.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-049"
+  },
+  {
+    "question": "What does a compiler error usually indicate?",
+    "options": [
+      "Code that cannot be translated as written",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Code that cannot be translated as written.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-050"
+  },
+  {
+    "question": "What does two-factor authentication require?",
+    "options": [
+      "Two different verification factors",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Two different verification factors.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-051"
+  },
+  {
+    "question": "What does a sitemap describe?",
+    "options": [
+      "The organization of pages on a website",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "The organization of pages on a website.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-052"
+  },
+  {
+    "question": "What does a search algorithm rank?",
+    "options": [
+      "Results relevant to a query",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Results relevant to a query.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-053"
+  },
+  {
+    "question": "What does a spreadsheet cell hold?",
+    "options": [
+      "A value or formula",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "A value or formula.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-054"
+  },
+  {
+    "question": "What does a graphics tablet capture?",
+    "options": [
+      "Pen movement and pressure input",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pen movement and pressure input.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-055"
+  },
+  {
+    "question": "What does a DNS resolver look up?",
+    "options": [
+      "The address associated with a domain",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "The address associated with a domain.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-056"
+  },
+  {
+    "question": "What does a software patch usually fix?",
+    "options": [
+      "A defect or security issue",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "A defect or security issue.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-057"
+  },
+  {
+    "question": "What does a touchpad control?",
+    "options": [
+      "The pointer on a computer screen",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "The pointer on a computer screen.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-058"
+  },
+  {
+    "question": "What does a webcam capture?",
+    "options": [
+      "Video or still images",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Video or still images.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-059"
+  },
+  {
+    "question": "What does a microphone convert into a signal?",
+    "options": [
+      "Sound",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sound.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-060"
+  },
+  {
+    "question": "What does a speaker convert into sound?",
+    "options": [
+      "An audio signal",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "An audio signal.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-061"
+  },
+  {
+    "question": "What does a router use to identify a local network device?",
+    "options": [
+      "An IP address",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "An IP address.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-062"
+  },
+  {
+    "question": "What does a search query contain?",
+    "options": [
+      "Terms describing information sought",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Terms describing information sought.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-063"
+  },
+  {
+    "question": "What does a software license define?",
+    "options": [
+      "Permissions and conditions for using software",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Permissions and conditions for using software.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-064"
+  },
+  {
+    "question": "What does encryption transform?",
+    "options": [
+      "Readable data into protected data",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Readable data into protected data.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-065"
+  },
+  {
+    "question": "What does decryption recover?",
+    "options": [
+      "Readable data from encrypted data",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Readable data from encrypted data.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-066"
+  },
+  {
+    "question": "What does a QR reader decode?",
+    "options": [
+      "Information in a QR pattern",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Information in a QR pattern.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-067"
+  },
+  {
+    "question": "What does a compiler check before producing a program?",
+    "options": [
+      "Source code syntax and semantics",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Source code syntax and semantics.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-068"
+  },
+  {
+    "question": "What does an API let software do?",
+    "options": [
+      "Communicate with another service",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Communicate with another service.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-069"
+  },
+  {
+    "question": "What does a browser tab represent?",
+    "options": [
+      "An individual open page",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "An individual open page.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-070"
+  },
+  {
+    "question": "What does a browser bookmark save?",
+    "options": [
+      "A link to a page",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "A link to a page.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-071"
+  },
+  {
+    "question": "What does a recycle bin hold temporarily?",
+    "options": [
+      "Deleted files",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Deleted files.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-072"
+  },
+  {
+    "question": "What does a file extension often indicate?",
+    "options": [
+      "The file format",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "The file format.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-073"
+  },
+  {
+    "question": "What does a screenshot capture?",
+    "options": [
+      "The current display image",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "The current display image.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-074"
+  },
+  {
+    "question": "What does a search filter narrow?",
+    "options": [
+      "A set of results",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "A set of results.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-075"
+  },
+  {
+    "question": "What does cloud storage keep?",
+    "options": [
+      "Files on remote servers",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Files on remote servers.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-076"
+  },
+  {
+    "question": "What does a local network connect?",
+    "options": [
+      "Devices in a limited area",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Devices in a limited area.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-077"
+  },
+  {
+    "question": "What does a password hash represent?",
+    "options": [
+      "A one-way transformed password value",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "A one-way transformed password value.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-078"
+  },
+  {
+    "question": "What does a text editor create or modify?",
+    "options": [
+      "Plain text files",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Plain text files.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-079"
+  },
+  {
+    "question": "What does an image editor modify?",
+    "options": [
+      "Digital images",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Digital images.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-080"
+  },
+  {
+    "question": "What does a compiler optimize?",
+    "options": [
+      "Program code for execution",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Program code for execution.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-081"
+  },
+  {
+    "question": "What does a device driver enable?",
+    "options": [
+      "Communication with hardware",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Communication with hardware.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-082"
+  },
+  {
+    "question": "What does a smart speaker respond to?",
+    "options": [
+      "Voice commands",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Voice commands.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-083"
+  },
+  {
+    "question": "What does a battery indicator report?",
+    "options": [
+      "Remaining charge",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Remaining charge.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-084"
+  },
+  {
+    "question": "What does a heat sink dissipate?",
+    "options": [
+      "Heat from electronic components",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Heat from electronic components.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-085"
+  },
+  {
+    "question": "What does a USB port connect?",
+    "options": [
+      "Compatible peripherals",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Compatible peripherals.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-086"
+  },
+  {
+    "question": "What does an HDMI cable carry?",
+    "options": [
+      "Digital audio and video",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Digital audio and video.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-087"
+  },
+  {
+    "question": "What does a router firewall help control?",
+    "options": [
+      "Inbound and outbound network traffic",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inbound and outbound network traffic.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-088"
+  },
+  {
+    "question": "What does an antivirus program scan for?",
+    "options": [
+      "Malicious software",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Malicious software.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-089"
+  },
+  {
+    "question": "What does an operating-system update often include?",
+    "options": [
+      "Fixes and improvements",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fixes and improvements.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-090"
+  },
+  {
+    "question": "What does a file compression tool reduce?",
+    "options": [
+      "File size",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "File size.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-091"
+  },
+  {
+    "question": "What does a browser cache save?",
+    "options": [
+      "Copies of web resources",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Copies of web resources.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-092"
+  },
+  {
+    "question": "What does a domain registrar manage?",
+    "options": [
+      "Internet domain registrations",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Internet domain registrations.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-093"
+  },
+  {
+    "question": "What does a web form collect?",
+    "options": [
+      "User-entered information",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "User-entered information.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-094"
+  },
+  {
+    "question": "What does a digital signature help verify?",
+    "options": [
+      "The origin and integrity of data",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "The origin and integrity of data.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-095"
+  },
+  {
+    "question": "What does an access point provide?",
+    "options": [
+      "Wireless network connectivity",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wireless network connectivity.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "technology-096"
+  },
+  {
+    "question": "What does an e-reader display?",
+    "options": [
+      "Digital books",
+      "A power connector",
+      "A battery type",
+      "A window border"
+    ],
+    "correctIndex": 0,
+    "explanation": "Digital books.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-097"
+  },
+  {
+    "question": "What does an accelerometer detect?",
+    "options": [
+      "Changes in motion",
+      "A file extension",
+      "A printer setting",
+      "A desktop theme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Changes in motion.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-098"
+  },
+  {
+    "question": "What does a GPS receiver determine?",
+    "options": [
+      "Position using satellite signals",
+      "A sound effect",
+      "A keyboard shortcut",
+      "A folder name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Position using satellite signals.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-099"
+  },
+  {
+    "question": "What does a barcode scanner read?",
+    "options": [
+      "Encoded product information",
+      "A display setting",
+      "A screen resolution",
+      "A font style"
+    ],
+    "correctIndex": 0,
+    "explanation": "Encoded product information.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "technology-100"
+  }
+]

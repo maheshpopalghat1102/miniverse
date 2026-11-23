@@ -1,0 +1,1402 @@
+[
+  {
+    "questionId": "science-001",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iron-rich dust gives Mars its reddish appearance.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-002",
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Gd"
+    ],
+    "correctIndex": 1,
+    "explanation": "Au comes from the Latin word aurum.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-003",
+    "question": "Which organelle produces most cellular ATP?",
+    "options": [
+      "Ribosome",
+      "Nucleus",
+      "Mitochondrion",
+      "Golgi apparatus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mitochondria produce most ATP during aerobic respiration.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-004",
+    "question": "What is the approximate speed of light in vacuum?",
+    "options": [
+      "300,000 km/s",
+      "30,000 km/s",
+      "3,000 km/s",
+      "3 million km/s"
+    ],
+    "correctIndex": 0,
+    "explanation": "Light travels at approximately 299,792 km/s in vacuum.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-005",
+    "question": "What is the SI unit of electric current?",
+    "options": [
+      "Volt",
+      "Watt",
+      "Ampere",
+      "Ohm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Electric current is measured in amperes.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-006",
+    "question": "What gas do plants absorb during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Plants use carbon dioxide, water, and light to make sugars.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-007",
+    "question": "What is the closest star to Earth?",
+    "options": [
+      "Sirius",
+      "Proxima Centauri",
+      "The Sun",
+      "Alpha Centauri A"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Sun is Earth's nearest star.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-008",
+    "question": "What is the process by which liquid water becomes water vapor?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Freezing",
+      "Deposition"
+    ],
+    "correctIndex": 1,
+    "explanation": "Evaporation changes liquid water into water vapor.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-009",
+    "question": "What is the chemical symbol for sodium?",
+    "options": [
+      "So",
+      "S",
+      "Na",
+      "N"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na is the symbol for sodium, from the Latin natrium.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-010",
+    "question": "Which force keeps planets in orbit around the Sun?",
+    "options": [
+      "Friction",
+      "Magnetism",
+      "Gravity",
+      "Buoyancy"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Sun's gravitational attraction keeps planets in orbit.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-011",
+    "question": "Which part of a human cell contains most of its genetic material?",
+    "options": [
+      "Nucleus",
+      "Cell membrane",
+      "Ribosome",
+      "Cytoplasm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Most cellular DNA is stored in the nucleus.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-012",
+    "question": "What is the pH of a neutral solution at room temperature?",
+    "options": [
+      "0",
+      "5",
+      "7",
+      "14"
+    ],
+    "correctIndex": 2,
+    "explanation": "A neutral aqueous solution has a pH close to 7 at room temperature.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-013",
+    "question": "Which blood cells help the body fight infections?",
+    "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma cells only"
+    ],
+    "correctIndex": 1,
+    "explanation": "White blood cells are key components of the immune system.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-014",
+    "question": "What is the hardest naturally occurring mineral?",
+    "options": [
+      "Quartz",
+      "Topaz",
+      "Diamond",
+      "Corundum"
+    ],
+    "correctIndex": 2,
+    "explanation": "Diamond ranks highest on the Mohs scale of mineral hardness.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-015",
+    "question": "Which layer of Earth lies between the crust and the core?",
+    "options": [
+      "Mantle",
+      "Troposphere",
+      "Lithosphere",
+      "Outer atmosphere"
+    ],
+    "correctIndex": 0,
+    "explanation": "The mantle lies beneath Earth's crust and surrounds the core.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-016",
+    "question": "What is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "F",
+      "Ti",
+      "Br"
+    ],
+    "correctIndex": 0,
+    "explanation": "H is the chemical symbol for Hydrogen.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-017",
+    "question": "What is the chemical symbol for Helium?",
+    "options": [
+      "Kr",
+      "Ne",
+      "V",
+      "He"
+    ],
+    "correctIndex": 3,
+    "explanation": "He is the chemical symbol for Helium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-018",
+    "question": "What is the chemical symbol for Lithium?",
+    "options": [
+      "Cr",
+      "Mg",
+      "Li",
+      "Rb"
+    ],
+    "correctIndex": 2,
+    "explanation": "Li is the chemical symbol for Lithium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-019",
+    "question": "What is the chemical symbol for Beryllium?",
+    "options": [
+      "Al",
+      "Be",
+      "Mn",
+      "Sr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Be is the chemical symbol for Beryllium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-020",
+    "question": "What is the chemical symbol for Boron?",
+    "options": [
+      "B",
+      "Si",
+      "Co",
+      "Y"
+    ],
+    "correctIndex": 0,
+    "explanation": "B is the chemical symbol for Boron.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-021",
+    "question": "What is the chemical symbol for Carbon?",
+    "options": [
+      "Zr",
+      "P",
+      "Ni",
+      "C"
+    ],
+    "correctIndex": 3,
+    "explanation": "C is the chemical symbol for Carbon.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-022",
+    "question": "What is the chemical symbol for Nitrogen?",
+    "options": [
+      "Cu",
+      "S",
+      "N",
+      "Nb"
+    ],
+    "correctIndex": 2,
+    "explanation": "N is the chemical symbol for Nitrogen.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-023",
+    "question": "What is the chemical symbol for Fluorine?",
+    "options": [
+      "Cl",
+      "F",
+      "Zn",
+      "Mo"
+    ],
+    "correctIndex": 1,
+    "explanation": "F is the chemical symbol for Fluorine.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-024",
+    "question": "What is the chemical symbol for Neon?",
+    "options": [
+      "Ne",
+      "Ar",
+      "Ga",
+      "Tc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ne is the chemical symbol for Neon.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-025",
+    "question": "What is the chemical symbol for Magnesium?",
+    "options": [
+      "Ru",
+      "K",
+      "Ge",
+      "Mg"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mg is the chemical symbol for Magnesium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-026",
+    "question": "What is the chemical symbol for Aluminium?",
+    "options": [
+      "As",
+      "Ca",
+      "Al",
+      "Rh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al is the chemical symbol for Aluminium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-027",
+    "question": "What is the chemical symbol for Silicon?",
+    "options": [
+      "Sc",
+      "Si",
+      "Se",
+      "Pd"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si is the chemical symbol for Silicon.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-028",
+    "question": "What is the chemical symbol for Phosphorus?",
+    "options": [
+      "P",
+      "Ti",
+      "Br",
+      "Cd"
+    ],
+    "correctIndex": 0,
+    "explanation": "P is the chemical symbol for Phosphorus.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-029",
+    "question": "What is the chemical symbol for Sulfur?",
+    "options": [
+      "In",
+      "V",
+      "Kr",
+      "S"
+    ],
+    "correctIndex": 3,
+    "explanation": "S is the chemical symbol for Sulfur.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-030",
+    "question": "What is the chemical symbol for Chlorine?",
+    "options": [
+      "Rb",
+      "Cr",
+      "Cl",
+      "Sn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cl is the chemical symbol for Chlorine.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-031",
+    "question": "What is the chemical symbol for Argon?",
+    "options": [
+      "Mn",
+      "Ar",
+      "Sr",
+      "Sb"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ar is the chemical symbol for Argon.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-032",
+    "question": "What is the chemical symbol for Potassium?",
+    "options": [
+      "K",
+      "Co",
+      "Y",
+      "Te"
+    ],
+    "correctIndex": 0,
+    "explanation": "K is the chemical symbol for Potassium.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-033",
+    "question": "What is the chemical symbol for Calcium?",
+    "options": [
+      "I",
+      "Ni",
+      "Zr",
+      "Ca"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ca is the chemical symbol for Calcium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-034",
+    "question": "What is the chemical symbol for Scandium?",
+    "options": [
+      "Nb",
+      "Cu",
+      "Sc",
+      "Xe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sc is the chemical symbol for Scandium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-035",
+    "question": "What is the chemical symbol for Titanium?",
+    "options": [
+      "Zn",
+      "Ti",
+      "Mo",
+      "Cs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ti is the chemical symbol for Titanium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-036",
+    "question": "What is the chemical symbol for Vanadium?",
+    "options": [
+      "V",
+      "Ga",
+      "Tc",
+      "Ba"
+    ],
+    "correctIndex": 0,
+    "explanation": "V is the chemical symbol for Vanadium.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-037",
+    "question": "What is the chemical symbol for Chromium?",
+    "options": [
+      "La",
+      "Ge",
+      "Ru",
+      "Cr"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cr is the chemical symbol for Chromium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-038",
+    "question": "What is the chemical symbol for Manganese?",
+    "options": [
+      "Rh",
+      "As",
+      "Mn",
+      "Ce"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mn is the chemical symbol for Manganese.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-039",
+    "question": "What is the chemical symbol for Cobalt?",
+    "options": [
+      "Se",
+      "Co",
+      "Pd",
+      "Pr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Co is the chemical symbol for Cobalt.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-040",
+    "question": "What is the chemical symbol for Nickel?",
+    "options": [
+      "Ni",
+      "Br",
+      "Cd",
+      "Nd"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ni is the chemical symbol for Nickel.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-041",
+    "question": "What is the chemical symbol for Copper?",
+    "options": [
+      "Sm",
+      "Kr",
+      "In",
+      "Cu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cu is the chemical symbol for Copper.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-042",
+    "question": "What is the chemical symbol for Zinc?",
+    "options": [
+      "Sn",
+      "Rb",
+      "Zn",
+      "Eu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zn is the chemical symbol for Zinc.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-043",
+    "question": "What is the chemical symbol for Gallium?",
+    "options": [
+      "Sr",
+      "Ga",
+      "Sb",
+      "Gd"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ga is the chemical symbol for Gallium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-044",
+    "question": "What is the chemical symbol for Germanium?",
+    "options": [
+      "Ge",
+      "Y",
+      "Te",
+      "Tb"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ge is the chemical symbol for Germanium.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-045",
+    "question": "What is the chemical symbol for Arsenic?",
+    "options": [
+      "Dy",
+      "Zr",
+      "I",
+      "As"
+    ],
+    "correctIndex": 3,
+    "explanation": "As is the chemical symbol for Arsenic.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-046",
+    "question": "What is the chemical symbol for Selenium?",
+    "options": [
+      "Xe",
+      "Nb",
+      "Se",
+      "Ho"
+    ],
+    "correctIndex": 2,
+    "explanation": "Se is the chemical symbol for Selenium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-047",
+    "question": "What is the chemical symbol for Bromine?",
+    "options": [
+      "Mo",
+      "Br",
+      "Cs",
+      "Er"
+    ],
+    "correctIndex": 1,
+    "explanation": "Br is the chemical symbol for Bromine.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-048",
+    "question": "What is the chemical symbol for Krypton?",
+    "options": [
+      "Kr",
+      "Tc",
+      "Ba",
+      "Tm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kr is the chemical symbol for Krypton.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-049",
+    "question": "What is the chemical symbol for Rubidium?",
+    "options": [
+      "Yb",
+      "Ru",
+      "La",
+      "Rb"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rb is the chemical symbol for Rubidium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-050",
+    "question": "What is the chemical symbol for Strontium?",
+    "options": [
+      "Ce",
+      "Rh",
+      "Sr",
+      "Lu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sr is the chemical symbol for Strontium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-051",
+    "question": "What is the chemical symbol for Yttrium?",
+    "options": [
+      "Pd",
+      "Y",
+      "Pr",
+      "Hf"
+    ],
+    "correctIndex": 1,
+    "explanation": "Y is the chemical symbol for Yttrium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-052",
+    "question": "What is the chemical symbol for Zirconium?",
+    "options": [
+      "Zr",
+      "Cd",
+      "Nd",
+      "Ta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zr is the chemical symbol for Zirconium.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-053",
+    "question": "What is the chemical symbol for Niobium?",
+    "options": [
+      "W",
+      "In",
+      "Sm",
+      "Nb"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nb is the chemical symbol for Niobium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-054",
+    "question": "What is the chemical symbol for Molybdenum?",
+    "options": [
+      "Eu",
+      "Sn",
+      "Mo",
+      "Re"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mo is the chemical symbol for Molybdenum.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-055",
+    "question": "What is the chemical symbol for Technetium?",
+    "options": [
+      "Sb",
+      "Tc",
+      "Gd",
+      "Os"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tc is the chemical symbol for Technetium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-056",
+    "question": "What is the chemical symbol for Ruthenium?",
+    "options": [
+      "Ru",
+      "Te",
+      "Tb",
+      "Ir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ru is the chemical symbol for Ruthenium.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-057",
+    "question": "What is the chemical symbol for Rhodium?",
+    "options": [
+      "Pt",
+      "I",
+      "Dy",
+      "Rh"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rh is the chemical symbol for Rhodium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-058",
+    "question": "What is the chemical symbol for Palladium?",
+    "options": [
+      "Ho",
+      "Xe",
+      "Pd",
+      "Hg"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pd is the chemical symbol for Palladium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-059",
+    "question": "What is the chemical symbol for Cadmium?",
+    "options": [
+      "Cs",
+      "Cd",
+      "Er",
+      "Tl"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cd is the chemical symbol for Cadmium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-060",
+    "question": "What is the chemical symbol for Indium?",
+    "options": [
+      "In",
+      "Ba",
+      "Tm",
+      "Pb"
+    ],
+    "correctIndex": 0,
+    "explanation": "In is the chemical symbol for Indium.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-061",
+    "question": "What is the chemical symbol for Tin?",
+    "options": [
+      "Bi",
+      "La",
+      "Yb",
+      "Sn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sn is the chemical symbol for Tin.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-062",
+    "question": "What is the chemical symbol for Antimony?",
+    "options": [
+      "Lu",
+      "Ce",
+      "Sb",
+      "Po"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sb is the chemical symbol for Antimony.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-063",
+    "question": "What is the chemical symbol for Tellurium?",
+    "options": [
+      "Pr",
+      "Te",
+      "Hf",
+      "At"
+    ],
+    "correctIndex": 1,
+    "explanation": "Te is the chemical symbol for Tellurium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-064",
+    "question": "What is the chemical symbol for Iodine?",
+    "options": [
+      "I",
+      "Nd",
+      "Ta",
+      "Rn"
+    ],
+    "correctIndex": 0,
+    "explanation": "I is the chemical symbol for Iodine.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-065",
+    "question": "What is the chemical symbol for Xenon?",
+    "options": [
+      "Fr",
+      "Sm",
+      "W",
+      "Xe"
+    ],
+    "correctIndex": 3,
+    "explanation": "Xe is the chemical symbol for Xenon.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-066",
+    "question": "What is the chemical symbol for Caesium?",
+    "options": [
+      "Re",
+      "Eu",
+      "Cs",
+      "Ra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cs is the chemical symbol for Caesium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-067",
+    "question": "What is the chemical symbol for Barium?",
+    "options": [
+      "Gd",
+      "Ba",
+      "Os",
+      "Ac"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ba is the chemical symbol for Barium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-068",
+    "question": "What is the chemical symbol for Lanthanum?",
+    "options": [
+      "La",
+      "Tb",
+      "Ir",
+      "Th"
+    ],
+    "correctIndex": 0,
+    "explanation": "La is the chemical symbol for Lanthanum.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-069",
+    "question": "What is the chemical symbol for Cerium?",
+    "options": [
+      "Pa",
+      "Dy",
+      "Pt",
+      "Ce"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ce is the chemical symbol for Cerium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-070",
+    "question": "What is the chemical symbol for Praseodymium?",
+    "options": [
+      "Hg",
+      "Ho",
+      "Pr",
+      "U"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pr is the chemical symbol for Praseodymium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-071",
+    "question": "What is the chemical symbol for Neodymium?",
+    "options": [
+      "Er",
+      "Nd",
+      "Tl",
+      "H"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nd is the chemical symbol for Neodymium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-072",
+    "question": "What is the chemical symbol for Samarium?",
+    "options": [
+      "Sm",
+      "Tm",
+      "Pb",
+      "He"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sm is the chemical symbol for Samarium.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-073",
+    "question": "What is the chemical symbol for Europium?",
+    "options": [
+      "Li",
+      "Yb",
+      "Bi",
+      "Eu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Eu is the chemical symbol for Europium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-074",
+    "question": "What is the chemical symbol for Gadolinium?",
+    "options": [
+      "Po",
+      "Lu",
+      "Gd",
+      "Be"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gd is the chemical symbol for Gadolinium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-075",
+    "question": "What is the chemical symbol for Terbium?",
+    "options": [
+      "Hf",
+      "Tb",
+      "At",
+      "B"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tb is the chemical symbol for Terbium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-076",
+    "question": "What is the chemical symbol for Dysprosium?",
+    "options": [
+      "Dy",
+      "Ta",
+      "Rn",
+      "C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dy is the chemical symbol for Dysprosium.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-077",
+    "question": "What is the chemical symbol for Holmium?",
+    "options": [
+      "N",
+      "W",
+      "Fr",
+      "Ho"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ho is the chemical symbol for Holmium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-078",
+    "question": "What is the chemical symbol for Erbium?",
+    "options": [
+      "Ra",
+      "Re",
+      "Er",
+      "F"
+    ],
+    "correctIndex": 2,
+    "explanation": "Er is the chemical symbol for Erbium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-079",
+    "question": "What is the chemical symbol for Thulium?",
+    "options": [
+      "Os",
+      "Tm",
+      "Ac",
+      "Ne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tm is the chemical symbol for Thulium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-080",
+    "question": "What is the chemical symbol for Ytterbium?",
+    "options": [
+      "Yb",
+      "Ir",
+      "Th",
+      "Mg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yb is the chemical symbol for Ytterbium.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-081",
+    "question": "What is the chemical symbol for Lutetium?",
+    "options": [
+      "Al",
+      "Pt",
+      "Pa",
+      "Lu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lu is the chemical symbol for Lutetium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-082",
+    "question": "What is the chemical symbol for Hafnium?",
+    "options": [
+      "U",
+      "Hg",
+      "Hf",
+      "Si"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hf is the chemical symbol for Hafnium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-083",
+    "question": "What is the chemical symbol for Tantalum?",
+    "options": [
+      "Tl",
+      "Ta",
+      "H",
+      "P"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ta is the chemical symbol for Tantalum.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-084",
+    "question": "What is the chemical symbol for Tungsten?",
+    "options": [
+      "W",
+      "Pb",
+      "He",
+      "S"
+    ],
+    "correctIndex": 0,
+    "explanation": "W is the chemical symbol for Tungsten.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-085",
+    "question": "What is the chemical symbol for Rhenium?",
+    "options": [
+      "Cl",
+      "Bi",
+      "Li",
+      "Re"
+    ],
+    "correctIndex": 3,
+    "explanation": "Re is the chemical symbol for Rhenium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-086",
+    "question": "What is the chemical symbol for Osmium?",
+    "options": [
+      "Be",
+      "Po",
+      "Os",
+      "Ar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os is the chemical symbol for Osmium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-087",
+    "question": "What is the chemical symbol for Iridium?",
+    "options": [
+      "At",
+      "Ir",
+      "B",
+      "K"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ir is the chemical symbol for Iridium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-088",
+    "question": "What is the chemical symbol for Platinum?",
+    "options": [
+      "Pt",
+      "Rn",
+      "C",
+      "Ca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pt is the chemical symbol for Platinum.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-089",
+    "question": "What is the chemical symbol for Mercury?",
+    "options": [
+      "Sc",
+      "Fr",
+      "N",
+      "Hg"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hg is the chemical symbol for Mercury.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-090",
+    "question": "What is the chemical symbol for Thallium?",
+    "options": [
+      "F",
+      "Ra",
+      "Tl",
+      "Ti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tl is the chemical symbol for Thallium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-091",
+    "question": "What is the chemical symbol for Lead?",
+    "options": [
+      "Ac",
+      "Pb",
+      "Ne",
+      "V"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pb is the chemical symbol for Lead.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-092",
+    "question": "What is the chemical symbol for Bismuth?",
+    "options": [
+      "Bi",
+      "Th",
+      "Mg",
+      "Cr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bi is the chemical symbol for Bismuth.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-093",
+    "question": "What is the chemical symbol for Polonium?",
+    "options": [
+      "Mn",
+      "Pa",
+      "Al",
+      "Po"
+    ],
+    "correctIndex": 3,
+    "explanation": "Po is the chemical symbol for Polonium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-094",
+    "question": "What is the chemical symbol for Astatine?",
+    "options": [
+      "Si",
+      "U",
+      "At",
+      "Co"
+    ],
+    "correctIndex": 2,
+    "explanation": "At is the chemical symbol for Astatine.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-095",
+    "question": "What is the chemical symbol for Radon?",
+    "options": [
+      "H",
+      "Rn",
+      "P",
+      "Ni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rn is the chemical symbol for Radon.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-096",
+    "question": "What is the chemical symbol for Francium?",
+    "options": [
+      "Fr",
+      "He",
+      "S",
+      "Cu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fr is the chemical symbol for Francium.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "science-097",
+    "question": "What is the chemical symbol for Radium?",
+    "options": [
+      "Zn",
+      "Li",
+      "Cl",
+      "Ra"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ra is the chemical symbol for Radium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-098",
+    "question": "What is the chemical symbol for Actinium?",
+    "options": [
+      "Ar",
+      "Be",
+      "Ac",
+      "Ga"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ac is the chemical symbol for Actinium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-099",
+    "question": "What is the chemical symbol for Thorium?",
+    "options": [
+      "B",
+      "Th",
+      "K",
+      "Ge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Th is the chemical symbol for Thorium.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "science-100",
+    "question": "What is the chemical symbol for Protactinium?",
+    "options": [
+      "Pa",
+      "C",
+      "Ca",
+      "As"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pa is the chemical symbol for Protactinium.",
+    "difficulty": "medium",
+    "points": 20
+  }
+]

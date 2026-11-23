@@ -1,0 +1,1319 @@
+[
+  {
+    "questionId": "picture-001",
+    "imageUrl": "https://loremflickr.com/800/600/Taj%20Mahal?lock=1",
+    "answer": "Taj Mahal",
+    "acceptedAnswers": [
+      "Taj Mahal",
+      "The Taj Mahal"
+    ],
+    "category": "landmarks",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A famous monument in Agra, India",
+    "imageId": "picture-001"
+  },
+  {
+    "questionId": "picture-002",
+    "imageUrl": "https://loremflickr.com/800/600/Lotus?lock=2",
+    "answer": "Lotus",
+    "acceptedAnswers": [
+      "Lotus",
+      "Lotus flower"
+    ],
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "India's national flower",
+    "imageId": "picture-002"
+  },
+  {
+    "questionId": "picture-003",
+    "imageUrl": "https://loremflickr.com/800/600/Eiffel%20Tower?lock=3",
+    "answer": "Eiffel Tower",
+    "acceptedAnswers": [
+      "Eiffel Tower"
+    ],
+    "category": "landmarks",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A famous landmark in Paris",
+    "imageId": "picture-003"
+  },
+  {
+    "questionId": "picture-004",
+    "imageUrl": "https://loremflickr.com/800/600/Penguin?lock=4",
+    "answer": "Penguin",
+    "acceptedAnswers": [
+      "Penguin"
+    ],
+    "category": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A flightless bird that swims",
+    "imageId": "picture-004"
+  },
+  {
+    "questionId": "picture-005",
+    "imageUrl": "https://loremflickr.com/800/600/Solar%20System?lock=5",
+    "answer": "Solar System",
+    "acceptedAnswers": [
+      "Solar System",
+      "The Solar System"
+    ],
+    "category": "science",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "The Sun and the objects that orbit it",
+    "imageId": "picture-005"
+  },
+  {
+    "questionId": "picture-006",
+    "imageId": "picture-006",
+    "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800",
+    "answer": "Coffee",
+    "acceptedAnswers": [
+      "Coffee",
+      "A cup of coffee"
+    ],
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A popular drink made from roasted beans"
+  },
+  {
+    "questionId": "picture-007",
+    "imageId": "picture-007",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+    "answer": "Beach",
+    "acceptedAnswers": [
+      "Beach",
+      "The beach",
+      "Seashore"
+    ],
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A sandy shore beside the sea"
+  },
+  {
+    "questionId": "picture-008",
+    "imageId": "picture-008",
+    "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=800",
+    "answer": "Library",
+    "acceptedAnswers": [
+      "Library",
+      "Bookshelf"
+    ],
+    "category": "everyday",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A place where people borrow and read books"
+  },
+  {
+    "questionId": "picture-009",
+    "imageId": "picture-009",
+    "imageUrl": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=800",
+    "answer": "Bicycle",
+    "acceptedAnswers": [
+      "Bicycle",
+      "Bike"
+    ],
+    "category": "transport",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A two-wheeled vehicle powered by pedals"
+  },
+  {
+    "questionId": "picture-010",
+    "imageId": "picture-010",
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800",
+    "answer": "Mountain",
+    "acceptedAnswers": [
+      "Mountain",
+      "Mountains"
+    ],
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A high natural landform"
+  },
+  {
+    "questionId": "picture-011",
+    "imageId": "picture-011",
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800",
+    "answer": "Cat",
+    "acceptedAnswers": [
+      "Cat",
+      "Kitten"
+    ],
+    "category": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A small domesticated feline"
+  },
+  {
+    "questionId": "picture-012",
+    "imageId": "picture-012",
+    "imageUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800",
+    "answer": "Dog",
+    "acceptedAnswers": [
+      "Dog",
+      "Puppy"
+    ],
+    "category": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A loyal animal often kept as a pet"
+  },
+  {
+    "questionId": "picture-013",
+    "imageId": "picture-013",
+    "imageUrl": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=800",
+    "answer": "Night sky",
+    "acceptedAnswers": [
+      "Night sky",
+      "Starry sky"
+    ],
+    "category": "nature",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Look up after sunset"
+  },
+  {
+    "questionId": "picture-014",
+    "imageId": "picture-014",
+    "imageUrl": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=800",
+    "answer": "Sunrise",
+    "acceptedAnswers": [
+      "Sunrise",
+      "Dawn"
+    ],
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "The Sun appearing at the start of the day"
+  },
+  {
+    "questionId": "picture-015",
+    "imageId": "picture-015",
+    "imageUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800",
+    "answer": "Ocean wave",
+    "acceptedAnswers": [
+      "Ocean wave",
+      "Wave",
+      "Sea wave"
+    ],
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A moving ridge of seawater"
+  },
+  {
+    "questionId": "picture-016",
+    "imageId": "picture-016",
+    "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800",
+    "answer": "Forest",
+    "acceptedAnswers": [
+      "Forest",
+      "Woods"
+    ],
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A large area filled with trees"
+  },
+  {
+    "questionId": "picture-017",
+    "imageId": "picture-017",
+    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800",
+    "answer": "Desert",
+    "acceptedAnswers": [
+      "Desert",
+      "Sand dunes"
+    ],
+    "category": "nature",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "A very dry landscape with little rainfall"
+  },
+  {
+    "questionId": "picture-018",
+    "imageId": "picture-018",
+    "imageUrl": "https://loremflickr.com/800/600/Piano?lock=18",
+    "answer": "Piano",
+    "acceptedAnswers": [
+      "Piano"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which instrument typically has 88 keys?"
+  },
+  {
+    "questionId": "picture-019",
+    "imageId": "picture-019",
+    "imageUrl": "https://loremflickr.com/800/600/Computer%20Generated%20Imagery?lock=19",
+    "answer": "Computer Generated Imagery",
+    "acceptedAnswers": [
+      "Computer Generated Imagery"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What does CGI stand for in filmmaking?"
+  },
+  {
+    "questionId": "picture-020",
+    "imageId": "picture-020",
+    "imageUrl": "https://loremflickr.com/800/600/Theatre?lock=20",
+    "answer": "Theatre",
+    "acceptedAnswers": [
+      "Theatre"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which art form is traditionally associated with a stage and live actors?"
+  },
+  {
+    "questionId": "picture-021",
+    "imageId": "picture-021",
+    "imageUrl": "https://loremflickr.com/800/600/Flute?lock=21",
+    "answer": "Flute",
+    "acceptedAnswers": [
+      "Flute"
+    ],
+    "category": "entertainment",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: Which instrument belongs to the woodwind family?"
+  },
+  {
+    "questionId": "picture-022",
+    "imageId": "picture-022",
+    "imageUrl": "https://loremflickr.com/800/600/A%20film%20or%20television%20production?lock=22",
+    "answer": "A film or television production",
+    "acceptedAnswers": [
+      "A film or television production"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is a screenplay primarily written for?"
+  },
+  {
+    "questionId": "picture-023",
+    "imageId": "picture-023",
+    "imageUrl": "https://loremflickr.com/800/600/Four?lock=23",
+    "answer": "Four",
+    "acceptedAnswers": [
+      "Four"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: How many strings does a standard violin have?"
+  },
+  {
+    "questionId": "picture-024",
+    "imageId": "picture-024",
+    "imageUrl": "https://loremflickr.com/800/600/Trumpet?lock=24",
+    "answer": "Trumpet",
+    "acceptedAnswers": [
+      "Trumpet"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which instrument is associated with Louis Armstrong?"
+  },
+  {
+    "questionId": "picture-025",
+    "imageId": "picture-025",
+    "imageUrl": "https://loremflickr.com/800/600/Autobiography?lock=25",
+    "answer": "Autobiography",
+    "acceptedAnswers": [
+      "Autobiography"
+    ],
+    "category": "entertainment",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the name for a book about a person's own life, written by that person?"
+  },
+  {
+    "questionId": "picture-026",
+    "imageId": "picture-026",
+    "imageUrl": "https://loremflickr.com/800/600/Tango?lock=26",
+    "answer": "Tango",
+    "acceptedAnswers": [
+      "Tango"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which dance style is closely associated with Argentina?"
+  },
+  {
+    "questionId": "picture-027",
+    "imageId": "picture-027",
+    "imageUrl": "https://loremflickr.com/800/600/Origami?lock=27",
+    "answer": "Origami",
+    "acceptedAnswers": [
+      "Origami"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the traditional Japanese art of paper folding called?"
+  },
+  {
+    "questionId": "picture-028",
+    "imageId": "picture-028",
+    "imageUrl": "https://loremflickr.com/800/600/String?lock=28",
+    "answer": "String",
+    "acceptedAnswers": [
+      "String"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which family of instruments includes the cello?"
+  },
+  {
+    "questionId": "picture-029",
+    "imageId": "picture-029",
+    "imageUrl": "https://loremflickr.com/800/600/Impressionism?lock=29",
+    "answer": "Impressionism",
+    "acceptedAnswers": [
+      "Impressionism"
+    ],
+    "category": "entertainment",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: Which art movement is associated with Claude Monet?"
+  },
+  {
+    "questionId": "picture-030",
+    "imageId": "picture-030",
+    "imageUrl": "https://loremflickr.com/800/600/Lyrics?lock=30",
+    "answer": "Lyrics",
+    "acceptedAnswers": [
+      "Lyrics"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the name for the words sung in a song?"
+  },
+  {
+    "questionId": "picture-031",
+    "imageId": "picture-031",
+    "imageUrl": "https://loremflickr.com/800/600/Violin?lock=31",
+    "answer": "Violin",
+    "acceptedAnswers": [
+      "Violin"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which instrument is played using a bow?"
+  },
+  {
+    "questionId": "picture-032",
+    "imageId": "picture-032",
+    "imageUrl": "https://loremflickr.com/800/600/woodwind?lock=32",
+    "answer": "woodwind",
+    "acceptedAnswers": [
+      "woodwind"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which instrument family does the oboe belong to?"
+  },
+  {
+    "questionId": "picture-033",
+    "imageId": "picture-033",
+    "imageUrl": "https://loremflickr.com/800/600/brass?lock=33",
+    "answer": "brass",
+    "acceptedAnswers": [
+      "brass"
+    ],
+    "category": "entertainment",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: Which instrument family does the French horn belong to?"
+  },
+  {
+    "questionId": "picture-034",
+    "imageId": "picture-034",
+    "imageUrl": "https://loremflickr.com/800/600/keyboard?lock=34",
+    "answer": "keyboard",
+    "acceptedAnswers": [
+      "keyboard"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which instrument family does the organ belong to?"
+  },
+  {
+    "questionId": "picture-035",
+    "imageId": "picture-035",
+    "imageUrl": "https://loremflickr.com/800/600/percussion?lock=35",
+    "answer": "percussion",
+    "acceptedAnswers": [
+      "percussion"
+    ],
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which instrument family does the marimba belong to?"
+  },
+  {
+    "questionId": "picture-036",
+    "imageId": "picture-036",
+    "imageUrl": "https://loremflickr.com/800/600/Tokyo?lock=36",
+    "answer": "Tokyo",
+    "acceptedAnswers": [
+      "Tokyo"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Japan?"
+  },
+  {
+    "questionId": "picture-037",
+    "imageId": "picture-037",
+    "imageUrl": "https://loremflickr.com/800/600/Pacific?lock=37",
+    "answer": "Pacific",
+    "acceptedAnswers": [
+      "Pacific"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: Which is the largest ocean?"
+  },
+  {
+    "questionId": "picture-038",
+    "imageId": "picture-038",
+    "imageUrl": "https://loremflickr.com/800/600/Seven?lock=38",
+    "answer": "Seven",
+    "acceptedAnswers": [
+      "Seven"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: How many continents are commonly recognized?"
+  },
+  {
+    "questionId": "picture-039",
+    "imageId": "picture-039",
+    "imageUrl": "https://loremflickr.com/800/600/Egypt?lock=39",
+    "answer": "Egypt",
+    "acceptedAnswers": [
+      "Egypt"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which country is home to the Great Pyramid of Giza?"
+  },
+  {
+    "questionId": "picture-040",
+    "imageId": "picture-040",
+    "imageUrl": "https://loremflickr.com/800/600/Swiss%20franc?lock=40",
+    "answer": "Swiss franc",
+    "acceptedAnswers": [
+      "Swiss franc"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the currency of Switzerland?"
+  },
+  {
+    "questionId": "picture-041",
+    "imageId": "picture-041",
+    "imageUrl": "https://loremflickr.com/800/600/Nile?lock=41",
+    "answer": "Nile",
+    "acceptedAnswers": [
+      "Nile"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: Which river flows through Egypt?"
+  },
+  {
+    "questionId": "picture-042",
+    "imageId": "picture-042",
+    "imageUrl": "https://loremflickr.com/800/600/Mandarin%20Chinese?lock=42",
+    "answer": "Mandarin Chinese",
+    "acceptedAnswers": [
+      "Mandarin Chinese"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which language is the most widely spoken native language?"
+  },
+  {
+    "questionId": "picture-043",
+    "imageId": "picture-043",
+    "imageUrl": "https://loremflickr.com/800/600/Africa?lock=43",
+    "answer": "Africa",
+    "acceptedAnswers": [
+      "Africa"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: On which continent is the Sahara Desert?"
+  },
+  {
+    "questionId": "picture-044",
+    "imageId": "picture-044",
+    "imageUrl": "https://loremflickr.com/800/600/Blue%20whale?lock=44",
+    "answer": "Blue whale",
+    "acceptedAnswers": [
+      "Blue whale"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which is the largest mammal on Earth?"
+  },
+  {
+    "questionId": "picture-045",
+    "imageId": "picture-045",
+    "imageUrl": "https://loremflickr.com/800/600/Ottawa?lock=45",
+    "answer": "Ottawa",
+    "acceptedAnswers": [
+      "Ottawa"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital city of Canada?"
+  },
+  {
+    "questionId": "picture-046",
+    "imageId": "picture-046",
+    "imageUrl": "https://loremflickr.com/800/600/Barometer?lock=46",
+    "answer": "Barometer",
+    "acceptedAnswers": [
+      "Barometer"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which instrument measures atmospheric pressure?"
+  },
+  {
+    "questionId": "picture-047",
+    "imageId": "picture-047",
+    "imageUrl": "https://loremflickr.com/800/600/Greenland?lock=47",
+    "answer": "Greenland",
+    "acceptedAnswers": [
+      "Greenland"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: Which is the world's largest island, excluding continents?"
+  },
+  {
+    "questionId": "picture-048",
+    "imageId": "picture-048",
+    "imageUrl": "https://loremflickr.com/800/600/Kabul?lock=48",
+    "answer": "Kabul",
+    "acceptedAnswers": [
+      "Kabul"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Afghanistan?"
+  },
+  {
+    "questionId": "picture-049",
+    "imageId": "picture-049",
+    "imageUrl": "https://loremflickr.com/800/600/Tirana?lock=49",
+    "answer": "Tirana",
+    "acceptedAnswers": [
+      "Tirana"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Albania?"
+  },
+  {
+    "questionId": "picture-050",
+    "imageId": "picture-050",
+    "imageUrl": "https://loremflickr.com/800/600/Algiers?lock=50",
+    "answer": "Algiers",
+    "acceptedAnswers": [
+      "Algiers"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Algeria?"
+  },
+  {
+    "questionId": "picture-051",
+    "imageId": "picture-051",
+    "imageUrl": "https://loremflickr.com/800/600/Andorra%20la%20Vella?lock=51",
+    "answer": "Andorra la Vella",
+    "acceptedAnswers": [
+      "Andorra la Vella"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Andorra?"
+  },
+  {
+    "questionId": "picture-052",
+    "imageId": "picture-052",
+    "imageUrl": "https://loremflickr.com/800/600/Luanda?lock=52",
+    "answer": "Luanda",
+    "acceptedAnswers": [
+      "Luanda"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Angola?"
+  },
+  {
+    "questionId": "picture-053",
+    "imageId": "picture-053",
+    "imageUrl": "https://loremflickr.com/800/600/Saint%20John%3Fs?lock=53",
+    "answer": "Saint John?s",
+    "acceptedAnswers": [
+      "Saint John?s"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Antigua and Barbuda?"
+  },
+  {
+    "questionId": "picture-054",
+    "imageId": "picture-054",
+    "imageUrl": "https://loremflickr.com/800/600/Buenos%20Aires?lock=54",
+    "answer": "Buenos Aires",
+    "acceptedAnswers": [
+      "Buenos Aires"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Argentina?"
+  },
+  {
+    "questionId": "picture-055",
+    "imageId": "picture-055",
+    "imageUrl": "https://loremflickr.com/800/600/Yerevan?lock=55",
+    "answer": "Yerevan",
+    "acceptedAnswers": [
+      "Yerevan"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Armenia?"
+  },
+  {
+    "questionId": "picture-056",
+    "imageId": "picture-056",
+    "imageUrl": "https://loremflickr.com/800/600/Canberra?lock=56",
+    "answer": "Canberra",
+    "acceptedAnswers": [
+      "Canberra"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Australia?"
+  },
+  {
+    "questionId": "picture-057",
+    "imageId": "picture-057",
+    "imageUrl": "https://loremflickr.com/800/600/Vienna?lock=57",
+    "answer": "Vienna",
+    "acceptedAnswers": [
+      "Vienna"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Austria?"
+  },
+  {
+    "questionId": "picture-058",
+    "imageId": "picture-058",
+    "imageUrl": "https://loremflickr.com/800/600/Baku?lock=58",
+    "answer": "Baku",
+    "acceptedAnswers": [
+      "Baku"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Azerbaijan?"
+  },
+  {
+    "questionId": "picture-059",
+    "imageId": "picture-059",
+    "imageUrl": "https://loremflickr.com/800/600/Nassau?lock=59",
+    "answer": "Nassau",
+    "acceptedAnswers": [
+      "Nassau"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Bahamas?"
+  },
+  {
+    "questionId": "picture-060",
+    "imageId": "picture-060",
+    "imageUrl": "https://loremflickr.com/800/600/Manama?lock=60",
+    "answer": "Manama",
+    "acceptedAnswers": [
+      "Manama"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Bahrain?"
+  },
+  {
+    "questionId": "picture-061",
+    "imageId": "picture-061",
+    "imageUrl": "https://loremflickr.com/800/600/Dhaka?lock=61",
+    "answer": "Dhaka",
+    "acceptedAnswers": [
+      "Dhaka"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Bangladesh?"
+  },
+  {
+    "questionId": "picture-062",
+    "imageId": "picture-062",
+    "imageUrl": "https://loremflickr.com/800/600/Bridgetown?lock=62",
+    "answer": "Bridgetown",
+    "acceptedAnswers": [
+      "Bridgetown"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Barbados?"
+  },
+  {
+    "questionId": "picture-063",
+    "imageId": "picture-063",
+    "imageUrl": "https://loremflickr.com/800/600/Minsk?lock=63",
+    "answer": "Minsk",
+    "acceptedAnswers": [
+      "Minsk"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Belarus?"
+  },
+  {
+    "questionId": "picture-064",
+    "imageId": "picture-064",
+    "imageUrl": "https://loremflickr.com/800/600/Brussels?lock=64",
+    "answer": "Brussels",
+    "acceptedAnswers": [
+      "Brussels"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Belgium?"
+  },
+  {
+    "questionId": "picture-065",
+    "imageId": "picture-065",
+    "imageUrl": "https://loremflickr.com/800/600/Belmopan?lock=65",
+    "answer": "Belmopan",
+    "acceptedAnswers": [
+      "Belmopan"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Belize?"
+  },
+  {
+    "questionId": "picture-066",
+    "imageId": "picture-066",
+    "imageUrl": "https://loremflickr.com/800/600/Porto-Novo?lock=66",
+    "answer": "Porto-Novo",
+    "acceptedAnswers": [
+      "Porto-Novo"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Benin?"
+  },
+  {
+    "questionId": "picture-067",
+    "imageId": "picture-067",
+    "imageUrl": "https://loremflickr.com/800/600/Thimphu?lock=67",
+    "answer": "Thimphu",
+    "acceptedAnswers": [
+      "Thimphu"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Bhutan?"
+  },
+  {
+    "questionId": "picture-068",
+    "imageId": "picture-068",
+    "imageUrl": "https://loremflickr.com/800/600/Sucre?lock=68",
+    "answer": "Sucre",
+    "acceptedAnswers": [
+      "Sucre"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Bolivia?"
+  },
+  {
+    "questionId": "picture-069",
+    "imageId": "picture-069",
+    "imageUrl": "https://loremflickr.com/800/600/Sarajevo?lock=69",
+    "answer": "Sarajevo",
+    "acceptedAnswers": [
+      "Sarajevo"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Bosnia and Herzegovina?"
+  },
+  {
+    "questionId": "picture-070",
+    "imageId": "picture-070",
+    "imageUrl": "https://loremflickr.com/800/600/Gaborone?lock=70",
+    "answer": "Gaborone",
+    "acceptedAnswers": [
+      "Gaborone"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Botswana?"
+  },
+  {
+    "questionId": "picture-071",
+    "imageId": "picture-071",
+    "imageUrl": "https://loremflickr.com/800/600/Bras%3Flia?lock=71",
+    "answer": "Bras?lia",
+    "acceptedAnswers": [
+      "Bras?lia"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Brazil?"
+  },
+  {
+    "questionId": "picture-072",
+    "imageId": "picture-072",
+    "imageUrl": "https://loremflickr.com/800/600/Bandar%20Seri%20Begawan?lock=72",
+    "answer": "Bandar Seri Begawan",
+    "acceptedAnswers": [
+      "Bandar Seri Begawan"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Brunei?"
+  },
+  {
+    "questionId": "picture-073",
+    "imageId": "picture-073",
+    "imageUrl": "https://loremflickr.com/800/600/Sofia?lock=73",
+    "answer": "Sofia",
+    "acceptedAnswers": [
+      "Sofia"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Bulgaria?"
+  },
+  {
+    "questionId": "picture-074",
+    "imageId": "picture-074",
+    "imageUrl": "https://loremflickr.com/800/600/Ouagadougou?lock=74",
+    "answer": "Ouagadougou",
+    "acceptedAnswers": [
+      "Ouagadougou"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Burkina Faso?"
+  },
+  {
+    "questionId": "picture-075",
+    "imageId": "picture-075",
+    "imageUrl": "https://loremflickr.com/800/600/Gitega?lock=75",
+    "answer": "Gitega",
+    "acceptedAnswers": [
+      "Gitega"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Burundi?"
+  },
+  {
+    "questionId": "picture-076",
+    "imageId": "picture-076",
+    "imageUrl": "https://loremflickr.com/800/600/Phnom%20Penh?lock=76",
+    "answer": "Phnom Penh",
+    "acceptedAnswers": [
+      "Phnom Penh"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Cambodia?"
+  },
+  {
+    "questionId": "picture-077",
+    "imageId": "picture-077",
+    "imageUrl": "https://loremflickr.com/800/600/Yaound%3F?lock=77",
+    "answer": "Yaound?",
+    "acceptedAnswers": [
+      "Yaound?"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Cameroon?"
+  },
+  {
+    "questionId": "picture-078",
+    "imageId": "picture-078",
+    "imageUrl": "https://loremflickr.com/800/600/Praia?lock=78",
+    "answer": "Praia",
+    "acceptedAnswers": [
+      "Praia"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Cape Verde?"
+  },
+  {
+    "questionId": "picture-079",
+    "imageId": "picture-079",
+    "imageUrl": "https://loremflickr.com/800/600/Bangui?lock=79",
+    "answer": "Bangui",
+    "acceptedAnswers": [
+      "Bangui"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Central African Republic?"
+  },
+  {
+    "questionId": "picture-080",
+    "imageId": "picture-080",
+    "imageUrl": "https://loremflickr.com/800/600/N%3FDjamena?lock=80",
+    "answer": "N?Djamena",
+    "acceptedAnswers": [
+      "N?Djamena"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Chad?"
+  },
+  {
+    "questionId": "picture-081",
+    "imageId": "picture-081",
+    "imageUrl": "https://loremflickr.com/800/600/Santiago?lock=81",
+    "answer": "Santiago",
+    "acceptedAnswers": [
+      "Santiago"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Chile?"
+  },
+  {
+    "questionId": "picture-082",
+    "imageId": "picture-082",
+    "imageUrl": "https://loremflickr.com/800/600/Beijing?lock=82",
+    "answer": "Beijing",
+    "acceptedAnswers": [
+      "Beijing"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of China?"
+  },
+  {
+    "questionId": "picture-083",
+    "imageId": "picture-083",
+    "imageUrl": "https://loremflickr.com/800/600/Bogot%3F?lock=83",
+    "answer": "Bogot?",
+    "acceptedAnswers": [
+      "Bogot?"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Colombia?"
+  },
+  {
+    "questionId": "picture-084",
+    "imageId": "picture-084",
+    "imageUrl": "https://loremflickr.com/800/600/Moroni?lock=84",
+    "answer": "Moroni",
+    "acceptedAnswers": [
+      "Moroni"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Comoros?"
+  },
+  {
+    "questionId": "picture-085",
+    "imageId": "picture-085",
+    "imageUrl": "https://loremflickr.com/800/600/San%20Jos%3F?lock=85",
+    "answer": "San Jos?",
+    "acceptedAnswers": [
+      "San Jos?"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Costa Rica?"
+  },
+  {
+    "questionId": "picture-086",
+    "imageId": "picture-086",
+    "imageUrl": "https://loremflickr.com/800/600/Zagreb?lock=86",
+    "answer": "Zagreb",
+    "acceptedAnswers": [
+      "Zagreb"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Croatia?"
+  },
+  {
+    "questionId": "picture-087",
+    "imageId": "picture-087",
+    "imageUrl": "https://loremflickr.com/800/600/Havana?lock=87",
+    "answer": "Havana",
+    "acceptedAnswers": [
+      "Havana"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Cuba?"
+  },
+  {
+    "questionId": "picture-088",
+    "imageId": "picture-088",
+    "imageUrl": "https://loremflickr.com/800/600/Nicosia?lock=88",
+    "answer": "Nicosia",
+    "acceptedAnswers": [
+      "Nicosia"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Cyprus?"
+  },
+  {
+    "questionId": "picture-089",
+    "imageId": "picture-089",
+    "imageUrl": "https://loremflickr.com/800/600/Prague?lock=89",
+    "answer": "Prague",
+    "acceptedAnswers": [
+      "Prague"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Czechia?"
+  },
+  {
+    "questionId": "picture-090",
+    "imageId": "picture-090",
+    "imageUrl": "https://loremflickr.com/800/600/Copenhagen?lock=90",
+    "answer": "Copenhagen",
+    "acceptedAnswers": [
+      "Copenhagen"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Denmark?"
+  },
+  {
+    "questionId": "picture-091",
+    "imageId": "picture-091",
+    "imageUrl": "https://loremflickr.com/800/600/Djibouti?lock=91",
+    "answer": "Djibouti",
+    "acceptedAnswers": [
+      "Djibouti"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Djibouti?"
+  },
+  {
+    "questionId": "picture-092",
+    "imageId": "picture-092",
+    "imageUrl": "https://loremflickr.com/800/600/Roseau?lock=92",
+    "answer": "Roseau",
+    "acceptedAnswers": [
+      "Roseau"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Dominica?"
+  },
+  {
+    "questionId": "picture-093",
+    "imageId": "picture-093",
+    "imageUrl": "https://loremflickr.com/800/600/Santo%20Domingo?lock=93",
+    "answer": "Santo Domingo",
+    "acceptedAnswers": [
+      "Santo Domingo"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Dominican Republic?"
+  },
+  {
+    "questionId": "picture-094",
+    "imageId": "picture-094",
+    "imageUrl": "https://loremflickr.com/800/600/Quito?lock=94",
+    "answer": "Quito",
+    "acceptedAnswers": [
+      "Quito"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Ecuador?"
+  },
+  {
+    "questionId": "picture-095",
+    "imageId": "picture-095",
+    "imageUrl": "https://loremflickr.com/800/600/Cairo?lock=95",
+    "answer": "Cairo",
+    "acceptedAnswers": [
+      "Cairo"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Egypt?"
+  },
+  {
+    "questionId": "picture-096",
+    "imageId": "picture-096",
+    "imageUrl": "https://loremflickr.com/800/600/San%20Salvador?lock=96",
+    "answer": "San Salvador",
+    "acceptedAnswers": [
+      "San Salvador"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of El Salvador?"
+  },
+  {
+    "questionId": "picture-097",
+    "imageId": "picture-097",
+    "imageUrl": "https://loremflickr.com/800/600/Malabo?lock=97",
+    "answer": "Malabo",
+    "acceptedAnswers": [
+      "Malabo"
+    ],
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "Quiz clue: What is the capital of Equatorial Guinea?"
+  },
+  {
+    "questionId": "picture-098",
+    "imageId": "picture-098",
+    "imageUrl": "https://loremflickr.com/800/600/Asmara?lock=98",
+    "answer": "Asmara",
+    "acceptedAnswers": [
+      "Asmara"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Eritrea?"
+  },
+  {
+    "questionId": "picture-099",
+    "imageId": "picture-099",
+    "imageUrl": "https://loremflickr.com/800/600/Tallinn?lock=99",
+    "answer": "Tallinn",
+    "acceptedAnswers": [
+      "Tallinn"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Estonia?"
+  },
+  {
+    "questionId": "picture-100",
+    "imageId": "picture-100",
+    "imageUrl": "https://loremflickr.com/800/600/Mbabane?lock=100",
+    "answer": "Mbabane",
+    "acceptedAnswers": [
+      "Mbabane"
+    ],
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Quiz clue: What is the capital of Eswatini?"
+  }
+]

@@ -1,0 +1,3000 @@
+[
+  {
+    "promptId": "adult-dare-001",
+    "content": "Give your partner a sincere compliment about something you find attractive, if they are comfortable receiving it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "adult",
+      "romance"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-002",
+    "content": "Describe your ideal romantic date in three imaginative details.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "adult",
+      "date"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-003",
+    "content": "Ask your partner what kind of affectionate gesture they enjoy, and listen without guessing.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "adult",
+      "communication",
+      "boundaries"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-004",
+    "content": "Share one romantic memory you both feel comfortable revisiting.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "adult",
+      "romance",
+      "memories"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-005",
+    "content": "Take turns suggesting one detail for a date that would feel relaxing and enjoyable to both of you.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "tags": [
+      "adult",
+      "date",
+      "communication"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-006",
+    "content": "Give a 20-second pitch encouraging the group to try a conversation about romantic boundaries.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-007",
+    "content": "Invent a playful title for a conversation about romantic boundaries and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-008",
+    "content": "Describe a conversation about romantic boundaries using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-009",
+    "content": "Tell a short story in which a conversation about romantic boundaries gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-010",
+    "content": "Mime a harmless scene involving a conversation about romantic boundaries and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-011",
+    "content": "Name three details that would make a conversation about romantic boundaries more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-012",
+    "content": "Create a two-line rhyme about a conversation about romantic boundaries.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-013",
+    "content": "Compare a conversation about romantic boundaries to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-014",
+    "content": "Pretend to host a one-minute show about a conversation about romantic boundaries.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-015",
+    "content": "Ask another player to add one idea to your plan for a conversation about romantic boundaries.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-016",
+    "content": "Give a 20-second pitch encouraging the group to try a thoughtful way to build emotional closeness.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-017",
+    "content": "Invent a playful title for a thoughtful way to build emotional closeness and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-018",
+    "content": "Describe a thoughtful way to build emotional closeness using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-019",
+    "content": "Tell a short story in which a thoughtful way to build emotional closeness gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-020",
+    "content": "Mime a harmless scene involving a thoughtful way to build emotional closeness and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-021",
+    "content": "Name three details that would make a thoughtful way to build emotional closeness more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-022",
+    "content": "Create a two-line rhyme about a thoughtful way to build emotional closeness.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-023",
+    "content": "Compare a thoughtful way to build emotional closeness to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-024",
+    "content": "Pretend to host a one-minute show about a thoughtful way to build emotional closeness.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-025",
+    "content": "Ask another player to add one idea to your plan for a thoughtful way to build emotional closeness.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-026",
+    "content": "Give a 20-second pitch encouraging the group to try a quality you value in a committed partner.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-027",
+    "content": "Invent a playful title for a quality you value in a committed partner and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-028",
+    "content": "Describe a quality you value in a committed partner using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-029",
+    "content": "Tell a short story in which a quality you value in a committed partner gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-030",
+    "content": "Mime a harmless scene involving a quality you value in a committed partner and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-031",
+    "content": "Name three details that would make a quality you value in a committed partner more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-032",
+    "content": "Create a two-line rhyme about a quality you value in a committed partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-033",
+    "content": "Compare a quality you value in a committed partner to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-034",
+    "content": "Pretend to host a one-minute show about a quality you value in a committed partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-035",
+    "content": "Ask another player to add one idea to your plan for a quality you value in a committed partner.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-036",
+    "content": "Give a 20-second pitch encouraging the group to try a romantic date that feels comfortable to both people.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-037",
+    "content": "Invent a playful title for a romantic date that feels comfortable to both people and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-038",
+    "content": "Describe a romantic date that feels comfortable to both people using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-039",
+    "content": "Tell a short story in which a romantic date that feels comfortable to both people gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-040",
+    "content": "Mime a harmless scene involving a romantic date that feels comfortable to both people and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-041",
+    "content": "Name three details that would make a romantic date that feels comfortable to both people more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-042",
+    "content": "Create a two-line rhyme about a romantic date that feels comfortable to both people.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-043",
+    "content": "Compare a romantic date that feels comfortable to both people to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-044",
+    "content": "Pretend to host a one-minute show about a romantic date that feels comfortable to both people.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-045",
+    "content": "Ask another player to add one idea to your plan for a romantic date that feels comfortable to both people.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-046",
+    "content": "Give a 20-second pitch encouraging the group to try a respectful way to discuss affection.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-047",
+    "content": "Invent a playful title for a respectful way to discuss affection and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-048",
+    "content": "Describe a respectful way to discuss affection using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-049",
+    "content": "Tell a short story in which a respectful way to discuss affection gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-050",
+    "content": "Mime a harmless scene involving a respectful way to discuss affection and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-051",
+    "content": "Name three details that would make a respectful way to discuss affection more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-052",
+    "content": "Create a two-line rhyme about a respectful way to discuss affection.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-053",
+    "content": "Compare a respectful way to discuss affection to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-054",
+    "content": "Pretend to host a one-minute show about a respectful way to discuss affection.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-055",
+    "content": "Ask another player to add one idea to your plan for a respectful way to discuss affection.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-056",
+    "content": "Give a 20-second pitch encouraging the group to try a relationship expectation worth talking through.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-057",
+    "content": "Invent a playful title for a relationship expectation worth talking through and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-058",
+    "content": "Describe a relationship expectation worth talking through using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-059",
+    "content": "Tell a short story in which a relationship expectation worth talking through gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-060",
+    "content": "Mime a harmless scene involving a relationship expectation worth talking through and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-061",
+    "content": "Name three details that would make a relationship expectation worth talking through more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-062",
+    "content": "Create a two-line rhyme about a relationship expectation worth talking through.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-063",
+    "content": "Compare a relationship expectation worth talking through to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-064",
+    "content": "Pretend to host a one-minute show about a relationship expectation worth talking through.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-065",
+    "content": "Ask another player to add one idea to your plan for a relationship expectation worth talking through.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-066",
+    "content": "Give a 20-second pitch encouraging the group to try a kind gesture that helps you feel appreciated.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-067",
+    "content": "Invent a playful title for a kind gesture that helps you feel appreciated and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-068",
+    "content": "Describe a kind gesture that helps you feel appreciated using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-069",
+    "content": "Tell a short story in which a kind gesture that helps you feel appreciated gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-070",
+    "content": "Mime a harmless scene involving a kind gesture that helps you feel appreciated and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-071",
+    "content": "Name three details that would make a kind gesture that helps you feel appreciated more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-072",
+    "content": "Create a two-line rhyme about a kind gesture that helps you feel appreciated.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-073",
+    "content": "Compare a kind gesture that helps you feel appreciated to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-074",
+    "content": "Pretend to host a one-minute show about a kind gesture that helps you feel appreciated.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-075",
+    "content": "Ask another player to add one idea to your plan for a kind gesture that helps you feel appreciated.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-076",
+    "content": "Give a 20-second pitch encouraging the group to try a healthy way to resolve a disagreement.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-077",
+    "content": "Invent a playful title for a healthy way to resolve a disagreement and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-078",
+    "content": "Describe a healthy way to resolve a disagreement using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-079",
+    "content": "Tell a short story in which a healthy way to resolve a disagreement gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-080",
+    "content": "Mime a harmless scene involving a healthy way to resolve a disagreement and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-081",
+    "content": "Name three details that would make a healthy way to resolve a disagreement more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-082",
+    "content": "Create a two-line rhyme about a healthy way to resolve a disagreement.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-083",
+    "content": "Compare a healthy way to resolve a disagreement to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-084",
+    "content": "Pretend to host a one-minute show about a healthy way to resolve a disagreement.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-085",
+    "content": "Ask another player to add one idea to your plan for a healthy way to resolve a disagreement.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-086",
+    "content": "Give a 20-second pitch encouraging the group to try a shared plan for spending quality time.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-087",
+    "content": "Invent a playful title for a shared plan for spending quality time and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-088",
+    "content": "Describe a shared plan for spending quality time using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-089",
+    "content": "Tell a short story in which a shared plan for spending quality time gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-090",
+    "content": "Mime a harmless scene involving a shared plan for spending quality time and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-091",
+    "content": "Name three details that would make a shared plan for spending quality time more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-092",
+    "content": "Create a two-line rhyme about a shared plan for spending quality time.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-093",
+    "content": "Compare a shared plan for spending quality time to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-094",
+    "content": "Pretend to host a one-minute show about a shared plan for spending quality time.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-095",
+    "content": "Ask another player to add one idea to your plan for a shared plan for spending quality time.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-096",
+    "content": "Give a 20-second pitch encouraging the group to try a way to express interest while respecting consent.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-097",
+    "content": "Invent a playful title for a way to express interest while respecting consent and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-098",
+    "content": "Describe a way to express interest while respecting consent using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-099",
+    "content": "Tell a short story in which a way to express interest while respecting consent gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-100",
+    "content": "Mime a harmless scene involving a way to express interest while respecting consent and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-101",
+    "content": "Name three details that would make a way to express interest while respecting consent more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-102",
+    "content": "Create a two-line rhyme about a way to express interest while respecting consent.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-103",
+    "content": "Compare a way to express interest while respecting consent to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-104",
+    "content": "Pretend to host a one-minute show about a way to express interest while respecting consent.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-105",
+    "content": "Ask another player to add one idea to your plan for a way to express interest while respecting consent.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-106",
+    "content": "Give a 20-second pitch encouraging the group to try a relationship boundary that deserves clear communication.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-107",
+    "content": "Invent a playful title for a relationship boundary that deserves clear communication and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-108",
+    "content": "Describe a relationship boundary that deserves clear communication using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-109",
+    "content": "Tell a short story in which a relationship boundary that deserves clear communication gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-110",
+    "content": "Mime a harmless scene involving a relationship boundary that deserves clear communication and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-111",
+    "content": "Name three details that would make a relationship boundary that deserves clear communication more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-112",
+    "content": "Create a two-line rhyme about a relationship boundary that deserves clear communication.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-113",
+    "content": "Compare a relationship boundary that deserves clear communication to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-114",
+    "content": "Pretend to host a one-minute show about a relationship boundary that deserves clear communication.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-115",
+    "content": "Ask another player to add one idea to your plan for a relationship boundary that deserves clear communication.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-116",
+    "content": "Give a 20-second pitch encouraging the group to try a romantic memory you are comfortable sharing.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-117",
+    "content": "Invent a playful title for a romantic memory you are comfortable sharing and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-118",
+    "content": "Describe a romantic memory you are comfortable sharing using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-119",
+    "content": "Tell a short story in which a romantic memory you are comfortable sharing gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-120",
+    "content": "Mime a harmless scene involving a romantic memory you are comfortable sharing and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-121",
+    "content": "Name three details that would make a romantic memory you are comfortable sharing more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-122",
+    "content": "Create a two-line rhyme about a romantic memory you are comfortable sharing.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-123",
+    "content": "Compare a romantic memory you are comfortable sharing to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-124",
+    "content": "Pretend to host a one-minute show about a romantic memory you are comfortable sharing.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-125",
+    "content": "Ask another player to add one idea to your plan for a romantic memory you are comfortable sharing.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-126",
+    "content": "Give a 20-second pitch encouraging the group to try a trait that makes someone trustworthy.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-127",
+    "content": "Invent a playful title for a trait that makes someone trustworthy and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-128",
+    "content": "Describe a trait that makes someone trustworthy using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-129",
+    "content": "Tell a short story in which a trait that makes someone trustworthy gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-130",
+    "content": "Mime a harmless scene involving a trait that makes someone trustworthy and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-131",
+    "content": "Name three details that would make a trait that makes someone trustworthy more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-132",
+    "content": "Create a two-line rhyme about a trait that makes someone trustworthy.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-133",
+    "content": "Compare a trait that makes someone trustworthy to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-134",
+    "content": "Pretend to host a one-minute show about a trait that makes someone trustworthy.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-135",
+    "content": "Ask another player to add one idea to your plan for a trait that makes someone trustworthy.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-136",
+    "content": "Give a 20-second pitch encouraging the group to try a way to keep communication caring and honest.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-137",
+    "content": "Invent a playful title for a way to keep communication caring and honest and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-138",
+    "content": "Describe a way to keep communication caring and honest using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-139",
+    "content": "Tell a short story in which a way to keep communication caring and honest gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-140",
+    "content": "Mime a harmless scene involving a way to keep communication caring and honest and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-141",
+    "content": "Name three details that would make a way to keep communication caring and honest more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-142",
+    "content": "Create a two-line rhyme about a way to keep communication caring and honest.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-143",
+    "content": "Compare a way to keep communication caring and honest to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-144",
+    "content": "Pretend to host a one-minute show about a way to keep communication caring and honest.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-145",
+    "content": "Ask another player to add one idea to your plan for a way to keep communication caring and honest.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-146",
+    "content": "Give a 20-second pitch encouraging the group to try a date idea that encourages meaningful conversation.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-147",
+    "content": "Invent a playful title for a date idea that encourages meaningful conversation and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-148",
+    "content": "Describe a date idea that encourages meaningful conversation using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-149",
+    "content": "Tell a short story in which a date idea that encourages meaningful conversation gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-150",
+    "content": "Mime a harmless scene involving a date idea that encourages meaningful conversation and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-151",
+    "content": "Name three details that would make a date idea that encourages meaningful conversation more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-152",
+    "content": "Create a two-line rhyme about a date idea that encourages meaningful conversation.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-153",
+    "content": "Compare a date idea that encourages meaningful conversation to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-154",
+    "content": "Pretend to host a one-minute show about a date idea that encourages meaningful conversation.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-155",
+    "content": "Ask another player to add one idea to your plan for a date idea that encourages meaningful conversation.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-156",
+    "content": "Give a 20-second pitch encouraging the group to try a sign that both partners feel heard.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-157",
+    "content": "Invent a playful title for a sign that both partners feel heard and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-158",
+    "content": "Describe a sign that both partners feel heard using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-159",
+    "content": "Tell a short story in which a sign that both partners feel heard gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-160",
+    "content": "Mime a harmless scene involving a sign that both partners feel heard and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-161",
+    "content": "Name three details that would make a sign that both partners feel heard more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-162",
+    "content": "Create a two-line rhyme about a sign that both partners feel heard.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-163",
+    "content": "Compare a sign that both partners feel heard to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-164",
+    "content": "Pretend to host a one-minute show about a sign that both partners feel heard.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-165",
+    "content": "Ask another player to add one idea to your plan for a sign that both partners feel heard.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-166",
+    "content": "Give a 20-second pitch encouraging the group to try a way to show appreciation without pressure.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-167",
+    "content": "Invent a playful title for a way to show appreciation without pressure and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-168",
+    "content": "Describe a way to show appreciation without pressure using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-169",
+    "content": "Tell a short story in which a way to show appreciation without pressure gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-170",
+    "content": "Mime a harmless scene involving a way to show appreciation without pressure and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-171",
+    "content": "Name three details that would make a way to show appreciation without pressure more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-172",
+    "content": "Create a two-line rhyme about a way to show appreciation without pressure.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-173",
+    "content": "Compare a way to show appreciation without pressure to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-174",
+    "content": "Pretend to host a one-minute show about a way to show appreciation without pressure.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-175",
+    "content": "Ask another player to add one idea to your plan for a way to show appreciation without pressure.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-176",
+    "content": "Give a 20-second pitch encouraging the group to try a shared goal that could strengthen a relationship.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-177",
+    "content": "Invent a playful title for a shared goal that could strengthen a relationship and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-178",
+    "content": "Describe a shared goal that could strengthen a relationship using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-179",
+    "content": "Tell a short story in which a shared goal that could strengthen a relationship gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-180",
+    "content": "Mime a harmless scene involving a shared goal that could strengthen a relationship and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-181",
+    "content": "Name three details that would make a shared goal that could strengthen a relationship more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-182",
+    "content": "Create a two-line rhyme about a shared goal that could strengthen a relationship.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-183",
+    "content": "Compare a shared goal that could strengthen a relationship to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-184",
+    "content": "Pretend to host a one-minute show about a shared goal that could strengthen a relationship.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-185",
+    "content": "Ask another player to add one idea to your plan for a shared goal that could strengthen a relationship.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-186",
+    "content": "Give a 20-second pitch encouraging the group to try a respectful way to ask what affection someone enjoys.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-187",
+    "content": "Invent a playful title for a respectful way to ask what affection someone enjoys and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-188",
+    "content": "Describe a respectful way to ask what affection someone enjoys using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-189",
+    "content": "Tell a short story in which a respectful way to ask what affection someone enjoys gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-190",
+    "content": "Mime a harmless scene involving a respectful way to ask what affection someone enjoys and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-191",
+    "content": "Name three details that would make a respectful way to ask what affection someone enjoys more enjoyable.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-192",
+    "content": "Create a two-line rhyme about a respectful way to ask what affection someone enjoys.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-193",
+    "content": "Compare a respectful way to ask what affection someone enjoys to a kind of weather and explain the comparison.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-194",
+    "content": "Pretend to host a one-minute show about a respectful way to ask what affection someone enjoys.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-195",
+    "content": "Ask another player to add one idea to your plan for a respectful way to ask what affection someone enjoys.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-196",
+    "content": "Give a 20-second pitch encouraging the group to try a quality that makes a relationship feel safe.",
+    "language": "en",
+    "difficulty": "medium",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-197",
+    "content": "Invent a playful title for a quality that makes a relationship feel safe and explain your choice.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-198",
+    "content": "Describe a quality that makes a relationship feel safe using exactly five words.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-199",
+    "content": "Tell a short story in which a quality that makes a relationship feel safe gets an unexpected happy ending.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  },
+  {
+    "promptId": "adult-dare-200",
+    "content": "Mime a harmless scene involving a quality that makes a relationship feel safe and let the group guess it.",
+    "language": "en",
+    "difficulty": "easy",
+    "ageRestricted": true,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "tags": [
+      "adult",
+      "relationships",
+      "dare"
+    ],
+    "active": true
+  }
+]

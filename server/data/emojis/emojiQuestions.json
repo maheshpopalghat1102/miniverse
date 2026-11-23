@@ -1,0 +1,902 @@
+[
+  {
+    "questionId": "emoji-001",
+    "emojis": "🦁👑",
+    "answer": "Lion King",
+    "category": "movies",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "An animated story about a lion"
+  },
+  {
+    "questionId": "emoji-002",
+    "emojis": "🌧️🎵",
+    "answer": "Singing in the Rain",
+    "category": "movies",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "A musical film"
+  },
+  {
+    "questionId": "emoji-003",
+    "emojis": "🍎📱",
+    "answer": "Apple iPhone",
+    "category": "technology",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A popular smartphone"
+  },
+  {
+    "questionId": "emoji-004",
+    "emojis": "🐝🍯",
+    "answer": "Honey",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A sweet food made by bees"
+  },
+  {
+    "questionId": "emoji-005",
+    "emojis": "🌍✈️",
+    "answer": "World Travel",
+    "category": "travel",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Exploring different countries"
+  },
+  {
+    "questionId": "emoji-006",
+    "emojis": "🕷️🧑",
+    "answer": "Spider-Man",
+    "category": "superheroes",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A superhero who climbs walls"
+  },
+  {
+    "questionId": "emoji-007",
+    "emojis": "🌙❤️",
+    "answer": "Love at Night",
+    "category": "general",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "A romantic expression"
+  },
+  {
+    "questionId": "emoji-008",
+    "emojis": "🐠🔍",
+    "answer": "Finding Nemo",
+    "category": "movies",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "An animated underwater adventure"
+  },
+  {
+    "questionId": "emoji-009",
+    "emojis": "☀️🌻",
+    "answer": "Sunflower",
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A tall flower that turns toward the light"
+  },
+  {
+    "questionId": "emoji-010",
+    "emojis": "🧊☕",
+    "answer": "Iced coffee",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A chilled caffeinated drink"
+  },
+  {
+    "questionId": "emoji-011",
+    "emojis": "🧦🎁",
+    "answer": "Gift in a stocking",
+    "category": "holidays",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A holiday surprise left by the fireplace"
+  },
+  {
+    "questionId": "emoji-012",
+    "emojis": "🌋🔥",
+    "answer": "Erupting volcano",
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A mountain releasing molten rock"
+  },
+  {
+    "questionId": "emoji-013",
+    "emojis": "📚🐛",
+    "answer": "Bookworm",
+    "category": "general",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A person who loves reading"
+  },
+  {
+    "questionId": "emoji-014",
+    "emojis": "🌧️☂️",
+    "answer": "Rainy day",
+    "category": "weather",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Weather when you might need an umbrella"
+  },
+  {
+    "questionId": "emoji-015",
+    "emojis": "🧀🍕",
+    "answer": "Cheese pizza",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A round baked dish topped with melted cheese"
+  },
+  {
+    "questionId": "emoji-016",
+    "emojis": "🕰️⏰",
+    "answer": "Alarm clock",
+    "category": "everyday",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A device that rings to wake you up"
+  },
+  {
+    "questionId": "emoji-017",
+    "emojis": "🧳✈️",
+    "answer": "Airport travel",
+    "category": "travel",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Taking a flight with your luggage"
+  },
+  {
+    "questionId": "emoji-018",
+    "emojis": "🧑‍🍳🍲",
+    "answer": "Cooking dinner",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Preparing a meal in the kitchen"
+  },
+  {
+    "questionId": "emoji-019",
+    "emojis": "🌙😴",
+    "answer": "Good night",
+    "category": "everyday",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A greeting before going to sleep"
+  },
+  {
+    "questionId": "emoji-020",
+    "emojis": "🐢🐇",
+    "answer": "Slow and steady",
+    "category": "sayings",
+    "difficulty": "medium",
+    "points": 20,
+    "hint": "A lesson about patience and persistence"
+  },
+  {
+    "questionId": "emoji-021",
+    "emojis": "🧼👐",
+    "answer": "Wash your hands",
+    "category": "everyday",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A useful hygiene routine"
+  },
+  {
+    "questionId": "emoji-022",
+    "emojis": "🎈🎂",
+    "answer": "Birthday party",
+    "category": "celebrations",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A celebration with cake and balloons"
+  },
+  {
+    "questionId": "emoji-023",
+    "emojis": "🧭🗺️",
+    "answer": "Finding your way",
+    "category": "travel",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Using tools to choose a route"
+  },
+  {
+    "questionId": "emoji-024",
+    "emojis": "🥁🎸",
+    "answer": "Rock band",
+    "category": "music",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A group that plays amplified music"
+  },
+  {
+    "questionId": "emoji-025",
+    "emojis": "🌱💧",
+    "answer": "Watering a plant",
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Giving a growing seedling what it needs"
+  },
+  {
+    "questionId": "emoji-026",
+    "emojis": "🧤❄️",
+    "answer": "Winter gloves",
+    "category": "weather",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Something warm to wear in cold weather"
+  },
+  {
+    "questionId": "emoji-027",
+    "emojis": "🧑‍🚀🌌",
+    "answer": "Astronaut in space",
+    "category": "science",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A space traveler exploring the stars"
+  },
+  {
+    "questionId": "emoji-028",
+    "emojis": "🔋📱",
+    "answer": "Charge a phone",
+    "category": "technology",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Connecting a device to power"
+  },
+  {
+    "questionId": "emoji-029",
+    "emojis": "?????",
+    "answer": "Rainbow",
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Colors appearing after rain"
+  },
+  {
+    "questionId": "emoji-030",
+    "emojis": "????",
+    "answer": "Volcanoes",
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Mountains that can erupt"
+  },
+  {
+    "questionId": "emoji-031",
+    "emojis": "????",
+    "answer": "Surfing",
+    "category": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Riding waves on a board"
+  },
+  {
+    "questionId": "emoji-032",
+    "emojis": "????",
+    "answer": "Cold drink",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A beverage served with ice"
+  },
+  {
+    "questionId": "emoji-033",
+    "emojis": "????",
+    "answer": "Movie night",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Watching a film with a snack"
+  },
+  {
+    "questionId": "emoji-034",
+    "emojis": "???????",
+    "answer": "Firefighter",
+    "category": "jobs",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A person who responds to fires"
+  },
+  {
+    "questionId": "emoji-035",
+    "emojis": "???????",
+    "answer": "Doctor",
+    "category": "jobs",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A medical professional"
+  },
+  {
+    "questionId": "emoji-036",
+    "emojis": "???????",
+    "answer": "Teacher",
+    "category": "jobs",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Someone who helps students learn"
+  },
+  {
+    "questionId": "emoji-037",
+    "emojis": "???????",
+    "answer": "Chef",
+    "category": "jobs",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A professional who prepares food"
+  },
+  {
+    "questionId": "emoji-038",
+    "emojis": "???????",
+    "answer": "Farmer",
+    "category": "jobs",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A person who grows crops"
+  },
+  {
+    "questionId": "emoji-039",
+    "emojis": "???????",
+    "answer": "Artist",
+    "category": "jobs",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A person who creates visual work"
+  },
+  {
+    "questionId": "emoji-040",
+    "emojis": "???????",
+    "answer": "Scientist",
+    "category": "jobs",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A person who studies the natural world"
+  },
+  {
+    "questionId": "emoji-041",
+    "emojis": "???????",
+    "answer": "Astronaut",
+    "category": "jobs",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A person trained to travel in space"
+  },
+  {
+    "questionId": "emoji-042",
+    "emojis": "????",
+    "answer": "House cleaning",
+    "category": "everyday",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Tidying up a home"
+  },
+  {
+    "questionId": "emoji-043",
+    "emojis": "????",
+    "answer": "Brush your teeth",
+    "category": "everyday",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A daily hygiene routine"
+  },
+  {
+    "questionId": "emoji-044",
+    "emojis": "????",
+    "answer": "Laundry",
+    "category": "everyday",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Washing clothes"
+  },
+  {
+    "questionId": "emoji-045",
+    "emojis": "?????",
+    "answer": "Bedtime",
+    "category": "everyday",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "When it is time to sleep"
+  },
+  {
+    "questionId": "emoji-046",
+    "emojis": "????",
+    "answer": "Cold hands",
+    "category": "weather",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A chilly winter feeling"
+  },
+  {
+    "questionId": "emoji-047",
+    "emojis": "?????",
+    "answer": "Autumn breeze",
+    "category": "weather",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Wind blowing fallen leaves"
+  },
+  {
+    "questionId": "emoji-048",
+    "emojis": "???",
+    "answer": "Thunderstorm",
+    "category": "weather",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A storm with thunder and lightning"
+  },
+  {
+    "questionId": "emoji-049",
+    "emojis": "????",
+    "answer": "Snow day",
+    "category": "weather",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A day with fresh snowfall"
+  },
+  {
+    "questionId": "emoji-050",
+    "emojis": "?????",
+    "answer": "Foggy road",
+    "category": "weather",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Driving when visibility is low"
+  },
+  {
+    "questionId": "emoji-051",
+    "emojis": "?????",
+    "answer": "Sunny weather",
+    "category": "weather",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Bright sunshine calls for these"
+  },
+  {
+    "questionId": "emoji-052",
+    "emojis": "????",
+    "answer": "Spring flowers",
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Blooms that arrive after winter"
+  },
+  {
+    "questionId": "emoji-053",
+    "emojis": "????",
+    "answer": "Apple tree",
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A tree that grows a crisp fruit"
+  },
+  {
+    "questionId": "emoji-054",
+    "emojis": "????",
+    "answer": "Bee pollinating",
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "An insect visiting a flower"
+  },
+  {
+    "questionId": "emoji-055",
+    "emojis": "????",
+    "answer": "Butterfly garden",
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Colorful insects among blossoms"
+  },
+  {
+    "questionId": "emoji-056",
+    "emojis": "?????",
+    "answer": "Seashell",
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A keepsake found on the shore"
+  },
+  {
+    "questionId": "emoji-057",
+    "emojis": "????",
+    "answer": "Night owl",
+    "category": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A bird active after dark"
+  },
+  {
+    "questionId": "emoji-058",
+    "emojis": "????",
+    "answer": "Bear looking for honey",
+    "category": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A big animal with a sweet tooth"
+  },
+  {
+    "questionId": "emoji-059",
+    "emojis": "????",
+    "answer": "Frog prince",
+    "category": "fairy tales",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A storybook character with a crown"
+  },
+  {
+    "questionId": "emoji-060",
+    "emojis": "????",
+    "answer": "Counting sheep",
+    "category": "sayings",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A familiar trick for falling asleep"
+  },
+  {
+    "questionId": "emoji-061",
+    "emojis": "????",
+    "answer": "Ant carrying food",
+    "category": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A tiny insect taking a crumb"
+  },
+  {
+    "questionId": "emoji-062",
+    "emojis": "?????",
+    "answer": "Duck in the rain",
+    "category": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A water bird enjoying wet weather"
+  },
+  {
+    "questionId": "emoji-063",
+    "emojis": "????",
+    "answer": "Giraffe eating leaves",
+    "category": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A tall animal reaching a tree"
+  },
+  {
+    "questionId": "emoji-064",
+    "emojis": "????",
+    "answer": "Octopus",
+    "category": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A sea creature with eight arms"
+  },
+  {
+    "questionId": "emoji-065",
+    "emojis": "????",
+    "answer": "Beehive",
+    "category": "nature",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A home shared by honey-making insects"
+  },
+  {
+    "questionId": "emoji-066",
+    "emojis": "????",
+    "answer": "Take it slow",
+    "category": "sayings",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A reminder not to rush"
+  },
+  {
+    "questionId": "emoji-067",
+    "emojis": "????",
+    "answer": "Rock bottom",
+    "category": "sayings",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "The lowest point of a difficult time"
+  },
+  {
+    "questionId": "emoji-068",
+    "emojis": "????",
+    "answer": "Starstruck",
+    "category": "sayings",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Amazed by someone famous"
+  },
+  {
+    "questionId": "emoji-069",
+    "emojis": "????",
+    "answer": "Bright idea",
+    "category": "sayings",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A clever thought"
+  },
+  {
+    "questionId": "emoji-070",
+    "emojis": "????",
+    "answer": "Cold-hearted",
+    "category": "sayings",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Unkind or lacking sympathy"
+  },
+  {
+    "questionId": "emoji-071",
+    "emojis": "????",
+    "answer": "Foot in your mouth",
+    "category": "sayings",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Saying something awkward"
+  },
+  {
+    "questionId": "emoji-072",
+    "emojis": "????",
+    "answer": "Elephant in the room",
+    "category": "sayings",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "An obvious issue nobody mentions"
+  },
+  {
+    "questionId": "emoji-073",
+    "emojis": "???",
+    "answer": "Early bird",
+    "category": "sayings",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Someone who gets up early"
+  },
+  {
+    "questionId": "emoji-074",
+    "emojis": "????",
+    "answer": "Salt and lemon",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A savory seasoning with citrus"
+  },
+  {
+    "questionId": "emoji-075",
+    "emojis": "????",
+    "answer": "Honey pancakes",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A sweet breakfast stack"
+  },
+  {
+    "questionId": "emoji-076",
+    "emojis": "????",
+    "answer": "Avocado toast",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Mashed green fruit on bread"
+  },
+  {
+    "questionId": "emoji-077",
+    "emojis": "????",
+    "answer": "Strawberry milk",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A pink fruit-flavored drink"
+  },
+  {
+    "questionId": "emoji-078",
+    "emojis": "????",
+    "answer": "Lemonade",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A tart summer drink"
+  },
+  {
+    "questionId": "emoji-079",
+    "emojis": "????",
+    "answer": "Popcorn",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A puffed snack made from corn"
+  },
+  {
+    "questionId": "emoji-080",
+    "emojis": "????",
+    "answer": "French fries",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Crispy potato strips"
+  },
+  {
+    "questionId": "emoji-081",
+    "emojis": "????",
+    "answer": "Buttered toast",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A breakfast slice with a dairy spread"
+  },
+  {
+    "questionId": "emoji-082",
+    "emojis": "????",
+    "answer": "Rice bowl",
+    "category": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A meal eaten with chopsticks"
+  },
+  {
+    "questionId": "emoji-083",
+    "emojis": "????",
+    "answer": "Birthday cake",
+    "category": "celebrations",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A dessert for a yearly celebration"
+  },
+  {
+    "questionId": "emoji-084",
+    "emojis": "????",
+    "answer": "Wrapped present",
+    "category": "celebrations",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A surprise covered in paper and ribbon"
+  },
+  {
+    "questionId": "emoji-085",
+    "emojis": "????",
+    "answer": "New Year celebration",
+    "category": "celebrations",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A party with fireworks"
+  },
+  {
+    "questionId": "emoji-086",
+    "emojis": "????",
+    "answer": "Love letter",
+    "category": "relationships",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A romantic note with flowers"
+  },
+  {
+    "questionId": "emoji-087",
+    "emojis": "????",
+    "answer": "Friendly greeting",
+    "category": "everyday",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A warm hello with a handshake"
+  },
+  {
+    "questionId": "emoji-088",
+    "emojis": "????",
+    "answer": "Train journey",
+    "category": "travel",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Traveling with luggage by rail"
+  },
+  {
+    "questionId": "emoji-089",
+    "emojis": "??????",
+    "answer": "Camping trip",
+    "category": "travel",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Sleeping outdoors after a hike"
+  },
+  {
+    "questionId": "emoji-090",
+    "emojis": "?????",
+    "answer": "Island adventure",
+    "category": "travel",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Paddling near a tropical shore"
+  },
+  {
+    "questionId": "emoji-091",
+    "emojis": "?????",
+    "answer": "Mountain hike",
+    "category": "travel",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Walking a trail at high altitude"
+  },
+  {
+    "questionId": "emoji-092",
+    "emojis": "????",
+    "answer": "Bike ride",
+    "category": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Cycling along a leafy path"
+  },
+  {
+    "questionId": "emoji-093",
+    "emojis": "?????",
+    "answer": "Basketball shot",
+    "category": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Trying to score through a hoop"
+  },
+  {
+    "questionId": "emoji-094",
+    "emojis": "???",
+    "answer": "Goal scored",
+    "category": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Putting the ball into the net"
+  },
+  {
+    "questionId": "emoji-095",
+    "emojis": "???????",
+    "answer": "Swimming race",
+    "category": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Racing through a pool"
+  },
+  {
+    "questionId": "emoji-096",
+    "emojis": "????",
+    "answer": "Tennis champion",
+    "category": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Winning a racket-sport tournament"
+  },
+  {
+    "questionId": "emoji-097",
+    "emojis": "????",
+    "answer": "Live music",
+    "category": "music",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "A singer performing with a guitar"
+  },
+  {
+    "questionId": "emoji-098",
+    "emojis": "????",
+    "answer": "Piano music",
+    "category": "music",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Playing a melody on a keyboard"
+  },
+  {
+    "questionId": "emoji-099",
+    "emojis": "????",
+    "answer": "Parade band",
+    "category": "music",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Musicians marching with instruments"
+  },
+  {
+    "questionId": "emoji-100",
+    "emojis": "????",
+    "answer": "Reading under the covers",
+    "category": "everyday",
+    "difficulty": "easy",
+    "points": 10,
+    "hint": "Enjoying a book after lights out"
+  }
+]

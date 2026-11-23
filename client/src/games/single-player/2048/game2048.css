@@ -1,0 +1,377 @@
+
+.g2048-container {
+  min-height: 100vh;
+  padding: 28px;
+  color: #f8fafc;
+  background:
+    radial-gradient(circle at 90% 5%, rgba(245, 158, 11, 0.12), transparent 30%),
+    #0b1020;
+  border-radius: 18px;
+}
+
+.g2048-container * {
+  box-sizing: border-box;
+}
+
+.g2048-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  max-width: 1050px;
+  margin: 0 auto 25px;
+}
+
+.g2048-eyebrow {
+  color: #fcd34d;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1.8px;
+}
+
+.g2048-header h1 {
+  margin: 7px 0;
+  color: white;
+  font-size: clamp(27px, 4vw, 36px);
+}
+
+.g2048-header p {
+  margin: 0;
+  color: #94a3b8;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.g2048-exit-button {
+  padding: 9px 16px;
+  color: #fca5a5;
+  background: rgba(239, 68, 68, 0.09);
+  border: 1px solid rgba(248, 113, 113, 0.25);
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.g2048-game {
+  width: min(100%, 520px);
+  margin: 0 auto;
+  padding: 22px;
+  background: rgba(22, 30, 55, 0.9);
+  border: 1px solid rgba(148, 163, 184, 0.15);
+  border-radius: 20px;
+}
+
+.g2048-topbar {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-bottom: 15px;
+}
+
+.g2048-score-box {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 13px 16px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(148, 163, 184, 0.12);
+  border-radius: 11px;
+}
+
+.g2048-score-box span {
+  color: #94a3b8;
+  font-size: 12px;
+}
+
+.g2048-score-box strong {
+  color: #fcd34d;
+  font-size: 24px;
+}
+
+.g2048-action-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.g2048-button {
+  min-height: 42px;
+  padding: 10px 15px;
+  border: 0;
+  border-radius: 9px;
+  font-size: 13px;
+  font-weight: 750;
+  cursor: pointer;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.g2048-button:hover {
+  transform: translateY(-2px);
+}
+
+.g2048-button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.g2048-new-game {
+  color: #422006;
+  background: linear-gradient(120deg, #fbbf24, #fcd34d);
+}
+
+.g2048-pause {
+  color: #e2e8f0;
+  background: #334155;
+}
+
+.g2048-board-wrapper {
+  position: relative;
+  width: 100%;
+  padding: 10px;
+  overflow: hidden;
+  background: #243044;
+  border: 1px solid rgba(148, 163, 184, 0.16);
+  border-radius: 13px;
+  touch-action: none;
+  user-select: none;
+}
+
+.g2048-board {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-rows: repeat(4, minmax(0, 1fr));
+  gap: 9px;
+  width: 100%;
+  aspect-ratio: 1;
+}
+
+.g2048-cell {
+  display: flex;
+  min-width: 0;
+  min-height: 0;
+  align-items: stretch;
+  justify-content: stretch;
+}
+
+.g2048-tile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-width: 0;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 8px;
+  font-size: clamp(18px, 5vw, 29px);
+  font-weight: 850;
+  line-height: 1;
+  transition: background 0.12s ease, color 0.12s ease;
+}
+
+.g2048-tile-empty {
+  background: rgba(148, 163, 184, 0.12);
+}
+
+.g2048-tile-2 {
+  color: #334155;
+  background: #e2e8f0;
+}
+
+.g2048-tile-4 {
+  color: #334155;
+  background: #cbd5e1;
+}
+
+.g2048-tile-8 {
+  color: #fff;
+  background: #fb923c;
+}
+
+.g2048-tile-16 {
+  color: #fff;
+  background: #f97316;
+}
+
+.g2048-tile-32 {
+  color: #fff;
+  background: #ef4444;
+}
+
+.g2048-tile-64 {
+  color: #fff;
+  background: #dc2626;
+}
+
+.g2048-tile-128 {
+  color: #fff;
+  background: #eab308;
+  font-size: clamp(15px, 4vw, 25px);
+}
+
+.g2048-tile-256 {
+  color: #fff;
+  background: #ca8a04;
+  font-size: clamp(15px, 4vw, 25px);
+}
+
+.g2048-tile-512 {
+  color: #fff;
+  background: #16a34a;
+  font-size: clamp(15px, 4vw, 25px);
+}
+
+.g2048-tile-1024 {
+  color: #fff;
+  background: #0891b2;
+  font-size: clamp(13px, 3.5vw, 22px);
+}
+
+.g2048-tile-2048 {
+  color: #fff;
+  background: linear-gradient(135deg, #8b5cf6, #6366f1);
+  box-shadow: 0 0 15px rgba(139, 92, 246, 0.3);
+  font-size: clamp(13px, 3.5vw, 22px);
+}
+
+.g2048-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  background: rgba(11, 16, 32, 0.84);
+  backdrop-filter: blur(5px);
+}
+
+.g2048-overlay h2 {
+  margin: 0;
+  font-size: clamp(23px, 5vw, 32px);
+}
+
+.g2048-overlay p {
+  margin: 0 0 8px;
+  color: #cbd5e1;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.g2048-overlay .g2048-button {
+  width: min(100%, 230px);
+}
+
+.g2048-mobile-controls {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  margin-top: 20px;
+}
+
+.g2048-mobile-controls > div {
+  display: flex;
+  gap: 8px;
+}
+
+.g2048-mobile-controls button {
+  display: grid;
+  width: 48px;
+  height: 43px;
+  place-items: center;
+  color: white;
+  background: #334155;
+  border: 1px solid rgba(148, 163, 184, 0.2);
+  border-radius: 9px;
+  font-size: 20px;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+.g2048-mobile-controls button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.g2048-instructions {
+  margin-top: 23px;
+}
+
+.g2048-instructions h3 {
+  margin: 0 0 10px;
+  color: white;
+  font-size: 16px;
+}
+
+.g2048-instructions p {
+  margin: 0;
+  color: #aab5ce;
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+.g2048-key-hints {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin-top: 15px;
+}
+
+.g2048-key-hints kbd {
+  display: grid;
+  min-width: 29px;
+  height: 29px;
+  padding: 4px;
+  place-items: center;
+  color: #fcd34d;
+  background: #334155;
+  border: 1px solid rgba(252, 211, 77, 0.15);
+  border-radius: 6px;
+  font-family: inherit;
+  font-weight: 800;
+}
+
+.g2048-key-hints span {
+  margin-left: 5px;
+  color: #94a3b8;
+  font-size: 12px;
+}
+
+.g2048-instructions .g2048-move-count {
+  margin-top: 13px;
+  color: #94a3b8;
+  font-size: 11px;
+}
+
+@media (max-width: 600px) {
+  .g2048-container {
+    padding: 14px;
+  }
+
+  .g2048-game {
+    padding: 14px;
+  }
+
+  .g2048-mobile-controls {
+    display: flex;
+  }
+
+  .g2048-board {
+    gap: 6px;
+  }
+
+  .g2048-board-wrapper {
+    padding: 7px;
+  }
+
+  .g2048-score-box strong {
+    font-size: 21px;
+  }
+
+  .g2048-header {
+    align-items: flex-start;
+  }
+}

@@ -1,0 +1,1402 @@
+[
+  {
+    "questionId": "entertainment-001",
+    "question": "Which instrument typically has 88 keys?",
+    "options": [
+      "Guitar",
+      "Piano",
+      "Violin",
+      "Flute"
+    ],
+    "correctIndex": 1,
+    "explanation": "A standard modern piano typically has 88 keys.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "entertainment-002",
+    "question": "What does CGI stand for in filmmaking?",
+    "options": [
+      "Computer Generated Imagery",
+      "Creative Graphic Integration",
+      "Cinema Generated Interface",
+      "Computer Graphic Illustration"
+    ],
+    "correctIndex": 0,
+    "explanation": "CGI stands for Computer Generated Imagery.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "entertainment-003",
+    "question": "Which art form is traditionally associated with a stage and live actors?",
+    "options": [
+      "Photography",
+      "Theatre",
+      "Sculpture",
+      "Painting"
+    ],
+    "correctIndex": 1,
+    "explanation": "Theatre features live performance before an audience.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "entertainment-004",
+    "question": "Which instrument belongs to the woodwind family?",
+    "options": [
+      "Trumpet",
+      "Flute",
+      "Cello",
+      "Timpani"
+    ],
+    "correctIndex": 1,
+    "explanation": "The flute is classified as a woodwind instrument.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "entertainment-005",
+    "question": "What is a screenplay primarily written for?",
+    "options": [
+      "A film or television production",
+      "A painting",
+      "A concert",
+      "A sculpture"
+    ],
+    "correctIndex": 0,
+    "explanation": "A screenplay describes dialogue and action for screen productions.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "entertainment-006",
+    "question": "How many strings does a standard violin have?",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "correctIndex": 0,
+    "explanation": "A standard violin has four strings.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "entertainment-007",
+    "question": "Which instrument is associated with Louis Armstrong?",
+    "options": [
+      "Trumpet",
+      "Harp",
+      "Oboe",
+      "Cello"
+    ],
+    "correctIndex": 0,
+    "explanation": "Louis Armstrong was a celebrated jazz trumpeter.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "entertainment-008",
+    "question": "What is the name for a book about a person's own life, written by that person?",
+    "options": [
+      "Biography",
+      "Autobiography",
+      "Anthology",
+      "Fable"
+    ],
+    "correctIndex": 1,
+    "explanation": "An autobiography is an account of a person's life written by that person.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "entertainment-009",
+    "question": "Which dance style is closely associated with Argentina?",
+    "options": [
+      "Tango",
+      "Waltz",
+      "Hula",
+      "Flamenco"
+    ],
+    "correctIndex": 0,
+    "explanation": "The tango developed in the Río de la Plata region, including Argentina.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "entertainment-010",
+    "question": "What is the traditional Japanese art of paper folding called?",
+    "options": [
+      "Ikebana",
+      "Origami",
+      "Shodo",
+      "Bonsai"
+    ],
+    "correctIndex": 1,
+    "explanation": "Origami is the Japanese art of folding paper into shapes.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "entertainment-011",
+    "question": "Which family of instruments includes the cello?",
+    "options": [
+      "Brass",
+      "String",
+      "Percussion",
+      "Woodwind"
+    ],
+    "correctIndex": 1,
+    "explanation": "The cello is a bowed string instrument.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "entertainment-012",
+    "question": "In photography, what does a camera's aperture control?",
+    "options": [
+      "The amount of light entering the lens",
+      "The image's file name",
+      "The camera's battery life",
+      "The memory card format"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aperture controls the opening through which light enters the camera.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "entertainment-013",
+    "question": "Which art movement is associated with Claude Monet?",
+    "options": [
+      "Impressionism",
+      "Cubism",
+      "Surrealism",
+      "Pop art"
+    ],
+    "correctIndex": 0,
+    "explanation": "Claude Monet was a leading painter of the Impressionist movement.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "entertainment-014",
+    "question": "What is the name for the words sung in a song?",
+    "options": [
+      "Lyrics",
+      "Libretto",
+      "Caption",
+      "Dialogue"
+    ],
+    "correctIndex": 0,
+    "explanation": "The words of a song are its lyrics.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "entertainment-015",
+    "question": "Which instrument is played using a bow?",
+    "options": [
+      "Clarinet",
+      "Violin",
+      "Trumpet",
+      "Drum kit"
+    ],
+    "correctIndex": 1,
+    "explanation": "A violin is commonly played by drawing a bow across its strings.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "question": "Which instrument family does the oboe belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The oboe belongs to the woodwind family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-016"
+  },
+  {
+    "question": "Which instrument family does the bassoon belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bassoon belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-017"
+  },
+  {
+    "question": "Which instrument family does the piccolo belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The piccolo belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-018"
+  },
+  {
+    "question": "Which instrument family does the bass clarinet belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bass clarinet belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-019"
+  },
+  {
+    "question": "Which instrument family does the English horn belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The English horn belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-020"
+  },
+  {
+    "question": "Which instrument family does the contrabassoon belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The contrabassoon belongs to the woodwind family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-021"
+  },
+  {
+    "question": "Which instrument family does the soprano saxophone belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The soprano saxophone belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-022"
+  },
+  {
+    "question": "Which instrument family does the tenor saxophone belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The tenor saxophone belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-023"
+  },
+  {
+    "question": "Which instrument family does the baritone saxophone belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The baritone saxophone belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-024"
+  },
+  {
+    "question": "Which instrument family does the alto flute belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The alto flute belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-025"
+  },
+  {
+    "question": "Which instrument family does the bass flute belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bass flute belongs to the woodwind family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-026"
+  },
+  {
+    "question": "Which instrument family does the sopranino recorder belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The sopranino recorder belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-027"
+  },
+  {
+    "question": "Which instrument family does the alto recorder belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The alto recorder belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-028"
+  },
+  {
+    "question": "Which instrument family does the baroque flute belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The baroque flute belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-029"
+  },
+  {
+    "question": "Which instrument family does the panpipes belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The panpipes belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-030"
+  },
+  {
+    "question": "Which instrument family does the tin whistle belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The tin whistle belongs to the woodwind family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-031"
+  },
+  {
+    "question": "Which instrument family does the nyckelharpa belong to?",
+    "options": [
+      "woodwind",
+      "brass",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The nyckelharpa belongs to the woodwind family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-032"
+  },
+  {
+    "question": "Which instrument family does the French horn belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The French horn belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-033"
+  },
+  {
+    "question": "Which instrument family does the trombone belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The trombone belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-034"
+  },
+  {
+    "question": "Which instrument family does the tuba belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The tuba belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-035"
+  },
+  {
+    "question": "Which instrument family does the cornet belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The cornet belongs to the brass family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-036"
+  },
+  {
+    "question": "Which instrument family does the flugelhorn belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The flugelhorn belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-037"
+  },
+  {
+    "question": "Which instrument family does the euphonium belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The euphonium belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-038"
+  },
+  {
+    "question": "Which instrument family does the baritone horn belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The baritone horn belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-039"
+  },
+  {
+    "question": "Which instrument family does the bass trombone belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bass trombone belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-040"
+  },
+  {
+    "question": "Which instrument family does the bugle belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bugle belongs to the brass family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-041"
+  },
+  {
+    "question": "Which instrument family does the sousaphone belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The sousaphone belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-042"
+  },
+  {
+    "question": "Which instrument family does the alto horn belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The alto horn belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-043"
+  },
+  {
+    "question": "Which instrument family does the wagner tuba belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The wagner tuba belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-044"
+  },
+  {
+    "question": "Which instrument family does the natural trumpet belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The natural trumpet belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-045"
+  },
+  {
+    "question": "Which instrument family does the bass trumpet belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bass trumpet belongs to the brass family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-046"
+  },
+  {
+    "question": "Which instrument family does the post horn belong to?",
+    "options": [
+      "brass",
+      "woodwind",
+      "string",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The post horn belongs to the brass family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-047"
+  },
+  {
+    "question": "Which instrument family does the viola belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The viola belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-048"
+  },
+  {
+    "question": "Which instrument family does the double bass belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The double bass belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-049"
+  },
+  {
+    "question": "Which instrument family does the harp belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The harp belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-050"
+  },
+  {
+    "question": "Which instrument family does the mandolin belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The mandolin belongs to the string family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-051"
+  },
+  {
+    "question": "Which instrument family does the banjo belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The banjo belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-052"
+  },
+  {
+    "question": "Which instrument family does the ukulele belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The ukulele belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-053"
+  },
+  {
+    "question": "Which instrument family does the lute belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The lute belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-054"
+  },
+  {
+    "question": "Which instrument family does the sitar belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The sitar belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-055"
+  },
+  {
+    "question": "Which instrument family does the oud belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The oud belongs to the string family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-056"
+  },
+  {
+    "question": "Which instrument family does the zither belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The zither belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-057"
+  },
+  {
+    "question": "Which instrument family does the guitar belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The guitar belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-058"
+  },
+  {
+    "question": "Which instrument family does the cello belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The cello belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-059"
+  },
+  {
+    "question": "Which instrument family does the erhu belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The erhu belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-060"
+  },
+  {
+    "question": "Which instrument family does the koto belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The koto belongs to the string family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-061"
+  },
+  {
+    "question": "Which instrument family does the balalaika belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The balalaika belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-062"
+  },
+  {
+    "question": "Which instrument family does the dulcimer belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The dulcimer belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-063"
+  },
+  {
+    "question": "Which instrument family does the lyre belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The lyre belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-064"
+  },
+  {
+    "question": "Which instrument family does the charango belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The charango belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-065"
+  },
+  {
+    "question": "Which instrument family does the bouzouki belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bouzouki belongs to the string family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-066"
+  },
+  {
+    "question": "Which instrument family does the sarod belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The sarod belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-067"
+  },
+  {
+    "question": "Which instrument family does the shamisen belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The shamisen belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-068"
+  },
+  {
+    "question": "Which instrument family does the guqin belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The guqin belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-069"
+  },
+  {
+    "question": "Which instrument family does the rebec belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The rebec belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-070"
+  },
+  {
+    "question": "Which instrument family does the viola da gamba belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The viola da gamba belongs to the string family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-071"
+  },
+  {
+    "question": "Which instrument family does the psaltery belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The psaltery belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-072"
+  },
+  {
+    "question": "Which instrument family does the autoharp belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The autoharp belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-073"
+  },
+  {
+    "question": "Which instrument family does the lap steel guitar belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The lap steel guitar belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-074"
+  },
+  {
+    "question": "Which instrument family does the tenor guitar belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The tenor guitar belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-075"
+  },
+  {
+    "question": "Which instrument family does the cittern belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The cittern belongs to the string family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-076"
+  },
+  {
+    "question": "Which instrument family does the bandura belong to?",
+    "options": [
+      "string",
+      "woodwind",
+      "brass",
+      "keyboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bandura belongs to the string family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-077"
+  },
+  {
+    "question": "Which instrument family does the organ belong to?",
+    "options": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The organ belongs to the keyboard family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-078"
+  },
+  {
+    "question": "Which instrument family does the harpsichord belong to?",
+    "options": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The harpsichord belongs to the keyboard family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-079"
+  },
+  {
+    "question": "Which instrument family does the celesta belong to?",
+    "options": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The celesta belongs to the keyboard family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-080"
+  },
+  {
+    "question": "Which instrument family does the synthesizer belong to?",
+    "options": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The synthesizer belongs to the keyboard family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-081"
+  },
+  {
+    "question": "Which instrument family does the melodica belong to?",
+    "options": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The melodica belongs to the keyboard family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-082"
+  },
+  {
+    "question": "Which instrument family does the clavichord belong to?",
+    "options": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The clavichord belongs to the keyboard family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-083"
+  },
+  {
+    "question": "Which instrument family does the pipe organ belong to?",
+    "options": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The pipe organ belongs to the keyboard family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-084"
+  },
+  {
+    "question": "Which instrument family does the electric piano belong to?",
+    "options": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The electric piano belongs to the keyboard family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-085"
+  },
+  {
+    "question": "Which instrument family does the toy piano belong to?",
+    "options": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The toy piano belongs to the keyboard family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-086"
+  },
+  {
+    "question": "Which instrument family does the water organ belong to?",
+    "options": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The water organ belongs to the keyboard family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-087"
+  },
+  {
+    "question": "Which instrument family does the marimba belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The marimba belongs to the percussion family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-088"
+  },
+  {
+    "question": "Which instrument family does the vibraphone belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The vibraphone belongs to the percussion family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-089"
+  },
+  {
+    "question": "Which instrument family does the xylophone belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The xylophone belongs to the percussion family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-090"
+  },
+  {
+    "question": "Which instrument family does the glockenspiel belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The glockenspiel belongs to the percussion family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-091"
+  },
+  {
+    "question": "Which instrument family does the timpani belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The timpani belongs to the percussion family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-092"
+  },
+  {
+    "question": "Which instrument family does the snare drum belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The snare drum belongs to the percussion family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-093"
+  },
+  {
+    "question": "Which instrument family does the bass drum belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bass drum belongs to the percussion family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-094"
+  },
+  {
+    "question": "Which instrument family does the tambourine belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The tambourine belongs to the percussion family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-095"
+  },
+  {
+    "question": "Which instrument family does the triangle belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The triangle belongs to the percussion family.",
+    "difficulty": "medium",
+    "points": 20,
+    "questionId": "entertainment-096"
+  },
+  {
+    "question": "Which instrument family does the cajon belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The cajon belongs to the percussion family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-097"
+  },
+  {
+    "question": "Which instrument family does the djembe belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The djembe belongs to the percussion family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-098"
+  },
+  {
+    "question": "Which instrument family does the conga belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The conga belongs to the percussion family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-099"
+  },
+  {
+    "question": "Which instrument family does the bongos belong to?",
+    "options": [
+      "percussion",
+      "woodwind",
+      "brass",
+      "string"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bongos belongs to the percussion family.",
+    "difficulty": "easy",
+    "points": 10,
+    "questionId": "entertainment-100"
+  }
+]

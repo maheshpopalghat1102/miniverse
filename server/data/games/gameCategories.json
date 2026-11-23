@@ -1,0 +1,27 @@
+
+[
+  {
+    "categoryId": "multiplayer",
+    "name": "Multiplayer",
+    "description": "Play live games with friends or other players.",
+    "icon": "users",
+    "sortOrder": 1,
+    "active": true
+  },
+  {
+    "categoryId": "single-player",
+    "name": "Single Player",
+    "description": "Enjoy games and challenges on your own.",
+    "icon": "gamepad-2",
+    "sortOrder": 2,
+    "active": true
+  },
+  {
+    "categoryId": "turn-by-turn",
+    "name": "Turn by Turn",
+    "description": "Take turns and play together.",
+    "icon": "repeat",
+    "sortOrder": 3,
+    "active": true
+  }
+]

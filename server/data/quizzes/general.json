@@ -1,0 +1,1402 @@
+[
+  {
+    "questionId": "general-001",
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Seoul",
+      "Tokyo",
+      "Beijing",
+      "Bangkok"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tokyo is the capital of Japan.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-002",
+    "question": "Which is the largest ocean?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Pacific Ocean is the largest ocean.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-003",
+    "question": "How many continents are commonly recognized?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctIndex": 2,
+    "explanation": "The commonly taught model recognizes seven continents.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-004",
+    "question": "Which country is home to the Great Pyramid of Giza?",
+    "options": [
+      "Mexico",
+      "Egypt",
+      "Greece",
+      "India"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Great Pyramid of Giza is in Egypt.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-005",
+    "question": "What is the currency of Switzerland?",
+    "options": [
+      "Euro",
+      "Swiss franc",
+      "Pound",
+      "Krone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Switzerland uses the Swiss franc.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-006",
+    "question": "Which river flows through Egypt?",
+    "options": [
+      "Amazon",
+      "Danube",
+      "Nile",
+      "Rhine"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Nile flows north through Egypt to the Mediterranean Sea.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-007",
+    "question": "What is the smallest prime number?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 2,
+    "explanation": "Two is the smallest prime and the only even prime.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-008",
+    "question": "Which language is the most widely spoken native language?",
+    "options": [
+      "English",
+      "Mandarin Chinese",
+      "Spanish",
+      "Hindi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mandarin Chinese has the largest number of native speakers.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-009",
+    "question": "On which continent is the Sahara Desert?",
+    "options": [
+      "Asia",
+      "Africa",
+      "South America",
+      "Australia"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sahara spans much of northern Africa.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-010",
+    "question": "How many sides does a hexagon have?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctIndex": 1,
+    "explanation": "A hexagon is a polygon with six sides.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-011",
+    "question": "Which is the largest mammal on Earth?",
+    "options": [
+      "African elephant",
+      "Blue whale",
+      "Giraffe",
+      "Whale shark"
+    ],
+    "correctIndex": 1,
+    "explanation": "The blue whale is the largest known animal.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-012",
+    "question": "What is the capital city of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ottawa is Canada's capital city.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-013",
+    "question": "Which instrument measures atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "correctIndex": 1,
+    "explanation": "A barometer measures atmospheric pressure.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-014",
+    "question": "How many minutes are in two hours?",
+    "options": [
+      "100",
+      "120",
+      "140",
+      "180"
+    ],
+    "correctIndex": 1,
+    "explanation": "Two hours contain 2 × 60, or 120, minutes.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-015",
+    "question": "Which is the world's largest island, excluding continents?",
+    "options": [
+      "Madagascar",
+      "Borneo",
+      "Greenland",
+      "New Guinea"
+    ],
+    "correctIndex": 2,
+    "explanation": "Greenland is the largest island that is not considered a continent.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-016",
+    "question": "What is the capital of Afghanistan?",
+    "options": [
+      "Kabul",
+      "Yerevan",
+      "Thimphu",
+      "Praia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Afghanistan has Kabul as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-017",
+    "question": "What is the capital of Albania?",
+    "options": [
+      "Bangui",
+      "Canberra",
+      "Sucre",
+      "Tirana"
+    ],
+    "correctIndex": 3,
+    "explanation": "Albania has Tirana as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-018",
+    "question": "What is the capital of Algeria?",
+    "options": [
+      "Sarajevo",
+      "Vienna",
+      "Algiers",
+      "N?Djamena"
+    ],
+    "correctIndex": 2,
+    "explanation": "Algeria has Algiers as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-019",
+    "question": "What is the capital of Andorra?",
+    "options": [
+      "Baku",
+      "Andorra la Vella",
+      "Gaborone",
+      "Santiago"
+    ],
+    "correctIndex": 1,
+    "explanation": "Andorra has Andorra la Vella as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-020",
+    "question": "What is the capital of Angola?",
+    "options": [
+      "Luanda",
+      "Nassau",
+      "Bras?lia",
+      "Beijing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Angola has Luanda as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-021",
+    "question": "What is the capital of Antigua and Barbuda?",
+    "options": [
+      "Bogot?",
+      "Manama",
+      "Bandar Seri Begawan",
+      "Saint John?s"
+    ],
+    "correctIndex": 3,
+    "explanation": "Antigua and Barbuda has Saint John?s as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-022",
+    "question": "What is the capital of Argentina?",
+    "options": [
+      "Sofia",
+      "Dhaka",
+      "Buenos Aires",
+      "Moroni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Argentina has Buenos Aires as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-023",
+    "question": "What is the capital of Armenia?",
+    "options": [
+      "Bridgetown",
+      "Yerevan",
+      "Ouagadougou",
+      "San Jos?"
+    ],
+    "correctIndex": 1,
+    "explanation": "Armenia has Yerevan as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-024",
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Canberra",
+      "Minsk",
+      "Gitega",
+      "Zagreb"
+    ],
+    "correctIndex": 0,
+    "explanation": "Australia has Canberra as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-025",
+    "question": "What is the capital of Austria?",
+    "options": [
+      "Havana",
+      "Brussels",
+      "Phnom Penh",
+      "Vienna"
+    ],
+    "correctIndex": 3,
+    "explanation": "Austria has Vienna as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-026",
+    "question": "What is the capital of Azerbaijan?",
+    "options": [
+      "Yaound?",
+      "Belmopan",
+      "Baku",
+      "Nicosia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Azerbaijan has Baku as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-027",
+    "question": "What is the capital of Bahamas?",
+    "options": [
+      "Porto-Novo",
+      "Nassau",
+      "Ottawa",
+      "Prague"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bahamas has Nassau as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-028",
+    "question": "What is the capital of Bahrain?",
+    "options": [
+      "Manama",
+      "Thimphu",
+      "Praia",
+      "Copenhagen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bahrain has Manama as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-029",
+    "question": "What is the capital of Bangladesh?",
+    "options": [
+      "Djibouti",
+      "Sucre",
+      "Bangui",
+      "Dhaka"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bangladesh has Dhaka as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-030",
+    "question": "What is the capital of Barbados?",
+    "options": [
+      "N?Djamena",
+      "Sarajevo",
+      "Bridgetown",
+      "Roseau"
+    ],
+    "correctIndex": 2,
+    "explanation": "Barbados has Bridgetown as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-031",
+    "question": "What is the capital of Belarus?",
+    "options": [
+      "Gaborone",
+      "Minsk",
+      "Santiago",
+      "Santo Domingo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Belarus has Minsk as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-032",
+    "question": "What is the capital of Belgium?",
+    "options": [
+      "Brussels",
+      "Bras?lia",
+      "Beijing",
+      "Quito"
+    ],
+    "correctIndex": 0,
+    "explanation": "Belgium has Brussels as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-033",
+    "question": "What is the capital of Belize?",
+    "options": [
+      "Cairo",
+      "Bandar Seri Begawan",
+      "Bogot?",
+      "Belmopan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Belize has Belmopan as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-034",
+    "question": "What is the capital of Benin?",
+    "options": [
+      "Moroni",
+      "Sofia",
+      "Porto-Novo",
+      "San Salvador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Benin has Porto-Novo as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-035",
+    "question": "What is the capital of Bhutan?",
+    "options": [
+      "Ouagadougou",
+      "Thimphu",
+      "San Jos?",
+      "Malabo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bhutan has Thimphu as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-036",
+    "question": "What is the capital of Bolivia?",
+    "options": [
+      "Sucre",
+      "Gitega",
+      "Zagreb",
+      "Asmara"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bolivia has Sucre as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-037",
+    "question": "What is the capital of Bosnia and Herzegovina?",
+    "options": [
+      "Tallinn",
+      "Phnom Penh",
+      "Havana",
+      "Sarajevo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bosnia and Herzegovina has Sarajevo as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-038",
+    "question": "What is the capital of Botswana?",
+    "options": [
+      "Nicosia",
+      "Yaound?",
+      "Gaborone",
+      "Mbabane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Botswana has Gaborone as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-039",
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Ottawa",
+      "Bras?lia",
+      "Prague",
+      "Addis Ababa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brazil has Bras?lia as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-040",
+    "question": "What is the capital of Brunei?",
+    "options": [
+      "Bandar Seri Begawan",
+      "Praia",
+      "Copenhagen",
+      "Suva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brunei has Bandar Seri Begawan as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-041",
+    "question": "What is the capital of Bulgaria?",
+    "options": [
+      "Helsinki",
+      "Bangui",
+      "Djibouti",
+      "Sofia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bulgaria has Sofia as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-042",
+    "question": "What is the capital of Burkina Faso?",
+    "options": [
+      "Roseau",
+      "N?Djamena",
+      "Ouagadougou",
+      "Paris"
+    ],
+    "correctIndex": 2,
+    "explanation": "Burkina Faso has Ouagadougou as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-043",
+    "question": "What is the capital of Burundi?",
+    "options": [
+      "Santiago",
+      "Gitega",
+      "Santo Domingo",
+      "Libreville"
+    ],
+    "correctIndex": 1,
+    "explanation": "Burundi has Gitega as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-044",
+    "question": "What is the capital of Cambodia?",
+    "options": [
+      "Phnom Penh",
+      "Beijing",
+      "Quito",
+      "Banjul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cambodia has Phnom Penh as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-045",
+    "question": "What is the capital of Cameroon?",
+    "options": [
+      "Tbilisi",
+      "Bogot?",
+      "Cairo",
+      "Yaound?"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cameroon has Yaound? as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-046",
+    "question": "What is the capital of Canada?",
+    "options": [
+      "San Salvador",
+      "Moroni",
+      "Ottawa",
+      "Berlin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Canada has Ottawa as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-047",
+    "question": "What is the capital of Cape Verde?",
+    "options": [
+      "San Jos?",
+      "Praia",
+      "Malabo",
+      "Accra"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cape Verde has Praia as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-048",
+    "question": "What is the capital of Central African Republic?",
+    "options": [
+      "Bangui",
+      "Zagreb",
+      "Asmara",
+      "Athens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Central African Republic has Bangui as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-049",
+    "question": "What is the capital of Chad?",
+    "options": [
+      "Saint George?s",
+      "Havana",
+      "Tallinn",
+      "N?Djamena"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chad has N?Djamena as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-050",
+    "question": "What is the capital of Chile?",
+    "options": [
+      "Mbabane",
+      "Nicosia",
+      "Santiago",
+      "Guatemala City"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chile has Santiago as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-051",
+    "question": "What is the capital of China?",
+    "options": [
+      "Prague",
+      "Beijing",
+      "Addis Ababa",
+      "Conakry"
+    ],
+    "correctIndex": 1,
+    "explanation": "China has Beijing as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-052",
+    "question": "What is the capital of Colombia?",
+    "options": [
+      "Bogot?",
+      "Copenhagen",
+      "Suva",
+      "Bissau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Colombia has Bogot? as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-053",
+    "question": "What is the capital of Comoros?",
+    "options": [
+      "Georgetown",
+      "Djibouti",
+      "Helsinki",
+      "Moroni"
+    ],
+    "correctIndex": 3,
+    "explanation": "Comoros has Moroni as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-054",
+    "question": "What is the capital of Costa Rica?",
+    "options": [
+      "Paris",
+      "Roseau",
+      "San Jos?",
+      "Port-au-Prince"
+    ],
+    "correctIndex": 2,
+    "explanation": "Costa Rica has San Jos? as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-055",
+    "question": "What is the capital of Croatia?",
+    "options": [
+      "Santo Domingo",
+      "Zagreb",
+      "Libreville",
+      "Tegucigalpa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Croatia has Zagreb as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-056",
+    "question": "What is the capital of Cuba?",
+    "options": [
+      "Havana",
+      "Quito",
+      "Banjul",
+      "Budapest"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cuba has Havana as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-057",
+    "question": "What is the capital of Cyprus?",
+    "options": [
+      "Reykjav?k",
+      "Cairo",
+      "Tbilisi",
+      "Nicosia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cyprus has Nicosia as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-058",
+    "question": "What is the capital of Czechia?",
+    "options": [
+      "Berlin",
+      "San Salvador",
+      "Prague",
+      "New Delhi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Czechia has Prague as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-059",
+    "question": "What is the capital of Denmark?",
+    "options": [
+      "Malabo",
+      "Copenhagen",
+      "Accra",
+      "Jakarta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Denmark has Copenhagen as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-060",
+    "question": "What is the capital of Djibouti?",
+    "options": [
+      "Djibouti",
+      "Asmara",
+      "Athens",
+      "Tehran"
+    ],
+    "correctIndex": 0,
+    "explanation": "Djibouti has Djibouti as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-061",
+    "question": "What is the capital of Dominica?",
+    "options": [
+      "Baghdad",
+      "Tallinn",
+      "Saint George?s",
+      "Roseau"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dominica has Roseau as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-062",
+    "question": "What is the capital of Dominican Republic?",
+    "options": [
+      "Guatemala City",
+      "Mbabane",
+      "Santo Domingo",
+      "Dublin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dominican Republic has Santo Domingo as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-063",
+    "question": "What is the capital of Ecuador?",
+    "options": [
+      "Addis Ababa",
+      "Quito",
+      "Conakry",
+      "Rome"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ecuador has Quito as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-064",
+    "question": "What is the capital of Egypt?",
+    "options": [
+      "Cairo",
+      "Suva",
+      "Bissau",
+      "Kingston"
+    ],
+    "correctIndex": 0,
+    "explanation": "Egypt has Cairo as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-065",
+    "question": "What is the capital of El Salvador?",
+    "options": [
+      "Tokyo",
+      "Helsinki",
+      "Georgetown",
+      "San Salvador"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Salvador has San Salvador as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-066",
+    "question": "What is the capital of Equatorial Guinea?",
+    "options": [
+      "Port-au-Prince",
+      "Paris",
+      "Malabo",
+      "Amman"
+    ],
+    "correctIndex": 2,
+    "explanation": "Equatorial Guinea has Malabo as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-067",
+    "question": "What is the capital of Eritrea?",
+    "options": [
+      "Libreville",
+      "Asmara",
+      "Tegucigalpa",
+      "Astana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eritrea has Asmara as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-068",
+    "question": "What is the capital of Estonia?",
+    "options": [
+      "Tallinn",
+      "Banjul",
+      "Budapest",
+      "Nairobi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Estonia has Tallinn as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-069",
+    "question": "What is the capital of Eswatini?",
+    "options": [
+      "South Tarawa",
+      "Tbilisi",
+      "Reykjav?k",
+      "Mbabane"
+    ],
+    "correctIndex": 3,
+    "explanation": "Eswatini has Mbabane as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-070",
+    "question": "What is the capital of Ethiopia?",
+    "options": [
+      "New Delhi",
+      "Berlin",
+      "Addis Ababa",
+      "Kuwait City"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ethiopia has Addis Ababa as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-071",
+    "question": "What is the capital of Fiji?",
+    "options": [
+      "Accra",
+      "Suva",
+      "Jakarta",
+      "Bishkek"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fiji has Suva as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-072",
+    "question": "What is the capital of Finland?",
+    "options": [
+      "Helsinki",
+      "Athens",
+      "Tehran",
+      "Kabul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Finland has Helsinki as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-073",
+    "question": "What is the capital of France?",
+    "options": [
+      "Tirana",
+      "Saint George?s",
+      "Baghdad",
+      "Paris"
+    ],
+    "correctIndex": 3,
+    "explanation": "France has Paris as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-074",
+    "question": "What is the capital of Gabon?",
+    "options": [
+      "Dublin",
+      "Guatemala City",
+      "Libreville",
+      "Algiers"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gabon has Libreville as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-075",
+    "question": "What is the capital of Gambia?",
+    "options": [
+      "Conakry",
+      "Banjul",
+      "Rome",
+      "Andorra la Vella"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gambia has Banjul as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-076",
+    "question": "What is the capital of Georgia?",
+    "options": [
+      "Tbilisi",
+      "Bissau",
+      "Kingston",
+      "Luanda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Georgia has Tbilisi as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-077",
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Saint John?s",
+      "Georgetown",
+      "Tokyo",
+      "Berlin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Germany has Berlin as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-078",
+    "question": "What is the capital of Ghana?",
+    "options": [
+      "Amman",
+      "Port-au-Prince",
+      "Accra",
+      "Buenos Aires"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ghana has Accra as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-079",
+    "question": "What is the capital of Greece?",
+    "options": [
+      "Tegucigalpa",
+      "Athens",
+      "Astana",
+      "Yerevan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Greece has Athens as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-080",
+    "question": "What is the capital of Grenada?",
+    "options": [
+      "Saint George?s",
+      "Budapest",
+      "Nairobi",
+      "Canberra"
+    ],
+    "correctIndex": 0,
+    "explanation": "Grenada has Saint George?s as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-081",
+    "question": "What is the capital of Guatemala?",
+    "options": [
+      "Vienna",
+      "Reykjav?k",
+      "South Tarawa",
+      "Guatemala City"
+    ],
+    "correctIndex": 3,
+    "explanation": "Guatemala has Guatemala City as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-082",
+    "question": "What is the capital of Guinea?",
+    "options": [
+      "Kuwait City",
+      "New Delhi",
+      "Conakry",
+      "Baku"
+    ],
+    "correctIndex": 2,
+    "explanation": "Guinea has Conakry as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-083",
+    "question": "What is the capital of Guinea-Bissau?",
+    "options": [
+      "Jakarta",
+      "Bissau",
+      "Bishkek",
+      "Nassau"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guinea-Bissau has Bissau as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-084",
+    "question": "What is the capital of Guyana?",
+    "options": [
+      "Georgetown",
+      "Tehran",
+      "Kabul",
+      "Manama"
+    ],
+    "correctIndex": 0,
+    "explanation": "Guyana has Georgetown as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-085",
+    "question": "What is the capital of Haiti?",
+    "options": [
+      "Dhaka",
+      "Baghdad",
+      "Tirana",
+      "Port-au-Prince"
+    ],
+    "correctIndex": 3,
+    "explanation": "Haiti has Port-au-Prince as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-086",
+    "question": "What is the capital of Honduras?",
+    "options": [
+      "Algiers",
+      "Dublin",
+      "Tegucigalpa",
+      "Bridgetown"
+    ],
+    "correctIndex": 2,
+    "explanation": "Honduras has Tegucigalpa as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-087",
+    "question": "What is the capital of Hungary?",
+    "options": [
+      "Rome",
+      "Budapest",
+      "Andorra la Vella",
+      "Minsk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hungary has Budapest as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-088",
+    "question": "What is the capital of Iceland?",
+    "options": [
+      "Reykjav?k",
+      "Kingston",
+      "Luanda",
+      "Brussels"
+    ],
+    "correctIndex": 0,
+    "explanation": "Iceland has Reykjav?k as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-089",
+    "question": "What is the capital of India?",
+    "options": [
+      "Belmopan",
+      "Tokyo",
+      "Saint John?s",
+      "New Delhi"
+    ],
+    "correctIndex": 3,
+    "explanation": "India has New Delhi as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-090",
+    "question": "What is the capital of Indonesia?",
+    "options": [
+      "Buenos Aires",
+      "Amman",
+      "Jakarta",
+      "Porto-Novo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indonesia has Jakarta as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-091",
+    "question": "What is the capital of Iran?",
+    "options": [
+      "Astana",
+      "Tehran",
+      "Yerevan",
+      "Thimphu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iran has Tehran as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-092",
+    "question": "What is the capital of Iraq?",
+    "options": [
+      "Baghdad",
+      "Nairobi",
+      "Canberra",
+      "Sucre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Iraq has Baghdad as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-093",
+    "question": "What is the capital of Ireland?",
+    "options": [
+      "Sarajevo",
+      "South Tarawa",
+      "Vienna",
+      "Dublin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ireland has Dublin as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-094",
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Baku",
+      "Kuwait City",
+      "Rome",
+      "Gaborone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Italy has Rome as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-095",
+    "question": "What is the capital of Jamaica?",
+    "options": [
+      "Bishkek",
+      "Kingston",
+      "Nassau",
+      "Bras?lia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jamaica has Kingston as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-096",
+    "question": "What is the capital of Jordan?",
+    "options": [
+      "Sofia",
+      "Tirana",
+      "Dhaka",
+      "Amman"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jordan has Amman as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-097",
+    "question": "What is the capital of Kazakhstan?",
+    "options": [
+      "Bridgetown",
+      "Algiers",
+      "Astana",
+      "Ouagadougou"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kazakhstan has Astana as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-098",
+    "question": "What is the capital of Kenya?",
+    "options": [
+      "Andorra la Vella",
+      "Nairobi",
+      "Minsk",
+      "Gitega"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kenya has Nairobi as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "questionId": "general-099",
+    "question": "What is the capital of Kiribati?",
+    "options": [
+      "South Tarawa",
+      "Luanda",
+      "Brussels",
+      "Phnom Penh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kiribati has South Tarawa as its capital.",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "questionId": "general-100",
+    "question": "What is the capital of Kuwait?",
+    "options": [
+      "Yaound?",
+      "Saint John?s",
+      "Belmopan",
+      "Kuwait City"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kuwait has Kuwait City as its capital.",
+    "difficulty": "easy",
+    "points": 10
+  }
+]

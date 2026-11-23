@@ -1,0 +1,702 @@
+[
+  {
+    "wordId": "easy-001",
+    "word": "APPLE",
+    "hint": "A common fruit",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-002",
+    "word": "TIGER",
+    "hint": "A striped wild animal",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-003",
+    "word": "OCEAN",
+    "hint": "A huge body of salt water",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-004",
+    "word": "CHAIR",
+    "hint": "Something you sit on",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-005",
+    "word": "CLOUD",
+    "hint": "It floats in the sky",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-006",
+    "word": "BREAD",
+    "hint": "A common bakery food",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-007",
+    "word": "PLANT",
+    "hint": "A living thing that grows in soil",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-008",
+    "word": "TRAIN",
+    "hint": "A vehicle that runs on tracks",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-009",
+    "word": "LEMON",
+    "hint": "A yellow citrus fruit with a sour taste",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-010",
+    "word": "BRIDGE",
+    "hint": "A structure that lets people cross over water or a road",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-011",
+    "word": "GARDEN",
+    "hint": "A place where flowers or vegetables are grown",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-012",
+    "word": "POCKET",
+    "hint": "A small fabric pouch sewn into clothing",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-013",
+    "word": "CAMERA",
+    "hint": "A device used to take photographs",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-014",
+    "word": "PILLOW",
+    "hint": "A soft cushion used to support your head in bed",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-015",
+    "word": "PLANET",
+    "hint": "A large celestial body that orbits a star",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-016",
+    "word": "MARKET",
+    "hint": "A place where people buy and sell goods",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-017",
+    "word": "BOTTLE",
+    "hint": "A container with a narrow neck for holding liquid",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-018",
+    "word": "FOREST",
+    "hint": "A large area covered with trees",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-019",
+    "word": "BUTTON",
+    "hint": "A small fastener used to close clothing",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-020",
+    "word": "CASTLE",
+    "hint": "A fortified building where royalty might have lived",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-021",
+    "word": "KEYS",
+    "hint": "Complete the quiz clue: Which instrument typically has 88 _____?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-022",
+    "word": "PIANO",
+    "hint": "Answer the quiz clue: Which instrument typically has 88 keys?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-023",
+    "word": "CGI",
+    "hint": "Complete the quiz clue: What does _____ stand for in filmmaking?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-024",
+    "word": "STAND",
+    "hint": "Complete the quiz clue: What does CGI _____ for in filmmaking?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-025",
+    "word": "ART",
+    "hint": "Complete the quiz clue: Which _____ form is traditionally associated with a stage and live actors?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-026",
+    "word": "FORM",
+    "hint": "Complete the quiz clue: Which art _____ is traditionally associated with a stage and live actors?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-027",
+    "word": "STAGE",
+    "hint": "Complete the quiz clue: Which art form is traditionally associated with a _____ and live actors?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-028",
+    "word": "LIVE",
+    "hint": "Complete the quiz clue: Which art form is traditionally associated with a stage and _____ actors?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-029",
+    "word": "ACTORS",
+    "hint": "Complete the quiz clue: Which art form is traditionally associated with a stage and live _____?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-030",
+    "word": "FAMILY",
+    "hint": "Complete the quiz clue: Which instrument belongs to the woodwind _____?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-031",
+    "word": "FLUTE",
+    "hint": "Answer the quiz clue: Which instrument belongs to the woodwind family?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-032",
+    "word": "FILM",
+    "hint": "Answer the quiz clue: What is a screenplay primarily written for?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-033",
+    "word": "VIOLIN",
+    "hint": "Complete the quiz clue: How many strings does a standard _____ have?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-034",
+    "word": "FOUR",
+    "hint": "Answer the quiz clue: How many strings does a standard violin have?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-035",
+    "word": "LOUIS",
+    "hint": "Complete the quiz clue: Which instrument is associated with _____ Armstrong?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-036",
+    "word": "BOOK",
+    "hint": "Complete the quiz clue: What is the name for a _____ about a person's own life, written by that person?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-037",
+    "word": "OWN",
+    "hint": "Complete the quiz clue: What is the name for a book about a person's _____ life, written by that person?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-038",
+    "word": "LIFE",
+    "hint": "Complete the quiz clue: What is the name for a book about a person's own _____, written by that person?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-039",
+    "word": "DANCE",
+    "hint": "Complete the quiz clue: Which _____ style is closely associated with Argentina?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-040",
+    "word": "STYLE",
+    "hint": "Complete the quiz clue: Which dance _____ is closely associated with Argentina?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-041",
+    "word": "TANGO",
+    "hint": "Answer the quiz clue: Which dance style is closely associated with Argentina?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-042",
+    "word": "PAPER",
+    "hint": "Complete the quiz clue: What is the traditional Japanese art of _____ folding called?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-043",
+    "word": "CALLED",
+    "hint": "Complete the quiz clue: What is the traditional Japanese art of paper folding _____?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-044",
+    "word": "CELLO",
+    "hint": "Complete the quiz clue: Which family of instruments includes the _____?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-045",
+    "word": "STRING",
+    "hint": "Answer the quiz clue: Which family of instruments includes the cello?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-046",
+    "word": "AMOUNT",
+    "hint": "Answer the quiz clue: In photography, what does a camera's aperture control?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-047",
+    "word": "LIGHT",
+    "hint": "Answer the quiz clue: In photography, what does a camera's aperture control?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-048",
+    "word": "LENS",
+    "hint": "Answer the quiz clue: In photography, what does a camera's aperture control?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-049",
+    "word": "CLAUDE",
+    "hint": "Complete the quiz clue: Which art movement is associated with _____ Monet?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-050",
+    "word": "MONET",
+    "hint": "Complete the quiz clue: Which art movement is associated with Claude _____?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-051",
+    "word": "WORDS",
+    "hint": "Complete the quiz clue: What is the name for the _____ sung in a song?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-052",
+    "word": "SUNG",
+    "hint": "Complete the quiz clue: What is the name for the words _____ in a song?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-053",
+    "word": "SONG",
+    "hint": "Complete the quiz clue: What is the name for the words sung in a _____?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-054",
+    "word": "LYRICS",
+    "hint": "Answer the quiz clue: What is the name for the words sung in a song?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-055",
+    "word": "PLAYED",
+    "hint": "Complete the quiz clue: Which instrument is _____ using a bow?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-056",
+    "word": "BOW",
+    "hint": "Complete the quiz clue: Which instrument is played using a _____?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-057",
+    "word": "OBOE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-058",
+    "word": "BELONG",
+    "hint": "Complete the quiz clue: Which instrument family does the oboe _____ to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-059",
+    "word": "BASS",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ clarinet belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-060",
+    "word": "HORN",
+    "hint": "Complete the quiz clue: Which instrument family does the English _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-061",
+    "word": "TENOR",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ saxophone belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-062",
+    "word": "ALTO",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ flute belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-063",
+    "word": "TIN",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ whistle belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-064",
+    "word": "FRENCH",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ horn belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-065",
+    "word": "BRASS",
+    "hint": "Answer the quiz clue: Which instrument family does the French horn belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-066",
+    "word": "TUBA",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-067",
+    "word": "CORNET",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-068",
+    "word": "BUGLE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-069",
+    "word": "WAGNER",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ tuba belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-070",
+    "word": "POST",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ horn belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-071",
+    "word": "VIOLA",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-072",
+    "word": "DOUBLE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ bass belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-073",
+    "word": "HARP",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-074",
+    "word": "BANJO",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-075",
+    "word": "LUTE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-076",
+    "word": "SITAR",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-077",
+    "word": "OUD",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-078",
+    "word": "ZITHER",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-079",
+    "word": "GUITAR",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-080",
+    "word": "ERHU",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-081",
+    "word": "KOTO",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-082",
+    "word": "LYRE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-083",
+    "word": "SAROD",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-084",
+    "word": "GUQIN",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-085",
+    "word": "REBEC",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-086",
+    "word": "GAMBA",
+    "hint": "Complete the quiz clue: Which instrument family does the viola da _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-087",
+    "word": "LAP",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ steel guitar belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-088",
+    "word": "STEEL",
+    "hint": "Complete the quiz clue: Which instrument family does the lap _____ guitar belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-089",
+    "word": "ORGAN",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-090",
+    "word": "PIPE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ organ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-091",
+    "word": "TOY",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ piano belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-092",
+    "word": "WATER",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ organ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-093",
+    "word": "SNARE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ drum belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-094",
+    "word": "DRUM",
+    "hint": "Complete the quiz clue: Which instrument family does the snare _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-095",
+    "word": "CAJON",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-096",
+    "word": "DJEMBE",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-097",
+    "word": "CONGA",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-098",
+    "word": "BONGOS",
+    "hint": "Complete the quiz clue: Which instrument family does the _____ belong to?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-099",
+    "word": "JAPAN",
+    "hint": "Complete the quiz clue: What is the capital of _____?",
+    "difficulty": "easy",
+    "points": 10
+  },
+  {
+    "wordId": "easy-100",
+    "word": "TOKYO",
+    "hint": "Answer the quiz clue: What is the capital of Japan?",
+    "difficulty": "easy",
+    "points": 10
+  }
+]

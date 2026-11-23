@@ -1,0 +1,361 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* =========================================
+   GLOBAL RESET
+========================================= */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: "Inter", sans-serif;
+  background: var(--bg-primary, #0b1020);
+  color: var(--text-primary, #f8fafc);
+  transition:
+    background-color 0.25s ease,
+    color 0.25s ease;
+}
+
+body,
+button,
+input,
+textarea,
+select {
+  font-family: "Inter", sans-serif;
+}
+
+button,
+input,
+textarea,
+select {
+  font-size: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+img,
+svg,
+video,
+canvas {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+}
+
+::selection {
+  color: #ffffff;
+  background: #6366f1;
+}
+
+/* =========================================
+   DEFAULT THEME VARIABLES
+========================================= */
+
+:root {
+  color-scheme: dark;
+
+  --bg-primary: #0b1020;
+  --bg-secondary: #11182b;
+  --bg-tertiary: #182238;
+
+  --surface-primary: #11182b;
+  --surface-secondary: #182238;
+  --surface-hover: #202c45;
+
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+
+  --border-color: rgba(148, 163, 184, 0.16);
+
+  --primary: #6366f1;
+  --primary-hover: #4f46e5;
+  --secondary: #a855f7;
+  --accent: #06b6d4;
+
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+
+  --card-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+
+  --radius-sm: 0.375rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+}
+
+/* =========================================
+   LIGHT THEME FALLBACK
+========================================= */
+
+:root[data-theme="light"] {
+  color-scheme: light;
+
+  --bg-primary: #f8fafc;
+  --bg-secondary: #ffffff;
+  --bg-tertiary: #e2e8f0;
+
+  --surface-primary: #ffffff;
+  --surface-secondary: #f1f5f9;
+  --surface-hover: #e2e8f0;
+
+  --text-primary: #0f172a;
+  --text-secondary: #334155;
+  --text-muted: #64748b;
+
+  --border-color: rgba(15, 23, 42, 0.12);
+
+  --card-shadow: 0 8px 30px rgba(15, 23, 42, 0.08);
+}
+
+/* =========================================
+   SCROLLBAR
+========================================= */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6366f1;
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #475569 var(--bg-secondary);
+}
+
+/* =========================================
+   FORM ELEMENTS
+========================================= */
+
+input,
+textarea,
+select {
+  color: var(--text-primary);
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--text-muted);
+  opacity: 1;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 3px;
+}
+
+/* =========================================
+   REUSABLE COMPONENT CLASSES
+========================================= */
+
+@layer components {
+  .page-container {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-title {
+    @apply text-xl font-bold tracking-tight sm:text-2xl;
+    color: var(--text-primary);
+    font-family: "Poppins", sans-serif;
+  }
+
+  .section-description {
+    color: var(--text-muted);
+    @apply mt-2 text-sm leading-6;
+  }
+
+  .glass-card {
+    background: color-mix(
+      in srgb,
+      var(--surface-primary) 82%,
+      transparent
+    );
+    border: 1px solid var(--border-color);
+    backdrop-filter: blur(16px);
+    @apply rounded-2xl;
+  }
+
+  .game-card {
+    background: var(--surface-primary);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--card-shadow);
+    @apply rounded-2xl transition-all duration-300;
+  }
+
+  .game-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--primary);
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 bg-clip-text text-transparent;
+  }
+
+  .primary-button {
+    background: linear-gradient(135deg, #6366f1, #a855f7);
+    @apply rounded-xl px-5 py-3 font-semibold text-white transition-all duration-200;
+  }
+
+  .primary-button:hover {
+    filter: brightness(1.1);
+    transform: translateY(-1px);
+  }
+
+  .primary-button:disabled {
+    @apply cursor-not-allowed opacity-50;
+    transform: none;
+  }
+
+  .icon-button {
+    background: var(--surface-secondary);
+    color: var(--text-secondary);
+    border: 1px solid var(--border-color);
+    @apply inline-flex items-center justify-center rounded-xl transition-colors;
+  }
+
+  .icon-button:hover {
+    background: var(--surface-hover);
+    color: var(--text-primary);
+  }
+}
+
+/* =========================================
+   ANIMATIONS
+========================================= */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out both;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.35s ease-out both;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* =========================================
+   ACCESSIBILITY
+========================================= */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 640px) {
+  body {
+    font-size: 14px;
+  }
+
+  ::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+  }
+}
