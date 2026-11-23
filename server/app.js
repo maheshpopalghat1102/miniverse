@@ -109,7 +109,25 @@ app.get("/health", (req, res) => {
     timestamp: new Date().toISOString(),
   });
 });
+// ==========================================
+// ROOT ROUTE - RENDER
+// ==========================================
 
+app.get("/", (req, res) => {
+  res.status(200).json({
+    success: true,
+    name: "MiniVerse",
+    message: "MiniVerse Backend is running successfully 🚀",
+    status: "OK",
+    environment: process.env.NODE_ENV || "development",
+    timestamp: new Date().toISOString(),
+  });
+});
+
+// Explicit HEAD request support
+app.head("/", (req, res) => {
+  res.status(200).end();
+});
 // ==========================================
 // API ROOT
 // ==========================================
